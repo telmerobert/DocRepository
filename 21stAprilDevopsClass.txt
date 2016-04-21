@@ -1,0 +1,51 @@
+Today takeway:
+--------------
+Creating new github repository
+
+Step1: go to github.com  -> select create new repository 
+will create new repository 
+
+step2: 
+select the url either https or ssh key
+
+if you select https option: url would be: git clone https://gihub.com/username/repository/.git
+
+if you select ssh option: url would be: git clone git@github.com:/username/repository/.git
+
+
+got to cloud terminal:
+
+create new directory and git clone command.
+update the code and git push
+
+If it is in GitHub windows:
+download the githubdesktop client and install it.
+
+once you install the github then clone the github repository and github data will come to your
+local machine
+update the files you would like it and commit the code and make pull request which is at 
+right top corner
+
+once you pull the request, your request will go to other team member and he will merge the 
+request after that your changes will be in the github repository.
+
+port number:
+http:80
+https:443
+ssh:22
+
+Creating key using ssh-keygen:
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+then it will create a two keys under /username/.ssh/id_rsa and id_rsa.pub files 
+
+id_rsa is private file and is_rsa.pub is public file you will copy the content of this file
+in github repository settings which is in top right corner.
+once you are in settings then go to ssh keys and add ssh key, give some name and copy the content
+from the id_rsa and paste it here.
+
+now you go to the terminal if you git clone it will allow you to clone the project using your
+credentials.
+
+
+
+ 
