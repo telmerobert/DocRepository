@@ -1,0 +1,23 @@
+1) Creating files using touch and vi 
+2) creating directory using mkdir, changing directory cd
+3) change owner to root: sudo -i
+4) change owner to otheruser: su - tomcat(username)
+5) Editors: vi, vim, nano
+6) File permissions: chmod 755 filename or directoryname 
+7) Creating the user: useradd 
+8) Creating the group: groupadd
+9) changing the owner and group : chown username:username filename.txt
+10) installing the software is not allowed from other, have to use 
+sudo before any command:
+
+sudo yum install git/any other software
+
+11) giving adming permissions to any user: visudo and add the user name 
+12) to see the users: cat /etc/passwd
+13) to see the groups: cat /etc/group
+
+
+
+
+
+
