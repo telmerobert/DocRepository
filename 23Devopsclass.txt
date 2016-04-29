@@ -1,230 +1,230 @@
-Git/GitHub
-------------
-Windows:
------------
-1)login to GitHub.com 
-2)Creating Repository in GitHub, by clicking the new repository or +
-3)http://git-scm.com/downloads/win
-4)it will download git client
-5)double click the git client exe and install the software
-5)Once installation is done, you will see gitbash icon
-on your desktop.
-6)you can create new repository or git clone the github repository
-
-GitHub:
-------
-1) Download GitHubwindows 
-2) install the GitHubWindows, but git shell 
-3) select the clone button and to clone the repository.
-
-
- 
-login as: ec2-user
-Authenticating with public key "imported-openssh-key"
-Last login: Sat Apr 23 03:30:29 2016 from 202.65.136.4
-[ec2-user@ip-172-31-18-99 ~]$ git clone git@github.com:telmerobert/Provisioning.                 git
-Cloning into 'Provisioning'...
-The authenticity of host 'github.com (192.30.252.128)' can't be established.
-RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
-Are you sure you want to continue connecting (yes/no)? yes
-Warning: Permanently added 'github.com,192.30.252.128' (RSA) to the list of know                 n hosts.
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-[ec2-user@ip-172-31-18-99 ~]$ ls -la
-total 20
-drwx------. 5 ec2-user ec2-user 4096 Apr 23 06:34 .
-drwxr-xr-x. 3 root     root       21 Apr 16 09:27 ..
--rw-------. 1 ec2-user ec2-user  214 Apr 23 05:52 .bash_history
--rw-r--r--. 1 ec2-user ec2-user   18 Jul  8  2015 .bash_logout
--rw-r--r--. 1 ec2-user ec2-user  193 Jul  8  2015 .bash_profile
--rw-r--r--. 1 ec2-user ec2-user  231 Jul  8  2015 .bashrc
-drwxrw----. 3 ec2-user ec2-user   18 Apr 18 13:58 .pki
-drwx------. 2 ec2-user ec2-user   46 Apr 23 06:34 .ssh
-drwxrwxr-x. 3 ec2-user ec2-user   77 Apr 18 14:00 test
-[ec2-user@ip-172-31-18-99 ~]$ cd .ssh
-[ec2-user@ip-172-31-18-99 .ssh]$ ls
-authorized_keys  known_hosts
-[ec2-user@ip-172-31-18-99 .ssh]$ ls -la
-total 12
-drwx------. 2 ec2-user ec2-user   46 Apr 23 06:34 .
-drwx------. 5 ec2-user ec2-user 4096 Apr 23 06:34 ..
--rw-------. 1 ec2-user ec2-user  388 Apr 16 09:27 authorized_keys
--rw-r--r--. 1 ec2-user ec2-user  407 Apr 23 06:34 known_hosts
-[ec2-user@ip-172-31-18-99 .ssh]$
-[ec2-user@ip-172-31-18-99 .ssh]$ drwx------. 2 ec2-user ec2-user   46 Apr 23 06:                 34 .ssh
--bash: drwx------.: command not found
-[ec2-user@ip-172-31-18-99 .ssh]$ ssh-keygen -t rsa -b 4096 -C "telmeobret@gmail.                 com"
-Generating public/private rsa key pair.
-Enter file in which to save the key (/home/ec2-user/.ssh/id_rsa):
-Enter passphrase (empty for no passphrase):
-Enter same passphrase again:
-Your identification has been saved in /home/ec2-user/.ssh/id_rsa.
-Your public key has been saved in /home/ec2-user/.ssh/id_rsa.pub.
-The key fingerprint is:
-13:1c:aa:77:1f:0e:91:5c:f5:98:a4:67:bb:01:8f:37 telmeobret@gmail.com
-The key's randomart image is:
-+--[ RSA 4096]----+
-|        . ..o    |
-|       + + o +   |
-|      . * o = .  |
-|     .   o * .   |
-|    . . S o E    |
-|     . . = o +   |
-|          o .    |
-|                 |
-|                 |
-+-----------------+
-[ec2-user@ip-172-31-18-99 .ssh]$ ls
-authorized_keys  id_rsa  id_rsa.pub  known_hosts
-[ec2-user@ip-172-31-18-99 .ssh]$ cat id_rsa.pub
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCvwam1vpY6FUnMgc2r+Q+pvJ14YfKvTkwAj1rKrLfZ                 rGL3pfGnpvAVOVhYFKeDy9E4S7hdWjx3pnNWFezdwsNXi5hwvtVdmRGsvTbFNBCHdK+b2hIP1B2Vm52E                 BxLBkdfX8T/bVgciw1rPS/JehwrdKGsx+IObCoz6cFE9Vstm566aVuQZpFWEM7p8VFcpIZTSMkDFtQRC                 hWgQAlofQprBUPJbOmF/P2CsTw5ppVTq6ZsHRE5uDZDIPD1/bMqpgJIiu+WUuuyWHW4e4U8WUSu6Lbag                 TR6WR6XR//zE2bw7IEbySa6se2F4pKfntVyP55BLKvovZHZs7TTHSQZlxHnhAiqTr/FlOfvSm/cdyj46                 gs1MuTuBTrMHoGu1wkwFDB61x1koVaXobEsdZRtdhHY2kiJQ5YhFaDnYW+bQ3wPPQvljYB5MtUkBXMcK                 2HK+fWS75Su61T08+lKWGx9FY74thJii+aH0NtoPycP1K0Aa7iWx8xa1cwHVs3ChSNItnjzIoNrGbqBe                 IL17+PrjB2oxPOKm6izYFosdGld5at1HMMv+gCXnqXKDEx7Azl947WqJiar6Jr+hsyY9A5excPsgUeqf                 xaQZLAECj5gLM/esLPLkPFKiKQZXxI33YTiDE1HTsrIYnoBgrDss7hoNPKR/7tfAGRYwwqg0kg3csZ+T                 eQ== telmeobret@gmail.com
-[ec2-user@ip-172-31-18-99 .ssh]$ ls
-authorized_keys  id_rsa  id_rsa.pub  known_hosts
-[ec2-user@ip-172-31-18-99 .ssh]$ cat known_hosts
-github.com,192.30.252.128 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9                 IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGE                 YsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8x                 hHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RK                 rTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUF                 FAaQ==
-[ec2-user@ip-172-31-18-99 .ssh]$ cat id_rsa.pub
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCvwam1vpY6FUnMgc2r+Q+pvJ14YfKvTkwAj1rKrLfZ                 rGL3pfGnpvAVOVhYFKeDy9E4S7hdWjx3pnNWFezdwsNXi5hwvtVdmRGsvTbFNBCHdK+b2hIP1B2Vm52E                 BxLBkdfX8T/bVgciw1rPS/JehwrdKGsx+IObCoz6cFE9Vstm566aVuQZpFWEM7p8VFcpIZTSMkDFtQRC                 hWgQAlofQprBUPJbOmF/P2CsTw5ppVTq6ZsHRE5uDZDIPD1/bMqpgJIiu+WUuuyWHW4e4U8WUSu6Lbag                 TR6WR6XR//zE2bw7IEbySa6se2F4pKfntVyP55BLKvovZHZs7TTHSQZlxHnhAiqTr/FlOfvSm/cdyj46                 gs1MuTuBTrMHoGu1wkwFDB61x1koVaXobEsdZRtdhHY2kiJQ5YhFaDnYW+bQ3wPPQvljYB5MtUkBXMcK                 2HK+fWS75Su61T08+lKWGx9FY74thJii+aH0NtoPycP1K0Aa7iWx8xa1cwHVs3ChSNItnjzIoNrGbqBe                 IL17+PrjB2oxPOKm6izYFosdGld5at1HMMv+gCXnqXKDEx7Azl947WqJiar6Jr+hsyY9A5excPsgUeqf                 xaQZLAECj5gLM/esLPLkPFKiKQZXxI33YTiDE1HTsrIYnoBgrDss7hoNPKR/7tfAGRYwwqg0kg3csZ+T                 eQ== telmeobret@gmail.com
-[ec2-user@ip-172-31-18-99 .ssh]$ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCvwam1vpY                 6FUnMgc2r+Q+pvJ14YfKvTkwAj1rKrLfZrGL3pfGnpvAVOVhYFKeDy9E4S7hdWjx3pnNWFezdwsNXi5h                 wvtVdmRGsvTbFNBCHdK+b2hIP1B2Vm52EBxLBkdfX8T/bVgciw1rPS/JehwrdKGsx+IObCoz6cFE9Vst                 m566aVuQZpFWEM7p8VFcpIZTSMkDFtQRChWgQAlofQprBUPJbOmF/P2CsTw5ppVTq6ZsHRE5uDZDIPD1                 /bMqpgJIiu+WUuuyWHW4e4U8WUSu6LbagTR6WR6XR//zE2bw7IEbySa6se2F4pKfntVyP55BLKvovZHZ                 s7TTHSQZlxHnhAiqTr/FlOfvSm/cdyj46gs1MuTuBTrMHoGu1wkwFDB61x1koVaXobEsdZRtdhHY2kiJ                 Q5YhFaDnYW+bQ3wPPQvljYB5MtUkBXMcK2HK+fWS75Su61T08+lKWGx9FY74thJii+aH0NtoPycP1K0A                 a7iWx8xa1cwHVs3ChSNItnjzIoNrGbqBeIL17+PrjB2oxPOKm6izYFosdGld5at1HMMv+gCXnqXKDEx7                 Azl947WqJiar6Jr+hsyY9A5excPsgUeqfxaQZLAECj5gLM/esLPLkPFKiKQZXxI33YTiDE1HTsrIYnoB                 grDss7hoNPKR/7tfAGRYwwqg0kg3csZ+TeQ== telmeobret@gmail.com
--bash: ssh-rsa: command not found
-[ec2-user@ip-172-31-18-99 .ssh]$ sudo -i
-[root@ip-172-31-18-99 ~]# cd /root
-[root@ip-172-31-18-99 ~]# ls
-anaconda-ks.cfg  test
-[root@ip-172-31-18-99 ~]# ls -la
-total 44
-dr-xr-x---.  5 root root 4096 Apr 18 05:24 .
-dr-xr-xr-x. 18 root root 4096 Apr 18 14:02 ..
--rw-------.  1 root root 9944 Nov  9 20:39 anaconda-ks.cfg
--rw-------.  1 root root  786 Apr 23 05:52 .bash_history
--rw-r--r--.  1 root root   18 Dec 28  2013 .bash_logout
--rw-r--r--.  1 root root  176 Dec 28  2013 .bash_profile
--rw-r--r--.  1 root root  176 Dec 28  2013 .bashrc
--rw-r--r--.  1 root root  100 Dec 28  2013 .cshrc
-drwxr-----.  3 root root   18 Apr 18 03:10 .pki
-drwx------.  2 root root   76 Apr 18 14:03 .ssh
--rw-r--r--.  1 root root  129 Dec 28  2013 .tcshrc
-drwxr-xr-x.  3 root root   45 Apr 18 03:11 test
-[root@ip-172-31-18-99 ~]# cd .ssh
-[root@ip-172-31-18-99 .ssh]# ls
-authorized_keys  id_rsa  id_rsa.pub  known_hosts
-[root@ip-172-31-18-99 .ssh]# cat id_rsa.pub
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6Jrkegm6nxI5cACF7JQvDxCki3PWO/QSRn1S+z9cc                 RZDG3Ykkhtose0yC9mNFZ1/x5Cc4zdnPuz6yQNE7QoaplxlHnOaRu1/v3p8lvxYZk6g/nLwnU4c8PdWV                 /05bOE7CyG/vMB2qB3isGdkbjpbVj/CFTtJLRcysxIy19uYqLmNGu/Tmjc5QWIz81aMYxy9S9+6jB6YE                 PPPpp8kdUjw8j9UA4Y6BhlOQszYlJ69YxgbzS2kwK4D7Fx+OjKwvWPX2gdSuGjhK0dYc/cZTYKjaTvQ6                 xTtnPhKNyhLcUGUGKEii/V6IOdh/2dPFmjKVyNXfjn9SGLbVPhjXSykLsEFR root@ip-172-31-18-9                 9.us-west-2.compute.internal
-[root@ip-172-31-18-99 .ssh]# git clone git@github.com:telmerobert/Provisioning.g                 it
-Cloning into 'Provisioning'...
-Warning: Permanently added the RSA host key for IP address '192.30.252.123' to t                 he list of known hosts.
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-[root@ip-172-31-18-99 .ssh]# su - ec2-user
-Last login: Sat Apr 23 06:33:35 EDT 2016 from 183.82.115.14 on pts/0
-[ec2-user@ip-172-31-18-99 ~]$ lc
--bash: lc: command not found
-[ec2-user@ip-172-31-18-99 ~]$ ssh -T git@github.com
-Warning: Permanently added the RSA host key for IP address '192.30.252.123' to t                 he list of known hosts.
-Hi telmerobert! You've successfully authenticated, but GitHub does not provide s                 hell access.
-[ec2-user@ip-172-31-18-99 ~]$ wget github.com
--bash: wget: command not found
-[ec2-user@ip-172-31-18-99 ~]$ yum install wget
-Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
-Repo rhui-REGION-client-config-server-7 forced skip_if_unavailable=True due to:                  /etc/pki/rhui/cdn.redhat.com-chain.crt
-Repo rhui-REGION-client-config-server-7 forced skip_if_unavailable=True due to:                  /etc/pki/rhui/product/rhui-client-config-server-7.crt
-Repo rhui-REGION-client-config-server-7 forced skip_if_unavailable=True due to:                  /etc/pki/rhui/rhui-client-config-server-7.key
-Repo rhui-REGION-rhel-server-releases forced skip_if_unavailable=True due to: /e                 tc/pki/rhui/cdn.redhat.com-chain.crt
-Repo rhui-REGION-rhel-server-releases forced skip_if_unavailable=True due to: /e                 tc/pki/rhui/product/content-rhel7.crt
-Repo rhui-REGION-rhel-server-releases forced skip_if_unavailable=True due to: /e                 tc/pki/rhui/content-rhel7.key
-Repo rhui-REGION-rhel-server-rh-common forced skip_if_unavailable=True due to: /                 etc/pki/rhui/cdn.redhat.com-chain.crt
-Repo rhui-REGION-rhel-server-rh-common forced skip_if_unavailable=True due to: /                 etc/pki/rhui/product/content-rhel7.crt
-Repo rhui-REGION-rhel-server-rh-common forced skip_if_unavailable=True due to: /                 etc/pki/rhui/content-rhel7.key
-You need to be root to perform this command.
-[ec2-user@ip-172-31-18-99 ~]$ sudo yum install wget
-Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
-rhui-REGION-client-config-server-7                       | 2.9 kB     00:00
-rhui-REGION-rhel-server-releases                         | 3.7 kB     00:00
-rhui-REGION-rhel-server-rh-common                        | 3.8 kB     00:00
-rhui-REGION-rhel-server-releases/7Server/x86_64/primary_db |  20 MB   00:01
-rhui-REGION-rhel-server-releases/7Server/x86_64/updateinfo | 1.1 MB   00:00
-Resolving Dependencies
---> Running transaction check
----> Package wget.x86_64 0:1.14-10.el7_0.1 will be installed
---> Finished Dependency Resolution
-
-Dependencies Resolved
-
-================================================================================
- Package Arch      Version            Repository                           Size
-================================================================================
-Installing:
- wget    x86_64    1.14-10.el7_0.1    rhui-REGION-rhel-server-releases    546 k
-
-Transaction Summary
-================================================================================
-Install  1 Package
-
-Total download size: 546 k
-Installed size: 2.0 M
-Is this ok [y/d/N]: y
-Downloading packages:
-wget-1.14-10.el7_0.1.x86_64.rpm                            | 546 kB   00:00
-Running transaction check
-Running transaction test
-Transaction test succeeded
-Running transaction
-  Installing : wget-1.14-10.el7_0.1.x86_64                                  1/1
-  Verifying  : wget-1.14-10.el7_0.1.x86_64                                  1/1
-
-Installed:
-  wget.x86_64 0:1.14-10.el7_0.1
-
-Complete!
-[ec2-user@ip-172-31-18-99 ~]$ wget github.com
---2016-04-23 06:51:59--  http://github.com/
-Resolving github.com (github.com)... 192.30.252.123
-Connecting to github.com (github.com)|192.30.252.123|:80... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://github.com/ [following]
---2016-04-23 06:51:59--  https://github.com/
-Connecting to github.com (github.com)|192.30.252.123|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘index.html’
-
-    [ <=>                                   ] 25,081      --.-K/s   in 0.08s
-
-2016-04-23 06:51:59 (290 KB/s) - ‘index.html’ saved [25081]
-
-[ec2-user@ip-172-31-18-99 ~]$ wget gmail.com
---2016-04-23 06:52:04--  http://gmail.com/
-Resolving gmail.com (gmail.com)... 216.58.193.101, 2607:f8b0:400a:800::2005
-Connecting to gmail.com (gmail.com)|216.58.193.101|:80... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://mail.google.com/mail/ [following]
---2016-04-23 06:52:04--  https://mail.google.com/mail/
-Resolving mail.google.com (mail.google.com)... 216.58.193.69, 2607:f8b0:400a:803                 ::2005
-Connecting to mail.google.com (mail.google.com)|216.58.193.69|:443... connected.
-HTTP request sent, awaiting response... 302 Moved Temporarily
-Location: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=                 false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache                 =2&emr=1&osid=1 [following]
---2016-04-23 06:52:04--  https://accounts.google.com/ServiceLogin?service=mail&p                 assive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=def                 ault&ltmplcache=2&emr=1&osid=1
-Resolving accounts.google.com (accounts.google.com)... 172.217.2.109, 2607:f8b0:                 400a:804::200d
-Connecting to accounts.google.com (accounts.google.com)|172.217.2.109|:443... co                 nnected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘index.html.1’
-
-    [ <=>                                   ] 60,277      --.-K/s   in 0.02s
-
-2016-04-23 06:52:04 (3.30 MB/s) - ‘index.html.1’ saved [60277]
-
-[ec2-user@ip-172-31-18-99 ~]$ ls
-index.html  index.html.1  test
-[ec2-user@ip-172-31-18-99 ~]$ git clone git@github.com:telmerobert/Provisioning.                 git
-Cloning into 'Provisioning'...
-remote: Counting objects: 42, done.
-remote: Total 42 (delta 0), reused 0 (delta 0), pack-reused 42
-Receiving objects: 100% (42/42), 17.94 KiB | 0 bytes/s, done.
-Resolving deltas: 100% (6/6), done.
-[ec2-user@ip-172-31-18-99 ~]$
+   Git/GitHub
+   ------------
+   Windows:
+   -----------
+   1)login to GitHub.com 
+   2)Creating Repository in GitHub, by clicking the new repository or +
+   3)http://git-scm.com/downloads/win
+   4)it will download git client
+   5)double click the git client exe and install the software
+   5)Once installation is done, you will see gitbash icon
+   on your desktop.
+   6)you can create new repository or git clone the github repository
+   
+   GitHub:
+   ------
+   1) Download GitHubwindows 
+   2) install the GitHubWindows, but git shell 
+   3) select the clone button and to clone the repository.
+   
+   
+    
+   login as: ec2-user
+   Authenticating with public key "imported-openssh-key"
+   Last login: Sat Apr 23 03:30:29 2016 from 202.65.136.4
+   [ec2-user@ip-172-31-18-99 ~]$ git clone git@github.com:telmerobert/Provisioning.                 git
+   Cloning into 'Provisioning'...
+   The authenticity of host 'github.com (192.30.252.128)' can't be established.
+   RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
+   Are you sure you want to continue connecting (yes/no)? yes
+   Warning: Permanently added 'github.com,192.30.252.128' (RSA) to the list of know                 n hosts.
+   Permission denied (publickey).
+   fatal: Could not read from remote repository.
+   
+   Please make sure you have the correct access rights
+   and the repository exists.
+   [ec2-user@ip-172-31-18-99 ~]$ ls -la
+   total 20
+   drwx------. 5 ec2-user ec2-user 4096 Apr 23 06:34 .
+   drwxr-xr-x. 3 root     root       21 Apr 16 09:27 ..
+   -rw-------. 1 ec2-user ec2-user  214 Apr 23 05:52 .bash_history
+   -rw-r--r--. 1 ec2-user ec2-user   18 Jul  8  2015 .bash_logout
+   -rw-r--r--. 1 ec2-user ec2-user  193 Jul  8  2015 .bash_profile
+   -rw-r--r--. 1 ec2-user ec2-user  231 Jul  8  2015 .bashrc
+   drwxrw----. 3 ec2-user ec2-user   18 Apr 18 13:58 .pki
+   drwx------. 2 ec2-user ec2-user   46 Apr 23 06:34 .ssh
+   drwxrwxr-x. 3 ec2-user ec2-user   77 Apr 18 14:00 test
+   [ec2-user@ip-172-31-18-99 ~]$ cd .ssh
+   [ec2-user@ip-172-31-18-99 .ssh]$ ls
+   authorized_keys  known_hosts
+   [ec2-user@ip-172-31-18-99 .ssh]$ ls -la
+   total 12
+   drwx------. 2 ec2-user ec2-user   46 Apr 23 06:34 .
+   drwx------. 5 ec2-user ec2-user 4096 Apr 23 06:34 ..
+   -rw-------. 1 ec2-user ec2-user  388 Apr 16 09:27 authorized_keys
+   -rw-r--r--. 1 ec2-user ec2-user  407 Apr 23 06:34 known_hosts
+   [ec2-user@ip-172-31-18-99 .ssh]$
+   [ec2-user@ip-172-31-18-99 .ssh]$ drwx------. 2 ec2-user ec2-user   46 Apr 23 06:                 34 .ssh
+   -bash: drwx------.: command not found
+   [ec2-user@ip-172-31-18-99 .ssh]$ ssh-keygen -t rsa -b 4096 -C "telmeobret@gmail.                 com"
+   Generating public/private rsa key pair.
+   Enter file in which to save the key (/home/ec2-user/.ssh/id_rsa):
+   Enter passphrase (empty for no passphrase):
+   Enter same passphrase again:
+   Your identification has been saved in /home/ec2-user/.ssh/id_rsa.
+   Your public key has been saved in /home/ec2-user/.ssh/id_rsa.pub.
+   The key fingerprint is:
+   13:1c:aa:77:1f:0e:91:5c:f5:98:a4:67:bb:01:8f:37 telmeobret@gmail.com
+   The key's randomart image is:
+   +--[ RSA 4096]----+
+   |        . ..o    |
+   |       + + o +   |
+   |      . * o = .  |
+   |     .   o * .   |
+   |    . . S o E    |
+   |     . . = o +   |
+   |          o .    |
+   |                 |
+   |                 |
+   +-----------------+
+   [ec2-user@ip-172-31-18-99 .ssh]$ ls
+   authorized_keys  id_rsa  id_rsa.pub  known_hosts
+   [ec2-user@ip-172-31-18-99 .ssh]$ cat id_rsa.pub
+   ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCvwam1vpY6FUnMgc2r+Q+pvJ14YfKvTkwAj1rKrLfZ                 rGL3pfGnpvAVOVhYFKeDy9E4S7hdWjx3pnNWFezdwsNXi5hwvtVdmRGsvTbFNBCHdK+b2hIP1B2Vm52E                 BxLBkdfX8T/bVgciw1rPS/JehwrdKGsx+IObCoz6cFE9Vstm566aVuQZpFWEM7p8VFcpIZTSMkDFtQRC                 hWgQAlofQprBUPJbOmF/P2CsTw5ppVTq6ZsHRE5uDZDIPD1/bMqpgJIiu+WUuuyWHW4e4U8WUSu6Lbag                 TR6WR6XR//zE2bw7IEbySa6se2F4pKfntVyP55BLKvovZHZs7TTHSQZlxHnhAiqTr/FlOfvSm/cdyj46                 gs1MuTuBTrMHoGu1wkwFDB61x1koVaXobEsdZRtdhHY2kiJQ5YhFaDnYW+bQ3wPPQvljYB5MtUkBXMcK                 2HK+fWS75Su61T08+lKWGx9FY74thJii+aH0NtoPycP1K0Aa7iWx8xa1cwHVs3ChSNItnjzIoNrGbqBe                 IL17+PrjB2oxPOKm6izYFosdGld5at1HMMv+gCXnqXKDEx7Azl947WqJiar6Jr+hsyY9A5excPsgUeqf                 xaQZLAECj5gLM/esLPLkPFKiKQZXxI33YTiDE1HTsrIYnoBgrDss7hoNPKR/7tfAGRYwwqg0kg3csZ+T                 eQ== telmeobret@gmail.com
+   [ec2-user@ip-172-31-18-99 .ssh]$ ls
+   authorized_keys  id_rsa  id_rsa.pub  known_hosts
+   [ec2-user@ip-172-31-18-99 .ssh]$ cat known_hosts
+   github.com,192.30.252.128 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9                 IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGE                 YsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8x                 hHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RK                 rTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUF                 FAaQ==
+   [ec2-user@ip-172-31-18-99 .ssh]$ cat id_rsa.pub
+   ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCvwam1vpY6FUnMgc2r+Q+pvJ14YfKvTkwAj1rKrLfZ                 rGL3pfGnpvAVOVhYFKeDy9E4S7hdWjx3pnNWFezdwsNXi5hwvtVdmRGsvTbFNBCHdK+b2hIP1B2Vm52E                 BxLBkdfX8T/bVgciw1rPS/JehwrdKGsx+IObCoz6cFE9Vstm566aVuQZpFWEM7p8VFcpIZTSMkDFtQRC                 hWgQAlofQprBUPJbOmF/P2CsTw5ppVTq6ZsHRE5uDZDIPD1/bMqpgJIiu+WUuuyWHW4e4U8WUSu6Lbag                 TR6WR6XR//zE2bw7IEbySa6se2F4pKfntVyP55BLKvovZHZs7TTHSQZlxHnhAiqTr/FlOfvSm/cdyj46                 gs1MuTuBTrMHoGu1wkwFDB61x1koVaXobEsdZRtdhHY2kiJQ5YhFaDnYW+bQ3wPPQvljYB5MtUkBXMcK                 2HK+fWS75Su61T08+lKWGx9FY74thJii+aH0NtoPycP1K0Aa7iWx8xa1cwHVs3ChSNItnjzIoNrGbqBe                 IL17+PrjB2oxPOKm6izYFosdGld5at1HMMv+gCXnqXKDEx7Azl947WqJiar6Jr+hsyY9A5excPsgUeqf                 xaQZLAECj5gLM/esLPLkPFKiKQZXxI33YTiDE1HTsrIYnoBgrDss7hoNPKR/7tfAGRYwwqg0kg3csZ+T                 eQ== telmeobret@gmail.com
+   [ec2-user@ip-172-31-18-99 .ssh]$ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCvwam1vpY                 6FUnMgc2r+Q+pvJ14YfKvTkwAj1rKrLfZrGL3pfGnpvAVOVhYFKeDy9E4S7hdWjx3pnNWFezdwsNXi5h                 wvtVdmRGsvTbFNBCHdK+b2hIP1B2Vm52EBxLBkdfX8T/bVgciw1rPS/JehwrdKGsx+IObCoz6cFE9Vst                 m566aVuQZpFWEM7p8VFcpIZTSMkDFtQRChWgQAlofQprBUPJbOmF/P2CsTw5ppVTq6ZsHRE5uDZDIPD1                 /bMqpgJIiu+WUuuyWHW4e4U8WUSu6LbagTR6WR6XR//zE2bw7IEbySa6se2F4pKfntVyP55BLKvovZHZ                 s7TTHSQZlxHnhAiqTr/FlOfvSm/cdyj46gs1MuTuBTrMHoGu1wkwFDB61x1koVaXobEsdZRtdhHY2kiJ                 Q5YhFaDnYW+bQ3wPPQvljYB5MtUkBXMcK2HK+fWS75Su61T08+lKWGx9FY74thJii+aH0NtoPycP1K0A                 a7iWx8xa1cwHVs3ChSNItnjzIoNrGbqBeIL17+PrjB2oxPOKm6izYFosdGld5at1HMMv+gCXnqXKDEx7                 Azl947WqJiar6Jr+hsyY9A5excPsgUeqfxaQZLAECj5gLM/esLPLkPFKiKQZXxI33YTiDE1HTsrIYnoB                 grDss7hoNPKR/7tfAGRYwwqg0kg3csZ+TeQ== telmeobret@gmail.com
+   -bash: ssh-rsa: command not found
+   [ec2-user@ip-172-31-18-99 .ssh]$ sudo -i
+   [root@ip-172-31-18-99 ~]# cd /root
+   [root@ip-172-31-18-99 ~]# ls
+   anaconda-ks.cfg  test
+   [root@ip-172-31-18-99 ~]# ls -la
+   total 44
+   dr-xr-x---.  5 root root 4096 Apr 18 05:24 .
+   dr-xr-xr-x. 18 root root 4096 Apr 18 14:02 ..
+   -rw-------.  1 root root 9944 Nov  9 20:39 anaconda-ks.cfg
+   -rw-------.  1 root root  786 Apr 23 05:52 .bash_history
+   -rw-r--r--.  1 root root   18 Dec 28  2013 .bash_logout
+   -rw-r--r--.  1 root root  176 Dec 28  2013 .bash_profile
+   -rw-r--r--.  1 root root  176 Dec 28  2013 .bashrc
+   -rw-r--r--.  1 root root  100 Dec 28  2013 .cshrc
+   drwxr-----.  3 root root   18 Apr 18 03:10 .pki
+   drwx------.  2 root root   76 Apr 18 14:03 .ssh
+   -rw-r--r--.  1 root root  129 Dec 28  2013 .tcshrc
+   drwxr-xr-x.  3 root root   45 Apr 18 03:11 test
+   [root@ip-172-31-18-99 ~]# cd .ssh
+   [root@ip-172-31-18-99 .ssh]# ls
+   authorized_keys  id_rsa  id_rsa.pub  known_hosts
+   [root@ip-172-31-18-99 .ssh]# cat id_rsa.pub
+   ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6Jrkegm6nxI5cACF7JQvDxCki3PWO/QSRn1S+z9cc                 RZDG3Ykkhtose0yC9mNFZ1/x5Cc4zdnPuz6yQNE7QoaplxlHnOaRu1/v3p8lvxYZk6g/nLwnU4c8PdWV                 /05bOE7CyG/vMB2qB3isGdkbjpbVj/CFTtJLRcysxIy19uYqLmNGu/Tmjc5QWIz81aMYxy9S9+6jB6YE                 PPPpp8kdUjw8j9UA4Y6BhlOQszYlJ69YxgbzS2kwK4D7Fx+OjKwvWPX2gdSuGjhK0dYc/cZTYKjaTvQ6                 xTtnPhKNyhLcUGUGKEii/V6IOdh/2dPFmjKVyNXfjn9SGLbVPhjXSykLsEFR root@ip-172-31-18-9                 9.us-west-2.compute.internal
+   [root@ip-172-31-18-99 .ssh]# git clone git@github.com:telmerobert/Provisioning.g                 it
+   Cloning into 'Provisioning'...
+   Warning: Permanently added the RSA host key for IP address '192.30.252.123' to t                 he list of known hosts.
+   Permission denied (publickey).
+   fatal: Could not read from remote repository.
+   
+   Please make sure you have the correct access rights
+   and the repository exists.
+   [root@ip-172-31-18-99 .ssh]# su - ec2-user
+   Last login: Sat Apr 23 06:33:35 EDT 2016 from 183.82.115.14 on pts/0
+   [ec2-user@ip-172-31-18-99 ~]$ lc
+   -bash: lc: command not found
+   [ec2-user@ip-172-31-18-99 ~]$ ssh -T git@github.com
+   Warning: Permanently added the RSA host key for IP address '192.30.252.123' to t                 he list of known hosts.
+   Hi telmerobert! You've successfully authenticated, but GitHub does not provide s                 hell access.
+   [ec2-user@ip-172-31-18-99 ~]$ wget github.com
+   -bash: wget: command not found
+   [ec2-user@ip-172-31-18-99 ~]$ yum install wget
+   Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+   Repo rhui-REGION-client-config-server-7 forced skip_if_unavailable=True due to:                  /etc/pki/rhui/cdn.redhat.com-chain.crt
+   Repo rhui-REGION-client-config-server-7 forced skip_if_unavailable=True due to:                  /etc/pki/rhui/product/rhui-client-config-server-7.crt
+   Repo rhui-REGION-client-config-server-7 forced skip_if_unavailable=True due to:                  /etc/pki/rhui/rhui-client-config-server-7.key
+   Repo rhui-REGION-rhel-server-releases forced skip_if_unavailable=True due to: /e                 tc/pki/rhui/cdn.redhat.com-chain.crt
+   Repo rhui-REGION-rhel-server-releases forced skip_if_unavailable=True due to: /e                 tc/pki/rhui/product/content-rhel7.crt
+   Repo rhui-REGION-rhel-server-releases forced skip_if_unavailable=True due to: /e                 tc/pki/rhui/content-rhel7.key
+   Repo rhui-REGION-rhel-server-rh-common forced skip_if_unavailable=True due to: /                 etc/pki/rhui/cdn.redhat.com-chain.crt
+   Repo rhui-REGION-rhel-server-rh-common forced skip_if_unavailable=True due to: /                 etc/pki/rhui/product/content-rhel7.crt
+   Repo rhui-REGION-rhel-server-rh-common forced skip_if_unavailable=True due to: /                 etc/pki/rhui/content-rhel7.key
+   You need to be root to perform this command.
+   [ec2-user@ip-172-31-18-99 ~]$ sudo yum install wget
+   Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+   rhui-REGION-client-config-server-7                       | 2.9 kB     00:00
+   rhui-REGION-rhel-server-releases                         | 3.7 kB     00:00
+   rhui-REGION-rhel-server-rh-common                        | 3.8 kB     00:00
+   rhui-REGION-rhel-server-releases/7Server/x86_64/primary_db |  20 MB   00:01
+   rhui-REGION-rhel-server-releases/7Server/x86_64/updateinfo | 1.1 MB   00:00
+   Resolving Dependencies
+   --> Running transaction check
+   ---> Package wget.x86_64 0:1.14-10.el7_0.1 will be installed
+   --> Finished Dependency Resolution
+   
+   Dependencies Resolved
+   
+   ================================================================================
+    Package Arch      Version            Repository                           Size
+   ================================================================================
+   Installing:
+    wget    x86_64    1.14-10.el7_0.1    rhui-REGION-rhel-server-releases    546 k
+   
+   Transaction Summary
+   ================================================================================
+   Install  1 Package
+   
+   Total download size: 546 k
+   Installed size: 2.0 M
+   Is this ok [y/d/N]: y
+   Downloading packages:
+   wget-1.14-10.el7_0.1.x86_64.rpm                            | 546 kB   00:00
+   Running transaction check
+   Running transaction test
+   Transaction test succeeded
+   Running transaction
+     Installing : wget-1.14-10.el7_0.1.x86_64                                  1/1
+     Verifying  : wget-1.14-10.el7_0.1.x86_64                                  1/1
+   
+   Installed:
+     wget.x86_64 0:1.14-10.el7_0.1
+   
+   Complete!
+   [ec2-user@ip-172-31-18-99 ~]$ wget github.com
+   --2016-04-23 06:51:59--  http://github.com/
+   Resolving github.com (github.com)... 192.30.252.123
+   Connecting to github.com (github.com)|192.30.252.123|:80... connected.
+   HTTP request sent, awaiting response... 301 Moved Permanently
+   Location: https://github.com/ [following]
+   --2016-04-23 06:51:59--  https://github.com/
+   Connecting to github.com (github.com)|192.30.252.123|:443... connected.
+   HTTP request sent, awaiting response... 200 OK
+   Length: unspecified [text/html]
+   Saving to: Â‘index.htmlÂ’
+   
+       [ <=>                                   ] 25,081      --.-K/s   in 0.08s
+   
+   2016-04-23 06:51:59 (290 KB/s) - Â‘index.htmlÂ’ saved [25081]
+   
+   [ec2-user@ip-172-31-18-99 ~]$ wget gmail.com
+   --2016-04-23 06:52:04--  http://gmail.com/
+   Resolving gmail.com (gmail.com)... 216.58.193.101, 2607:f8b0:400a:800::2005
+   Connecting to gmail.com (gmail.com)|216.58.193.101|:80... connected.
+   HTTP request sent, awaiting response... 301 Moved Permanently
+   Location: https://mail.google.com/mail/ [following]
+   --2016-04-23 06:52:04--  https://mail.google.com/mail/
+   Resolving mail.google.com (mail.google.com)... 216.58.193.69, 2607:f8b0:400a:803                 ::2005
+   Connecting to mail.google.com (mail.google.com)|216.58.193.69|:443... connected.
+   HTTP request sent, awaiting response... 302 Moved Temporarily
+   Location: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=                 false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache                 =2&emr=1&osid=1 [following]
+   --2016-04-23 06:52:04--  https://accounts.google.com/ServiceLogin?service=mail&p                 assive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=def                 ault&ltmplcache=2&emr=1&osid=1
+   Resolving accounts.google.com (accounts.google.com)... 172.217.2.109, 2607:f8b0:                 400a:804::200d
+   Connecting to accounts.google.com (accounts.google.com)|172.217.2.109|:443... co                 nnected.
+   HTTP request sent, awaiting response... 200 OK
+   Length: unspecified [text/html]
+   Saving to: Â‘index.html.1Â’
+   
+       [ <=>                                   ] 60,277      --.-K/s   in 0.02s
+   
+   2016-04-23 06:52:04 (3.30 MB/s) - Â‘index.html.1Â’ saved [60277]
+   
+   [ec2-user@ip-172-31-18-99 ~]$ ls
+   index.html  index.html.1  test
+   [ec2-user@ip-172-31-18-99 ~]$ git clone git@github.com:telmerobert/Provisioning.                 git
+   Cloning into 'Provisioning'...
+   remote: Counting objects: 42, done.
+   remote: Total 42 (delta 0), reused 0 (delta 0), pack-reused 42
+   Receiving objects: 100% (42/42), 17.94 KiB | 0 bytes/s, done.
+   Resolving deltas: 100% (6/6), done.
+   [ec2-user@ip-172-31-18-99 ~]$
