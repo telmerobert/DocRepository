@@ -1,0 +1,133 @@
+[root@ip-172-31-32-52 conf]# history
+    1  find / -name javac
+    2  java --version
+    3  java
+    4  java -version
+    5  java
+    6  sudo yum install java-1.6.0-openjdk-devel
+    7  javac
+    8  pwd
+    9  fcd /usr//home
+   10  cd /home
+   11  ls
+   12  cd my-app
+   13  mvn compile
+   14  mvn
+   15  echo #
+   16  echo $M2_HOME
+   17  java -versioin
+   18  java -version
+   19  export M2_HOME=/usr/local/maven
+   20  export PATH=$PATH:$M2_HOME/bin
+   21  mvn
+   22  mvn clean
+   23  mvn compile
+   24  find / -name javac
+   25  export JAVA_HOME=/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.38.x86_64
+   26  export PATH=$JAVA_HOME/bin:$PATH
+   27  javac
+   28  java
+   29  mvn compile
+   30  ls
+   31  cd target
+   32  ld
+   33  ls
+   34  cd classes
+   35  ls
+   36  cd com
+   37  ls
+   38  cd mycompany/app/
+   39  ls
+   40  pwd
+   41  ls
+   42  java App.class
+   43  java App
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd src
+   48  ls
+   49  cd main
+   50  cd
+   51  cd /home/my-app/com
+   52  cd /home/my-app
+   53  ls
+   54  cd src
+   55  ls
+   56  cd main
+   57  ls
+   58  cd java
+   59  ls
+   60  cd com
+   61  ls
+   62  cd mycompany/
+   63  ls
+   64  cd app
+   65  ls
+   66  cat App.java
+   67  javac App.java
+   68  java App
+   69  cd ..
+   70  ls
+   71  cd ..
+   72  cd .
+   73  cd ..
+   74  ls
+   75  mvn package
+   76  ls
+   77  cd target
+   78  ls
+   79  ls -l
+   80  rm -rf my-app-1.0-SNAPSHOT.jar
+   81  ls -l
+   82  rm -rf *
+   83  ls -l
+   84  cd ..
+   85  ls
+   86  mvn clean
+   87  ls
+   88  cd cd /usr
+   89  cd /usr
+   90  find / -name .m2
+   91  cd /root/.m2
+   92  ls
+   93  cd repository
+   94  ls
+   95  rm -rf *
+   96  cd /home/mya-pp
+   97  cd /home/my-app
+   98  ls
+   99  mvn install
+  100  ls
+  101  cd target
+  102  ls
+  103  ls -l
+  104  cd /root/.m2/repository
+  105  ls
+  106  cd com
+  107  ls
+  108  cd mycompany/
+  109  ls
+  110  cd app
+  111  ls
+  112  cd my-app/
+  113  ls
+  114  ls -l
+  115  cd 1.0-SNAPSHOT/
+  116  ls
+  117  ls -l
+  118  cd /root/.m2
+  119  ls
+  120  cd repository/
+  121  ls
+  122  cd ..
+  123  ls -a
+  124  cd ..
+  125  ls -la
+  126  find / -name settings.xml
+  127  cd /usr/local/maven/conf/
+  128  cat settings.xml
+  129  find / -name *.py
+  130  /usr/share/yum-cli/shell.py
+  131  cat /usr/share/yum-cli/shell.py
+  132  history
