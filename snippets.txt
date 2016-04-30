@@ -1,0 +1,1629 @@
+are/man/man7/complex.7.gz
+/usr/share/man/man1/complete.1.gz
+/usr/share/man/man1/comm.1.gz
+/usr/share/man/man1/compgen.1.gz
+/usr/share/man/man1/compopt.1.gz
+/usr/share/man/man1/command.1.gz
+/usr/share/vim/vimfiles/after/compiler
+/usr/share/vim/vimfiles/compiler
+/usr/share/vim/vim74/compiler
+/usr/share/yum-cli/completion-helper.py
+/usr/share/bash-completion/completions
+/usr/share/perl5/DBM_Filter/compress.pm
+/usr/local/apache-maven-3.0.5/lib/commons-cli-1.2.jar
+/usr/include/python2.7/compile.h
+/usr/include/python2.7/complexobject.h
+/proc/sys/kernel/compat-log
+/proc/sys/vm/compact_memory
+/proc/sys/vm/compact_unevictable_allowed
+/proc/1/task/1/comm
+/proc/1/comm
+/proc/2/task/2/comm
+/proc/2/comm
+/proc/3/task/3/comm
+/proc/3/comm
+/proc/4/task/4/comm
+/proc/4/comm
+/proc/5/task/5/comm
+/proc/5/comm
+/proc/6/task/6/comm
+/proc/6/comm
+/proc/7/task/7/comm
+/proc/7/comm
+/proc/8/task/8/comm
+/proc/8/comm
+/proc/9/task/9/comm
+/proc/9/comm
+/proc/10/task/10/comm
+/proc/10/comm
+/proc/11/task/11/comm
+/proc/11/comm
+/proc/12/task/12/comm
+/proc/12/comm
+/proc/15/task/15/comm
+/proc/15/comm
+/proc/17/task/17/comm
+/proc/17/comm
+/proc/20/task/20/comm
+/proc/20/comm
+/proc/21/task/21/comm
+/proc/21/comm
+/proc/127/task/127/comm
+/proc/127/comm
+/proc/128/task/128/comm
+/proc/128/comm
+/proc/130/task/130/comm
+/proc/130/comm
+/proc/131/task/131/comm
+/proc/131/comm
+/proc/132/task/132/comm
+/proc/132/comm
+/proc/133/task/133/comm
+/proc/133/comm
+/proc/134/task/134/comm
+/proc/134/comm
+/proc/136/task/136/comm
+/proc/136/comm
+/proc/487/task/487/comm
+/proc/487/comm
+/proc/615/task/615/comm
+/proc/615/comm
+/proc/616/task/616/comm
+/proc/616/comm
+/proc/688/task/688/comm
+/proc/688/comm
+/proc/707/task/707/comm
+/proc/707/comm
+/proc/747/task/747/comm
+/proc/747/comm
+/proc/751/task/751/comm
+/proc/751/comm
+/proc/1325/task/1325/comm
+/proc/1325/comm
+/proc/1360/task/1360/comm
+/proc/1360/comm
+/proc/1384/task/1384/comm
+/proc/1384/comm
+/proc/1387/task/1387/comm
+/proc/1387/comm
+/proc/1399/task/1399/comm
+/proc/1399/comm
+/proc/1469/task/1469/comm
+/proc/1469/comm
+/proc/1470/task/1470/comm
+/proc/1470/comm
+/proc/1499/task/1499/comm
+/proc/1499/comm
+/proc/1517/task/1517/comm
+/proc/1517/comm
+/proc/1601/task/1601/comm
+/proc/1601/comm
+/proc/1650/task/1650/comm
+/proc/1650/comm
+/proc/1830/task/1830/comm
+/proc/1830/comm
+/proc/1885/task/1885/comm
+/proc/1885/comm
+/proc/2040/task/2040/comm
+/proc/2040/comm
+/proc/2092/task/2092/comm
+/proc/2092/task/2093/comm
+/proc/2092/comm
+/proc/2113/task/2113/comm
+/proc/2113/task/2114/comm
+/proc/2113/task/2116/comm
+/proc/2113/task/2117/comm
+/proc/2113/comm
+/proc/2135/task/2135/comm
+/proc/2135/comm
+/proc/2153/task/2153/comm
+/proc/2153/comm
+/proc/2174/task/2174/comm
+/proc/2174/comm
+/proc/2205/task/2205/comm
+/proc/2205/comm
+/proc/2356/task/2356/comm
+/proc/2356/comm
+/proc/2376/task/2376/comm
+/proc/2376/comm
+/proc/2385/task/2385/comm
+/proc/2385/comm
+/proc/2397/task/2397/comm
+/proc/2397/comm
+/proc/2411/task/2411/comm
+/proc/2411/comm
+/proc/2435/task/2435/comm
+/proc/2435/comm
+/proc/2438/task/2438/comm
+/proc/2438/comm
+/proc/2441/task/2441/comm
+/proc/2441/comm
+/proc/2443/task/2443/comm
+/proc/2443/comm
+/proc/2445/task/2445/comm
+/proc/2445/comm
+/proc/2447/task/2447/comm
+/proc/2447/comm
+/proc/2449/task/2449/comm
+/proc/2449/comm
+/proc/2450/task/2450/comm
+/proc/2450/comm
+/proc/5415/task/5415/comm
+/proc/5415/comm
+/proc/5417/task/5417/comm
+/proc/5417/comm
+/proc/5418/task/5418/comm
+/proc/5418/comm
+/proc/5443/task/5443/comm
+/proc/5443/comm
+/proc/5445/task/5445/comm
+/proc/5445/comm
+/proc/5446/task/5446/comm
+/proc/5446/comm
+/proc/5720/task/5720/comm
+/proc/5720/comm
+/proc/5830/task/5830/comm
+/proc/5830/comm
+/proc/5831/task/5831/comm
+/proc/5831/comm
+/proc/6022/task/6022/comm
+/proc/6022/comm
+/home/ec2-user/vagrant/src/main/java/com
+/home/ec2-user/vagrant/src/test/java/com
+/home/ec2-user/.m2/repository/org/apache/commons
+/home/ec2-user/.m2/repository/org/apache/commons/commons-parent
+/home/ec2-user/.m2/repository/org/apache/commons/commons-parent/24/commons-parent-24.pom
+/home/ec2-user/.m2/repository/org/apache/commons/commons-parent/24/commons-parent-24.pom.sha1
+/home/ec2-user/.m2/repository/org/apache/commons/commons-parent/9/commons-parent-9.pom.sha1
+/home/ec2-user/.m2/repository/org/apache/commons/commons-parent/9/commons-parent-9.pom
+/home/ec2-user/.m2/repository/org/apache/commons/commons-parent/11/commons-parent-11.pom
+/home/ec2-user/.m2/repository/org/apache/commons/commons-parent/11/commons-parent-11.pom.sha1
+/home/ec2-user/.m2/repository/commons-collections
+/home/ec2-user/.m2/repository/commons-collections/commons-collections
+/home/ec2-user/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar
+/home/ec2-user/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar.sha1
+/home/ec2-user/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+/home/ec2-user/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom.sha1
+/home/ec2-user/.m2/repository/commons-lang
+/home/ec2-user/.m2/repository/commons-lang/commons-lang
+/home/ec2-user/.m2/repository/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+/home/ec2-user/.m2/repository/commons-lang/commons-lang/2.1/commons-lang-2.1.pom.sha1
+/home/ec2-user/.m2/repository/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+/home/ec2-user/.m2/repository/commons-lang/commons-lang/2.1/commons-lang-2.1.jar.sha1
+/home/ec2-user/.m2/repository/commons-cli
+/home/ec2-user/.m2/repository/commons-cli/commons-cli
+/home/ec2-user/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar
+/home/ec2-user/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.pom.sha1
+/home/ec2-user/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar.sha1
+/home/ec2-user/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.pom
+/home/ec2-user/.m2/repository/commons-io
+/home/ec2-user/.m2/repository/commons-io/commons-io
+/home/ec2-user/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.jar
+/home/ec2-user/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.pom
+/home/ec2-user/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.jar.sha1
+/home/ec2-user/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.pom.sha1
+/home/ec2-user/devops/src/main/java/com
+/home/ec2-user/devops/src/test/java/com
+[root@ip-172-31-24-16 home]# cd /home/ec2-user/devops/src/test/java/com
+[root@ip-172-31-24-16 com]# ls
+ibm
+[root@ip-172-31-24-16 com]# pwd
+/home/ec2-user/devops/src/test/java/com
+[root@ip-172-31-24-16 com]# cd ..
+[root@ip-172-31-24-16 java]# cd ..
+[root@ip-172-31-24-16 test]# cd ..
+[root@ip-172-31-24-16 src]# ls
+main  test
+[root@ip-172-31-24-16 src]# cd ..
+[root@ip-172-31-24-16 devops]# ls
+pom.xml  src
+[root@ip-172-31-24-16 devops]# mvn install
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building devops 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom (7 KB at 14.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom (11 KB at 123.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/19/maven-parent-19.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/19/maven-parent-19.pom (25 KB at 218.0 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/apache/9/apache-9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/apache/9/apache-9.pom (15 KB at 170.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar (26 KB at 290.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom (8 KB at 91.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom (13 KB at 164.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom (23 KB at 277.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom (15 KB at 169.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar (29 KB at 335.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom (11 KB at 136.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom (12 KB at 151.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/20/maven-parent-20.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/20/maven-parent-20.pom (25 KB at 304.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar (30 KB at 341.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom (6 KB at 67.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom (13 KB at 148.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar (32 KB at 390.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom (5 KB at 61.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar (23 KB at 271.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom (998 B at 13.0 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
+Downloaded: http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar (119 KB at 969.1 KB/sec)
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ devops ---
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom (2 KB at 18.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.6/maven-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.6/maven-2.0.6.pom (9 KB at 116.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/5/maven-parent-5.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/5/maven-parent-5.pom (15 KB at 190.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/apache/3/apache-3.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/apache/3/apache-3.pom (4 KB at 44.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom (3 KB at 34.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom (2 KB at 24.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom (3 KB at 39.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom (2 KB at 25.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom (9 KB at 112.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom (4 KB at 51.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom (492 B at 6.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom (6 KB at 75.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom (7 KB at 89.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+Downloaded: http://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom (4 KB at 40.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom (2 KB at 26.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom (3 KB at 34.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom (2 KB at 24.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom (2 KB at 19.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom (2 KB at 25.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.pom (7 KB at 87.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.pom (2 KB at 25.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom (2 KB at 21.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom (2 KB at 18.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.pom (424 B at 5.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.0-alpha-7/doxia-1.0-alpha-7.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.0-alpha-7/doxia-1.0-alpha-7.pom (4 KB at 50.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.pom (2 KB at 22.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.0/commons-cli-1.0.pom
+Downloaded: http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.0/commons-cli-1.0.pom (3 KB at 27.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.pom (2 KB at 26.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.pom (7 KB at 92.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.pom (2 KB at 16.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/classworlds/classworlds/1.1/classworlds-1.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/classworlds/classworlds/1.1/classworlds-1.1.pom (4 KB at 43.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom (4 KB at 43.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom (17 KB at 204.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom (6 KB at 70.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom (9 KB at 117.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.pom (7 KB at 89.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.2/plexus-2.0.2.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.2/plexus-2.0.2.pom (12 KB at 151.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.12/plexus-interpolation-1.12.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.12/plexus-interpolation-1.12.pom (889 B at 11.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.14/plexus-components-1.1.14.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.14/plexus-components-1.1.14.pom (6 KB at 72.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.pom (3 KB at 37.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/10/spice-parent-10.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/10/spice-parent-10.pom (3 KB at 39.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/3/forge-parent-3.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/3/forge-parent-3.pom (5 KB at 62.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.pom (8 KB at 97.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.pom (890 B at 11.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.15/plexus-components-1.1.15.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.15/plexus-components-1.1.15.pom (3 KB at 36.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.3/plexus-2.0.3.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.3/plexus-2.0.3.pom (16 KB at 201.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar
+Downloading: http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.0/commons-cli-1.0.jar
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar (10 KB at 124.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar (6 KB at 49.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar (14 KB at 112.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.jar
+Downloaded: http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.0/commons-cli-1.0.jar (30 KB at 186.1 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar (42 KB at 493.3 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.jar (7 KB at 83.1 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.jar (60 KB at 465.8 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar (218 KB at 775.6 KB/sec)
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ devops ---
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.pom (4 KB at 40.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom (805 B at 9.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom (4 KB at 41.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom (6 KB at 64.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom (17 KB at 206.0 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.pom (6 KB at 62.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom (713 B at 8.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom (710 B at 7.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom (2 KB at 15.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar (6 KB at 63.4 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar (20 KB at 234.9 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar (13 KB at 149.1 KB/sec)
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR :
+[INFO] -------------------------------------------------------------
+[ERROR] Unable to locate the Javac Compiler in:
+  /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.99.x86_64/jre/../lib/tools.jar
+Please ensure you are using JDK 1.4 or above and
+not a JRE (the com.sun.tools.javac.Main class is required).
+In most cases you can change the location of your Java
+installation by setting the JAVA_HOME environment variable.
+[INFO] 1 error
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 8.583s
+[INFO] Finished at: Sat Apr 30 04:10:15 UTC 2016
+[INFO] Final Memory: 6M/18M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:2.3.2:compile (default-compile) on project devops: Compilation failure
+[ERROR] Unable to locate the Javac Compiler in:
+[ERROR] /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.99.x86_64/jre/../lib/tools.jar
+[ERROR] Please ensure you are using JDK 1.4 or above and
+[ERROR] not a JRE (the com.sun.tools.javac.Main class is required).
+[ERROR] In most cases you can change the location of your Java
+[ERROR] installation by setting the JAVA_HOME environment variable.
+[ERROR] -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+[root@ip-172-31-24-16 devops]# find / -name javac
+[root@ip-172-31-24-16 devops]# java
+Usage: java [-options] class [args...]
+           (to execute a class)
+   or  java [-options] -jar jarfile [args...]
+           (to execute a jar file)
+where options include:
+    -d32          use a 32-bit data model if available
+    -d64          use a 64-bit data model if available
+    -server       to select the "server" VM
+                  The default VM is server.
+
+    -cp <class search path of directories and zip/jar files>
+    -classpath <class search path of directories and zip/jar files>
+                  A : separated list of directories, JAR archives,
+                  and ZIP archives to search for class files.
+    -D<name>=<value>
+                  set a system property
+    -verbose:[class|gc|jni]
+                  enable verbose output
+    -version      print product version and exit
+    -version:<value>
+                  require the specified version to run
+    -showversion  print product version and continue
+    -jre-restrict-search | -no-jre-restrict-search
+                  include/exclude user private JREs in the version search
+    -? -help      print this help message
+    -X            print help on non-standard options
+    -ea[:<packagename>...|:<classname>]
+    -enableassertions[:<packagename>...|:<classname>]
+                  enable assertions with specified granularity
+    -da[:<packagename>...|:<classname>]
+    -disableassertions[:<packagename>...|:<classname>]
+                  disable assertions with specified granularity
+    -esa | -enablesystemassertions
+                  enable system assertions
+    -dsa | -disablesystemassertions
+                  disable system assertions
+    -agentlib:<libname>[=<options>]
+                  load native agent library <libname>, e.g. -agentlib:hprof
+                  see also, -agentlib:jdwp=help and -agentlib:hprof=help
+    -agentpath:<pathname>[=<options>]
+                  load native agent library by full pathname
+    -javaagent:<jarpath>[=<options>]
+                  load Java programming language agent, see java.lang.instrument
+    -splash:<imagepath>
+                  show splash screen with specified image
+See http://www.oracle.com/technetwork/java/javase/documentation/index.html for more details.
+[root@ip-172-31-24-16 devops]# javac
+-bash: javac: command not found
+[root@ip-172-31-24-16 devops]# sudo yum install java-1.7.0-openjdk-devel
+Loaded plugins: priorities, update-motd, upgrade-helper
+amzn-main/latest                                                                                      | 2.1 kB     00:00
+amzn-updates/latest                                                                                   | 2.3 kB     00:00
+Resolving Dependencies
+--> Running transaction check
+---> Package java-1.7.0-openjdk-devel.x86_64 1:1.7.0.101-2.6.6.1.67.amzn1 will be installed
+--> Processing Dependency: java-1.7.0-openjdk = 1:1.7.0.101-2.6.6.1.67.amzn1 for package: 1:java-1.7.0-openjdk-devel-1.7.0.101-2.6.6.1.67.amzn1.x86_64
+--> Running transaction check
+---> Package java-1.7.0-openjdk.x86_64 1:1.7.0.99-2.6.5.0.66.amzn1 will be updated
+---> Package java-1.7.0-openjdk.x86_64 1:1.7.0.101-2.6.6.1.67.amzn1 will be an update
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+=============================================================================================================================
+ Package                             Arch              Version                                 Repository               Size
+=============================================================================================================================
+Installing:
+ java-1.7.0-openjdk-devel            x86_64            1:1.7.0.101-2.6.6.1.67.amzn1            amzn-updates             11 M
+Updating for dependencies:
+ java-1.7.0-openjdk                  x86_64            1:1.7.0.101-2.6.6.1.67.amzn1            amzn-updates             32 M
+
+Transaction Summary
+=============================================================================================================================
+Install  1 Package
+Upgrade             ( 1 Dependent package)
+
+Total download size: 43 M
+Is this ok [y/d/N]: y
+Downloading packages:
+(1/2): java-1.7.0-openjdk-1.7.0.101-2.6.6.1.67.amzn1.x86_64.rpm                                       |  32 MB     00:01
+(2/2): java-1.7.0-openjdk-devel-1.7.0.101-2.6.6.1.67.amzn1.x86_64.rpm                                 |  11 MB     00:00
+-----------------------------------------------------------------------------------------------------------------------------
+Total                                                                                         22 MB/s |  43 MB  00:00:01
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Updating   : 1:java-1.7.0-openjdk-1.7.0.101-2.6.6.1.67.amzn1.x86_64                                                    1/3
+  Installing : 1:java-1.7.0-openjdk-devel-1.7.0.101-2.6.6.1.67.amzn1.x86_64                                              2/3
+  Cleanup    : 1:java-1.7.0-openjdk-1.7.0.99-2.6.5.0.66.amzn1.x86_64                                                     3/3
+  Verifying  : 1:java-1.7.0-openjdk-devel-1.7.0.101-2.6.6.1.67.amzn1.x86_64                                              1/3
+  Verifying  : 1:java-1.7.0-openjdk-1.7.0.101-2.6.6.1.67.amzn1.x86_64                                                    2/3
+  Verifying  : 1:java-1.7.0-openjdk-1.7.0.99-2.6.5.0.66.amzn1.x86_64                                                     3/3
+
+Installed:
+  java-1.7.0-openjdk-devel.x86_64 1:1.7.0.101-2.6.6.1.67.amzn1
+
+Dependency Updated:
+  java-1.7.0-openjdk.x86_64 1:1.7.0.101-2.6.6.1.67.amzn1
+
+Complete!
+[root@ip-172-31-24-16 devops]# javac
+Usage: javac <options> <source files>
+where possible options include:
+  -g                         Generate all debugging info
+  -g:none                    Generate no debugging info
+  -g:{lines,vars,source}     Generate only some debugging info
+  -nowarn                    Generate no warnings
+  -verbose                   Output messages about what the compiler is doing
+  -deprecation               Output source locations where deprecated APIs are used
+  -classpath <path>          Specify where to find user class files and annotation processors
+  -cp <path>                 Specify where to find user class files and annotation processors
+  -sourcepath <path>         Specify where to find input source files
+  -bootclasspath <path>      Override location of bootstrap class files
+  -extdirs <dirs>            Override location of installed extensions
+  -endorseddirs <dirs>       Override location of endorsed standards path
+  -proc:{none,only}          Control whether annotation processing and/or compilation is done.
+  -processor <class1>[,<class2>,<class3>...] Names of the annotation processors to run; bypasses default discovery process
+  -processorpath <path>      Specify where to find annotation processors
+  -d <directory>             Specify where to place generated class files
+  -s <directory>             Specify where to place generated source files
+  -implicit:{none,class}     Specify whether or not to generate class files for implicitly referenced files
+  -encoding <encoding>       Specify character encoding used by source files
+  -source <release>          Provide source compatibility with specified release
+  -target <release>          Generate class files for specific VM version
+  -version                   Version information
+  -help                      Print a synopsis of standard options
+  -Akey[=value]              Options to pass to annotation processors
+  -X                         Print a synopsis of nonstandard options
+  -J<flag>                   Pass <flag> directly to the runtime system
+  -Werror                    Terminate compilation if warnings occur
+  @<filename>                Read options and filenames from file
+
+[root@ip-172-31-24-16 devops]# pwd
+/home/ec2-user/devops
+[root@ip-172-31-24-16 devops]# mvn compile
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building devops 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ devops ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 2.109s
+[INFO] Finished at: Sat Apr 30 04:17:09 UTC 2016
+[INFO] Final Memory: 8M/19M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-24-16 devops]# ls
+pom.xml  src  target
+[root@ip-172-31-24-16 devops]# cd target/
+[root@ip-172-31-24-16 target]# ls
+classes
+[root@ip-172-31-24-16 target]# cd ..
+[root@ip-172-31-24-16 devops]# mvn package
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building devops 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ devops ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/test/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ devops ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.10:test (default-test) @ devops ---
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom (2 KB at 5.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.9/maven-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.9/maven-2.0.9.pom (19 KB at 164.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/8/maven-parent-8.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/8/maven-parent-8.pom (24 KB at 283.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/apache/4/apache-4.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/apache/4/apache-4.pom (5 KB at 58.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.pom (3 KB at 38.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.pom (3 KB at 26.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.pom (4 KB at 50.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom (4 KB at 50.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/16/spice-parent-16.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/16/spice-parent-16.pom (9 KB at 102.0 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/5/forge-parent-5.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/5/forge-parent-5.pom (9 KB at 103.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom (2 KB at 20.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom (3 KB at 34.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom (3 KB at 24.8 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom (4 KB at 40.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom (3 KB at 26.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom (3 KB at 33.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom (2 KB at 22.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom (2 KB at 25.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom (8 KB at 100.0 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom (2 KB at 24.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom (2 KB at 23.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom (2 KB at 19.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom (2 KB at 23.0 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom (3 KB at 26.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom (2 KB at 16.7 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.pom (4 KB at 40.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.pom (4 KB at 48.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/12/maven-shared-components-12.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/12/maven-shared-components-12.pom (10 KB at 121.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/13/maven-parent-13.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/13/maven-parent-13.pom (23 KB at 272.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/apache/6/apache-6.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/apache/6/apache-6.pom (13 KB at 156.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom (2 KB at 16.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.jar
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.jar
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.jar
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.jar (34 KB at 371.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.jar (31 KB at 192.0 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar (10 KB at 123.7 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.jar (60 KB at 295.7 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar (158 KB at 651.0 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.jar (220 KB at 853.1 KB/sec)
+[INFO] Surefire report directory: /home/ec2-user/devops/target/surefire-reports
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.pom (2 KB at 22.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.10/surefire-providers-2.10.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.10/surefire-providers-2.10.pom (3 KB at 29.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar (26 KB at 331.5 KB/sec)
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.ibm.app.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.3.2:jar (default-jar) @ devops ---
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom (4 KB at 53.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom (3 KB at 36.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom (7 KB at 89.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/10/forge-parent-10.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/10/forge-parent-10.pom (14 KB at 165.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom (4 KB at 52.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom (2 KB at 22.2 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom (3 KB at 35.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom (19 KB at 230.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom (10 KB at 129.3 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar
+Downloading: http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar (20 KB at 259.8 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar (57 KB at 411.2 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar (176 KB at 1255.0 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar (203 KB at 1438.7 KB/sec)
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar (221 KB at 1061.4 KB/sec)
+[INFO] Building jar: /home/ec2-user/devops/target/devops-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 7.645s
+[INFO] Finished at: Sat Apr 30 04:18:00 UTC 2016
+[INFO] Final Memory: 11M/27M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-24-16 devops]# ls
+pom.xml  src  target
+[root@ip-172-31-24-16 devops]# cd target
+[root@ip-172-31-24-16 target]# ls
+classes  devops-1.0-SNAPSHOT.jar  maven-archiver  surefire  surefire-reports  test-classes
+[root@ip-172-31-24-16 target]# ls -l
+total 24
+drwxr-xr-x 3 root root 4096 Apr 30 04:17 classes
+-rw-r--r-- 1 root root 2189 Apr 30 04:18 devops-1.0-SNAPSHOT.jar
+drwxr-xr-x 2 root root 4096 Apr 30 04:18 maven-archiver
+drwxr-xr-x 2 root root 4096 Apr 30 04:18 surefire
+drwxr-xr-x 2 root root 4096 Apr 30 04:17 surefire-reports
+drwxr-xr-x 3 root root 4096 Apr 30 04:17 test-classes
+[root@ip-172-31-24-16 target]# cd ..
+[root@ip-172-31-24-16 devops]# mvn clean
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building devops 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom (5 KB at 14.9 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar (23 KB at 193.3 KB/sec)
+[INFO]
+[INFO] --- maven-clean-plugin:2.4.1:clean (default-clean) @ devops ---
+[INFO] Deleting /home/ec2-user/devops/target
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1.177s
+[INFO] Finished at: Sat Apr 30 04:18:45 UTC 2016
+[INFO] Final Memory: 6M/15M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-24-16 devops]# ls
+pom.xml  src
+[root@ip-172-31-24-16 devops]# mvn clean install
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building devops 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.4.1:clean (default-clean) @ devops ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ devops ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/test/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ devops ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.10:test (default-test) @ devops ---
+[INFO] Surefire report directory: /home/ec2-user/devops/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.ibm.app.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.023 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.3.2:jar (default-jar) @ devops ---
+[INFO] Building jar: /home/ec2-user/devops/target/devops-1.0-SNAPSHOT.jar
+[INFO]
+[INFO] --- maven-install-plugin:2.3.1:install (default-install) @ devops ---
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom (2 KB at 4.1 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom (5 KB at 93.4 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom (8 KB at 160.5 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom (8 KB at 157.6 KB/sec)
+Downloading: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+Downloaded: http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar (12 KB at 257.3 KB/sec)
+[INFO] Installing /home/ec2-user/devops/target/devops-1.0-SNAPSHOT.jar to /root/.m2/repository/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-SNAPSHOT.jar
+[INFO] Installing /home/ec2-user/devops/pom.xml to /root/.m2/repository/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 4.656s
+[INFO] Finished at: Sat Apr 30 04:19:15 UTC 2016
+[INFO] Final Memory: 14M/34M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-24-16 devops]# ls
+pom.xml  src  target
+[root@ip-172-31-24-16 devops]# mvn clean package
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building devops 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.4.1:clean (default-clean) @ devops ---
+[INFO] Deleting /home/ec2-user/devops/target
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ devops ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/test/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ devops ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.10:test (default-test) @ devops ---
+[INFO] Surefire report directory: /home/ec2-user/devops/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.ibm.app.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.018 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.3.2:jar (default-jar) @ devops ---
+[INFO] Building jar: /home/ec2-user/devops/target/devops-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.845s
+[INFO] Finished at: Sat Apr 30 04:19:37 UTC 2016
+[INFO] Final Memory: 12M/30M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-24-16 devops]# ls
+pom.xml  src  target
+[root@ip-172-31-24-16 devops]# mvn clean
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building devops 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.4.1:clean (default-clean) @ devops ---
+[INFO] Deleting /home/ec2-user/devops/target
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 0.576s
+[INFO] Finished at: Sat Apr 30 04:20:17 UTC 2016
+[INFO] Final Memory: 4M/15M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-24-16 devops]# mvn clean install
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building devops 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.4.1:clean (default-clean) @ devops ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ devops ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/test/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ devops ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.10:test (default-test) @ devops ---
+[INFO] Surefire report directory: /home/ec2-user/devops/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.ibm.app.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.017 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.3.2:jar (default-jar) @ devops ---
+[INFO] Building jar: /home/ec2-user/devops/target/devops-1.0-SNAPSHOT.jar
+[INFO]
+[INFO] --- maven-install-plugin:2.3.1:install (default-install) @ devops ---
+[INFO] Installing /home/ec2-user/devops/target/devops-1.0-SNAPSHOT.jar to /root/.m2/repository/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-SNAPSHOT.jar
+[INFO] Installing /home/ec2-user/devops/pom.xml to /root/.m2/repository/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 4.033s
+[INFO] Finished at: Sat Apr 30 04:20:45 UTC 2016
+[INFO] Final Memory: 12M/30M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-24-16 devops]# find / -name settings.xml
+/usr/local/apache-maven-3.0.5/conf/settings.xml
+[root@ip-172-31-24-16 devops]# vi /usr/local/apache-maven-3.0.5/conf/settings.xml
+[root@ip-172-31-24-16 devops]# ls
+pom.xml  src  target
+[root@ip-172-31-24-16 devops]# mvn clean deploy
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building devops 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom (5 KB at 9.3 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom (13 KB at 114.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/16/maven-parent-16.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/16/maven-parent-16.pom (23 KB at 222.8 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/apache/7/apache-7.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/apache/7/apache-7.pom (15 KB at 129.3 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar (23 KB at 200.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom (7 KB at 72.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom (11 KB at 129.5 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/19/maven-parent-19.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/19/maven-parent-19.pom (25 KB at 262.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/apache/9/apache-9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/apache/9/apache-9.pom (15 KB at 145.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar (26 KB at 207.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom (8 KB at 77.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar (29 KB at 191.2 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom (11 KB at 122.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom (12 KB at 113.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/20/maven-parent-20.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/20/maven-parent-20.pom (25 KB at 202.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar (30 KB at 209.9 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom (6 KB at 60.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom (13 KB at 152.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar (32 KB at 206.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom (5 KB at 53.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar (23 KB at 207.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom (6 KB at 67.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom (13 KB at 155.3 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/21/maven-parent-21.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/21/maven-parent-21.pom (26 KB at 276.8 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/apache/10/apache-10.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/apache/10/apache-10.pom (15 KB at 178.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar (27 KB at 315.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/junit/junit/3.8.1/junit-3.8.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/junit/junit/3.8.1/junit-3.8.1.pom (998 B at 12.5 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/junit/junit/3.8.1/junit-3.8.1.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/junit/junit/3.8.1/junit-3.8.1.jar (119 KB at 788.2 KB/sec)
+[INFO]
+[INFO] --- maven-clean-plugin:2.4.1:clean (default-clean) @ devops ---
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom (2 KB at 16.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven/2.0.6/maven-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven/2.0.6/maven-2.0.6.pom (9 KB at 101.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/5/maven-parent-5.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/5/maven-parent-5.pom (15 KB at 165.3 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/apache/3/apache-3.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/apache/3/apache-3.pom (4 KB at 40.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom (4 KB at 37.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom (17 KB at 194.9 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar (218 KB at 1345.3 KB/sec)
+[INFO] Deleting /home/ec2-user/devops/target
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ devops ---
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom (3 KB at 30.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom (2 KB at 23.8 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom (3 KB at 38.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom (2 KB at 23.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom (9 KB at 89.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom (4 KB at 45.9 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom (492 B at 5.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom (6 KB at 68.3 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom (7 KB at 74.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom (4 KB at 23.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom (2 KB at 25.8 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom (3 KB at 24.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom (2 KB at 20.5 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom (2 KB at 18.8 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom (2 KB at 26.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.pom (7 KB at 85.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.pom (2 KB at 23.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom (2 KB at 23.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom (2 KB at 16.3 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.pom (424 B at 4.9 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/doxia/doxia/1.0-alpha-7/doxia-1.0-alpha-7.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/doxia/doxia/1.0-alpha-7/doxia-1.0-alpha-7.pom (4 KB at 47.8 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.pom (2 KB at 21.9 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/commons-cli/commons-cli/1.0/commons-cli-1.0.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/commons-cli/commons-cli/1.0/commons-cli-1.0.pom (3 KB at 24.2 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.pom (2 KB at 23.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.pom (7 KB at 87.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.pom (2 KB at 16.5 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/classworlds/classworlds/1.1/classworlds-1.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/classworlds/classworlds/1.1/classworlds-1.1.pom (4 KB at 39.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom (6 KB at 71.3 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom (9 KB at 119.2 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.pom (7 KB at 83.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.2/plexus-2.0.2.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.2/plexus-2.0.2.pom (12 KB at 149.2 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.12/plexus-interpolation-1.12.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.12/plexus-interpolation-1.12.pom (889 B at 12.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.14/plexus-components-1.1.14.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.14/plexus-components-1.1.14.pom (6 KB at 75.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.pom (3 KB at 32.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/sonatype/spice/spice-parent/10/spice-parent-10.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/sonatype/spice/spice-parent/10/spice-parent-10.pom (3 KB at 42.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/sonatype/forge/forge-parent/3/forge-parent-3.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/sonatype/forge/forge-parent/3/forge-parent-3.pom (5 KB at 75.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.pom (8 KB at 106.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.pom (890 B at 12.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.15/plexus-components-1.1.15.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.15/plexus-components-1.1.15.pom (3 KB at 41.5 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.3/plexus-2.0.3.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.3/plexus-2.0.3.pom (16 KB at 198.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/commons-cli/commons-cli/1.0/commons-cli-1.0.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/commons-cli/commons-cli/1.0/commons-cli-1.0.jar (30 KB at 319.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar (10 KB at 77.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar (6 KB at 37.9 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar (14 KB at 65.1 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.jar (7 KB at 56.4 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.jar (60 KB at 394.9 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar (42 KB at 157.0 KB/sec)
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ devops ---
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.pom (4 KB at 45.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom (805 B at 11.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom (4 KB at 47.8 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom (6 KB at 76.9 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom (17 KB at 248.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.pom (6 KB at 72.8 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom (713 B at 9.3 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom (710 B at 10.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom (2 KB at 16.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar (20 KB at 169.5 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar (6 KB at 45.2 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar (13 KB at 104.5 KB/sec)
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/test/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ devops ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.10:test (default-test) @ devops ---
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom (2 KB at 13.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven/2.0.9/maven-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven/2.0.9/maven-2.0.9.pom (19 KB at 188.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/8/maven-parent-8.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/8/maven-parent-8.pom (24 KB at 294.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/apache/4/apache-4.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/apache/4/apache-4.pom (5 KB at 57.8 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.pom (3 KB at 33.2 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.pom (3 KB at 25.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.pom (4 KB at 50.2 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom (4 KB at 46.9 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/sonatype/spice/spice-parent/16/spice-parent-16.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/sonatype/spice/spice-parent/16/spice-parent-16.pom (9 KB at 103.3 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/sonatype/forge/forge-parent/5/forge-parent-5.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/sonatype/forge/forge-parent/5/forge-parent-5.pom (9 KB at 113.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom (2 KB at 21.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom (3 KB at 29.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom (3 KB at 25.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom (4 KB at 38.8 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom (3 KB at 26.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom (3 KB at 30.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom (2 KB at 26.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom (2 KB at 23.8 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom (8 KB at 93.9 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom (2 KB at 18.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom (2 KB at 19.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom (2 KB at 19.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom (2 KB at 23.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom (3 KB at 25.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom (2 KB at 15.9 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.pom (4 KB at 47.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.pom (4 KB at 48.9 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-shared-components/12/maven-shared-components-12.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-shared-components/12/maven-shared-components-12.pom (10 KB at 102.5 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/13/maven-parent-13.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-parent/13/maven-parent-13.pom (23 KB at 269.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/apache/6/apache-6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/apache/6/apache-6.pom (13 KB at 171.2 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom (2 KB at 17.2 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.jar (31 KB at 224.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.jar (60 KB at 414.8 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.jar (34 KB at 210.6 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar (10 KB at 105.3 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.jar (220 KB at 936.9 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar (158 KB at 645.7 KB/sec)
+[INFO] Surefire report directory: /home/ec2-user/devops/target/surefire-reports
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.pom (2 KB at 20.6 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-providers/2.10/surefire-providers-2.10.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-providers/2.10/surefire-providers-2.10.pom (3 KB at 30.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar (26 KB at 323.1 KB/sec)
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.ibm.app.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.3.2:jar (default-jar) @ devops ---
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom (4 KB at 52.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom (3 KB at 37.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/sonatype/spice/spice-parent/17/spice-parent-17.pom (7 KB at 90.4 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/sonatype/forge/forge-parent/10/forge-parent-10.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/sonatype/forge/forge-parent/10/forge-parent-10.pom (14 KB at 159.5 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom (4 KB at 53.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom (2 KB at 24.5 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom (3 KB at 34.2 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom (19 KB at 249.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/commons-lang/commons-lang/2.1/commons-lang-2.1.pom (10 KB at 134.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar (57 KB at 446.8 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar (20 KB at 147.4 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/commons-lang/commons-lang/2.1/commons-lang-2.1.jar (203 KB at 1260.0 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar (176 KB at 824.9 KB/sec)
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar (221 KB at 1031.7 KB/sec)
+[INFO] Building jar: /home/ec2-user/devops/target/devops-1.0-SNAPSHOT.jar
+[INFO]
+[INFO] --- maven-install-plugin:2.3.1:install (default-install) @ devops ---
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom (2 KB at 12.2 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom (5 KB at 72.5 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom (8 KB at 94.1 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom (8 KB at 82.5 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar (12 KB at 163.1 KB/sec)
+[INFO] Installing /home/ec2-user/devops/target/devops-1.0-SNAPSHOT.jar to /home/ec2-user/devops/{Local Repository]/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-SNAPSHOT.jar
+[INFO] Installing /home/ec2-user/devops/pom.xml to /home/ec2-user/devops/{Local Repository]/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-SNAPSHOT.pom
+[INFO]
+[INFO] --- maven-deploy-plugin:2.7:deploy (default-deploy) @ devops ---
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom (6 KB at 84.9 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom (10 KB at 136.7 KB/sec)
+Downloading: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.jar
+Downloaded: http://52.39.149.141:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.jar (245 KB at 1642.1 KB/sec)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 18.756s
+[INFO] Finished at: Sat Apr 30 04:56:14 UTC 2016
+[INFO] Final Memory: 14M/35M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy (default-deploy) on project devops: Deployment failed: repository element was not specified in the POM inside distributionManagement element or in -DaltDeploymentRepository=id::layout::url parameter -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+[root@ip-172-31-24-16 devops]# vi pom.xml
+[root@ip-172-31-24-16 devops]# ls
+{Local Repository]  pom.xml  src  target
+[root@ip-172-31-24-16 devops]# mvn clean deploy
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building devops 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.4.1:clean (default-clean) @ devops ---
+[INFO] Deleting /home/ec2-user/devops/target
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ devops ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ devops ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/ec2-user/devops/src/test/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ devops ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/ec2-user/devops/target/test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.10:test (default-test) @ devops ---
+[INFO] Surefire report directory: /home/ec2-user/devops/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.ibm.app.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.019 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.3.2:jar (default-jar) @ devops ---
+[INFO] Building jar: /home/ec2-user/devops/target/devops-1.0-SNAPSHOT.jar
+[INFO]
+[INFO] --- maven-install-plugin:2.3.1:install (default-install) @ devops ---
+[INFO] Installing /home/ec2-user/devops/target/devops-1.0-SNAPSHOT.jar to /home/ec2-user/devops/{Local Repository]/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-SNAPSHOT.jar
+[INFO] Installing /home/ec2-user/devops/pom.xml to /home/ec2-user/devops/{Local Repository]/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-SNAPSHOT.pom
+[INFO]
+[INFO] --- maven-deploy-plugin:2.7:deploy (default-deploy) @ devops ---
+Downloading: http://52.39.149.141:8081/content/repositories/snapshots/com/ibm/app/devops/1.0-SNAPSHOT/maven-metadata.xml
+Uploading: http://52.39.149.141:8081/content/repositories/snapshots/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-20160430.050756-1.jar
+Uploaded: http://52.39.149.141:8081/content/repositories/snapshots/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-20160430.050756-1.jar (3 KB at 19.6 KB/sec)
+Uploading: http://52.39.149.141:8081/content/repositories/snapshots/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-20160430.050756-1.pom
+Uploaded: http://52.39.149.141:8081/content/repositories/snapshots/com/ibm/app/devops/1.0-SNAPSHOT/devops-1.0-20160430.050756-1.pom (2 KB at 17.0 KB/sec)
+Downloading: http://52.39.149.141:8081/content/repositories/snapshots/com/ibm/app/devops/maven-metadata.xml
+Uploading: http://52.39.149.141:8081/content/repositories/snapshots/com/ibm/app/devops/1.0-SNAPSHOT/maven-metadata.xml
+Uploaded: http://52.39.149.141:8081/content/repositories/snapshots/com/ibm/app/devops/1.0-SNAPSHOT/maven-metadata.xml (761 B at 24.0 KB/sec)
+Uploading: http://52.39.149.141:8081/content/repositories/snapshots/com/ibm/app/devops/maven-metadata.xml
+Uploaded: http://52.39.149.141:8081/content/repositories/snapshots/com/ibm/app/devops/maven-metadata.xml (275 B at 4.4 KB/sec)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 5.027s
+[INFO] Finished at: Sat Apr 30 05:07:56 UTC 2016
+[INFO] Final Memory: 15M/37M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-24-16 devops]# wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat/jenkins.repo
+--2016-04-30 06:44:06--  http://pkg.jenkins-ci.org/redhat/jenkins.repo
+Resolving pkg.jenkins-ci.org (pkg.jenkins-ci.org)... 52.202.51.185
+Connecting to pkg.jenkins-ci.org (pkg.jenkins-ci.org)|52.202.51.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75
+Saving to: ‘/etc/yum.repos.d/jenkins.repo’
+
+/etc/yum.repos.d/jenkins.repo   100%[====================================================>]      75  --.-KB/s    in 0s
+
+2016-04-30 06:44:06 (17.6 MB/s) - ‘/etc/yum.repos.d/jenkins.repo’ saved [75/75]
+
+[root@ip-172-31-24-16 devops]# ls
+{Local Repository]  pom.xml  src  target
+[root@ip-172-31-24-16 devops]# rpm --import http://pkg.jenkins-ci.org/redhat/jenkins-ci.org.key
+[root@ip-172-31-24-16 devops]# yum install jenkins
+Loaded plugins: priorities, update-motd, upgrade-helper
+amzn-main/latest                                                                                      | 2.1 kB     00:00
+amzn-updates/latest                                                                                   | 2.3 kB     00:00
+jenkins                                                                                               | 2.9 kB     00:00
+jenkins/primary_db                                                                                    |  81 kB     00:00
+Resolving Dependencies
+--> Running transaction check
+---> Package jenkins.noarch 0:2.0-1.1 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+=============================================================================================================================
+ Package                      Arch                        Version                         Repository                    Size
+=============================================================================================================================
+Installing:
+ jenkins                      noarch                      2.0-1.1                         jenkins                       63 M
+
+Transaction Summary
+=============================================================================================================================
+Install  1 Package
+
+Total download size: 63 M
+Installed size: 63 M
+Is this ok [y/d/N]: y
+Downloading packages:
+jenkins-2.0-1.1.noarch.rpm                                                                            |  63 MB     00:38
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : jenkins-2.0-1.1.noarch                                                                                    1/1
+  Verifying  : jenkins-2.0-1.1.noarch                                                                                    1/1
+
+Installed:
+  jenkins.noarch 0:2.0-1.1
+
+Complete!
+[root@ip-172-31-24-16 devops]# cd /etc/yum.repos.d
+[root@ip-172-31-24-16 yum.repos.d]# ls
+amzn-main.repo   amzn-preview.repo  docker.repo  epel-testing.repo
+amzn-nosrc.repo  amzn-updates.repo  epel.repo    jenkins.repo
+[root@ip-172-31-24-16 yum.repos.d]# cat jenkins.repo
+[jenkins]
+name=Jenkins
+baseurl=http://pkg.jenkins-ci.org/redhat
+gpgcheck=1
+[root@ip-172-31-24-16 yum.repos.d]# wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat/jenkins.repo^C
+[root@ip-172-31-24-16 yum.repos.d]# ls
+amzn-main.repo   amzn-preview.repo  docker.repo  epel-testing.repo
+amzn-nosrc.repo  amzn-updates.repo  epel.repo    jenkins.repo
+[root@ip-172-31-24-16 yum.repos.d]# clear
+[root@ip-172-31-24-16 yum.repos.d]# ls
+amzn-main.repo   amzn-preview.repo  docker.repo  epel-testing.repo
+amzn-nosrc.repo  amzn-updates.repo  epel.repo    jenkins.repo
+[root@ip-172-31-24-16 yum.repos.d]# yum install jenkkns
+Loaded plugins: priorities, update-motd, upgrade-helper
+amzn-main/latest                                                                                      | 2.1 kB     00:00
+amzn-updates/latest                                                                                   | 2.3 kB     00:00
+No package jenkkns available.
+Error: Nothing to do
+[root@ip-172-31-24-16 yum.repos.d]# yum install jenkins
+Loaded plugins: priorities, update-motd, upgrade-helper
+Package jenkins-2.0-1.1.noarch already installed and latest version
+Nothing to do
+[root@ip-172-31-24-16 yum.repos.d]# jenkins --version
+-bash: jenkins: command not found
+[root@ip-172-31-24-16 yum.repos.d]# jenkins
+-bash: jenkins: command not found
+[root@ip-172-31-24-16 yum.repos.d]# jenkins
+-bash: jenkins: command not found
+[root@ip-172-31-24-16 yum.repos.d]# jenkin --version
+-bash: jenkin: command not found
+[root@ip-172-31-24-16 yum.repos.d]# cd /etc/init.d
+[root@ip-172-31-24-16 init.d]# ls -l
+total 240
+-rwxr-xr-x 1 root root  1725 Jan 15  2011 acpid
+-rwxr-xr-x 1 root root  2062 Jun 16  2015 atd
+-rwxr-xr-x 1 root root  3580 Sep  8  2015 auditd
+-rwxr-xr-x 1 root root  1340 Aug 20  2015 blk-availability
+lrwxrwxrwx 1 root root    46 Mar 16 23:04 cfn-hup -> /opt/aws/apitools/cfn-init/init/redhat/cfn-hup
+-rwxr-xr-x 1 root root  5160 Feb 28  2014 cgconfig
+-rwxr-xr-x 1 root root  3580 Feb 28  2014 cgred
+-rwxr-xr-x 1 root root  3782 Jan 15 21:27 cloud-config
+-rwxr-xr-x 1 root root  3763 Jan 15 21:27 cloud-final
+-rwxr-xr-x 1 root root  3855 Jan 15 21:27 cloud-init
+-rwxr-xr-x 1 root root  3840 Jan 15 21:27 cloud-init-local
+-rwxr-xr-x 1 root root  2826 Nov 27  2013 crond
+-rwxr-xr-x 1 root root  3367 Mar 16 19:24 docker
+-rw-r--r-- 1 root root 19921 Apr 14 23:28 functions
+-rwxr-xr-x 1 root root  5981 Apr 14 23:28 halt
+-rwxr-xr-x 1 root root  8563 Sep 27  2013 ip6tables
+-rwxr-xr-x 1 root root  8468 Sep 27  2013 iptables
+-rwxr-xr-x 1 root root  1955 Apr 27 21:02 irqbalance
+-rwxr-xr-x 1 root root  6113 Apr 20 23:50 jenkins
+-rwxr-xr-x 1 root root   652 Apr  9  2015 killall
+-rwxr-xr-x 1 root root  2134 Aug 20  2015 lvm2-lvmetad
+-rwxr-xr-x 1 root root  2757 Aug 20  2015 lvm2-monitor
+-rwxr-xr-x 1 root root  2904 Sep 18  2014 mdmonitor
+-rwxr-xr-x 1 root root  2200 Mar 12  2015 messagebus
+-rwxr-xr-x 1 root root  2989 Apr  9  2015 netconsole
+-rwxr-xr-x 1 root root  7570 Apr  9  2015 netfs
+-rwxr-xr-x 1 root root  6406 Apr  9  2015 network
+-rwxr-xr-x 1 root root  6703 Oct  8  2015 nfs
+-rwxr-xr-x 1 root root  3526 Oct  8  2015 nfslock
+-rwxr-xr-x 1 root root  1926 Feb  6 01:09 ntpd
+-rwxr-xr-x 1 root root  2056 Feb  6 01:09 ntpdate
+-rwxr-xr-x 1 root root  1556 Sep 10  2014 psacct
+-rwxr-xr-x 1 root root  2034 Sep 27  2013 quota_nld
+-rwxr-xr-x 1 root root  1513 Oct  3  2013 rdisc
+-rwxr-xr-x 1 root root  1816 Feb 18 21:03 rngd
+-rwxr-xr-x 1 root root  2073 Mar  3 23:44 rpcbind
+-rwxr-xr-x 1 root root  2518 Oct  8  2015 rpcgssd
+-rwxr-xr-x 1 root root  2305 Oct  8  2015 rpcidmapd
+-rwxr-xr-x 1 root root  2464 Oct  8  2015 rpcsvcgssd
+-rwxr-xr-x 1 root root  2011 Nov 11  2014 rsyslog
+-rwxr-xr-x 1 root root  2056 Sep 10  2014 saslauthd
+-rwxr-xr-x 1 root root  3702 Mar 14  2013 sendmail
+-rwxr-xr-x 1 root root   647 Apr  9  2015 single
+-rwxr-xr-x 1 root root  4180 Mar 28 21:36 sshd
+-rwxr-xr-x 1 root root  2243 Mar 28 17:58 svnserve
+-rwxr-xr-x 1 root root  1642 Mar 19  2014 udev-post
+[root@ip-172-31-24-16 init.d]# service jenkiins status
+jenkiins: unrecognized service
+[root@ip-172-31-24-16 init.d]# service jenkins status
+jenkins is stopped
+[root@ip-172-31-24-16 init.d]# service jenkins starrt
+Usage: /etc/init.d/jenkins {start|stop|status|try-restart|restart|force-reload|reload|probe}
+[root@ip-172-31-24-16 init.d]# service jenkins start
+Starting Jenkins                                           [  OK  ]
+[root@ip-172-31-24-16 init.d]# curl - L http://localhost:8080
+curl: option -: is unknown
+curl: try 'curl --help' or 'curl --manual' for more information
+[root@ip-172-31-24-16 init.d]# curl -L http://localhost:8080
+<html><head><meta http-equiv='refresh' content='1;url=/login?from=%2F'/><script>window.location.replace('/login?from=%2F');</script></head><body style='background-color:white; color:white;'>
+
+
+Authentication required
+<!--
+You are authenticated as: anonymous
+Groups that you are in:
+
+Permission you need to have (but didn't): hudson.model.Hudson.Read
+ ... which is implied by: hudson.security.Permission.GenericRead
+ ... which is implied by: hudson.model.Hudson.Administer
+-->
+
+</body></html>                                                                                                                                                                                                                                                                                                            [root@ip-172-31-24-16 init.d]# clear
+[root@ip-172-31-24-16 init.d]# /var/lib/jenkins/secrets/initialAdminPassword
+-bash: /var/lib/jenkins/secrets/initialAdminPassword: Permission denied
+[root@ip-172-31-24-16 init.d]# /etc/init.d/jenkinst start
+-bash: /etc/init.d/jenkinst: No such file or directory
+[root@ip-172-31-24-16 init.d]# /etc/init.d/jenkins start
+Starting Jenkins                                           [  OK  ]
+[root@ip-172-31-24-16 init.d]# pwd
+/etc/init.d
+[root@ip-172-31-24-16 init.d]# cd !
+-bash: cd: !: No such file or directory
+[root@ip-172-31-24-16 init.d]# cd ~
+[root@ip-172-31-24-16 ~]# /etc/init.d/jenkins start
+Starting Jenkins                                           [  OK  ]
+[root@ip-172-31-24-16 ~]# service jenkins stop
+Shutting down Jenkins                                      [  OK  ]
+[root@ip-172-31-24-16 ~]# service jenkins start
+Starting Jenkins                                           [  OK  ]
+[root@ip-172-31-24-16 ~]# service jenkins status
+jenkins (pid  12631) is running...
+[root@ip-172-31-24-16 ~]# su - jenkins
+Last failed login: Fri Apr 29 16:56:39 UTC 2016 from 117.79.130.206 on ssh:notty
+There was 1 failed login attempt since the last successful login.
+[root@ip-172-31-24-16 ~]# chmod 755 /var/lib/jenkins/secrets/initialAdminPassword
+[root@ip-172-31-24-16 ~]# chown jenkins:jenkins /var/lib/jenkins/secrets/initialAdminPassword
+[root@ip-172-31-24-16 ~]# /var/lib/jenkins/secrets/initialAdminPassword
+/var/lib/jenkins/secrets/initialAdminPassword: line 1: 85fc738e23a046c8b795191b2e23491b: command not found
+[root@ip-172-31-24-16 ~]# cat /var/lib/jenkins/secrets/initialAdminPassword
+85fc738e23a046c8b795191b2e23491b
+[root@ip-172-31-24-16 ~]# 85fc738e23a046c8b795191b2e23491b
