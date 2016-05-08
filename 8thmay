@@ -1,0 +1,261 @@
+login as: ec2-user
+Authenticating with public key "imported-openssh-key"
+Last login: Sun May  8 06:48:00 2016 from 183.82.115.14
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux AMI
+      ___|\___|___|
+
+https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
+[ec2-user@ip-172-31-27-30 ~]$ sudo -i
+[root@ip-172-31-27-30 ~]# service jenkins status
+jenkins (pid  23671) is running...
+[root@ip-172-31-27-30 ~]# mvn
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 0.104s
+[INFO] Finished at: Sun May 08 08:45:28 UTC 2016
+[INFO] Final Memory: 4M/15M
+[INFO] ------------------------------------------------------------------------
+[ERROR] No goals have been specified for this build. You must specify a valid lifecycle phase or a goal in the format <plugin-prefix>:<goal> or <plugin-group-id>:<plugin-artifact-id>[:<plugin-version>]:<goal>. Available lifecycle phases are: validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy, pre-clean, clean, post-clean, pre-site, site, post-site, site-deploy. -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/NoGoalSpecifiedException
+[root@ip-172-31-27-30 ~]# vi /var/lib/jenkins/config.xml
+[root@ip-172-31-27-30 ~]# service jenkins restart
+Shutting down Jenkins                                      [  OK  ]
+Starting Jenkins                                           [  OK  ]
+[root@ip-172-31-27-30 ~]# chmod 755 -R /var/lib/jenkins/workspace/Maven/
+[root@ip-172-31-27-30 ~]# chown jenkins:jenkins -R /var/lib/jenkins/workspace/Maven
+[root@ip-172-31-27-30 ~]# ls
+apache-maven-3.0.5-bin.tar.gz  apache-maven-3.0.5-bin.tar.gz.1  my-app
+[root@ip-172-31-27-30 ~]# cd my-app
+[root@ip-172-31-27-30 my-app]# ls
+pom.xml  src  target
+[root@ip-172-31-27-30 my-app]# cp . -rf /var/lib/jenkins/workspace/Maven
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./target/surefire-reports/com.mycompany.app.AppTest.txt’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./target/surefire-reports/TEST-com.mycompany.app.AppTest.xml’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./target/classes/com/mycompany/app/App.class’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./target/maven-archiver/pom.properties’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./target/test-classes/com/mycompany/app/AppTest.class’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./target/my-app-1.0-SNAPSHOT.jar’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/description’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/info/exclude’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/HEAD’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/hooks/post-update.sample’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/hooks/pre-push.sample’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/hooks/pre-commit.sample’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/hooks/commit-msg.sample’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/hooks/pre-applypatch.sample’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/hooks/update.sample’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/hooks/prepare-commit-msg.sample’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/hooks/pre-rebase.sample’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/hooks/applypatch-msg.sample’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./.git/config’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./pom.xml’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./src/main/java/com/mycompany/app/App.java’? y
+cp: overwrite ‘/var/lib/jenkins/workspace/Maven/./src/test/java/com/mycompany/app/AppTest.java’? y
+[root@ip-172-31-27-30 my-app]# y
+-bash: y: command not found
+[root@ip-172-31-27-30 my-app]# cd /var/lib/jenkins/workspace/Maven
+[root@ip-172-31-27-30 Maven]# ls
+pom.xml  src  target
+[root@ip-172-31-27-30 Maven]# ls -l
+total 12
+-rwxr-xr-x 1 jenkins jenkins  642 May  8 08:55 pom.xml
+drwxr-xr-x 4 jenkins jenkins 4096 May  8 08:35 src
+drwxr-xr-x 7 jenkins jenkins 4096 May  8 08:35 target
+[root@ip-172-31-27-30 Maven]# cd ..
+[root@ip-172-31-27-30 workspace]# cd /
+[root@ip-172-31-27-30 /]# yum install puppet
+Loaded plugins: priorities, update-motd, upgrade-helper
+amzn-main/latest                                         | 2.1 kB     00:00
+amzn-updates/latest                                      | 2.3 kB     00:00
+jenkins                                                  | 2.9 kB     00:00
+Resolving Dependencies
+--> Running transaction check
+---> Package puppet.noarch 0:2.7.25-1.7.amzn1 will be installed
+--> Processing Dependency: facter < 2 for package: puppet-2.7.25-1.7.amzn1.noarch
+--> Processing Dependency: ruby18-augeas for package: puppet-2.7.25-1.7.amzn1.noarch
+--> Processing Dependency: ruby18-shadow for package: puppet-2.7.25-1.7.amzn1.noarch
+--> Processing Dependency: ruby18 for package: puppet-2.7.25-1.7.amzn1.noarch
+--> Processing Dependency: /usr/bin/ruby1.8 for package: puppet-2.7.25-1.7.amzn1.noarch
+--> Running transaction check
+---> Package facter.noarch 0:1.6.18-7.26.amzn1 will be installed
+--> Processing Dependency: ruby(abi) = 1.8 for package: facter-1.6.18-7.26.amzn1.noarch
+---> Package ruby18.x86_64 0:1.8.7.374-2.42.4.amzn1 will be installed
+---> Package ruby18-augeas.x86_64 0:0.5.0-1.10.amzn1 will be installed
+--> Processing Dependency: augeas-libs >= 1.0.0 for package: ruby18-augeas-0.5.0-1.10.amzn1.x86_64
+--> Processing Dependency: libaugeas.so.0(AUGEAS_0.14.0)(64bit) for package: ruby18-augeas-0.5.0-1.10.amzn1.x86_64
+--> Processing Dependency: libaugeas.so.0(AUGEAS_0.1.0)(64bit) for package: ruby18-augeas-0.5.0-1.10.amzn1.x86_64
+--> Processing Dependency: libaugeas.so.0(AUGEAS_0.11.0)(64bit) for package: ruby18-augeas-0.5.0-1.10.amzn1.x86_64
+--> Processing Dependency: libaugeas.so.0(AUGEAS_0.8.0)(64bit) for package: ruby18-augeas-0.5.0-1.10.amzn1.x86_64
+--> Processing Dependency: libaugeas.so.0(AUGEAS_0.12.0)(64bit) for package: ruby18-augeas-0.5.0-1.10.amzn1.x86_64
+--> Processing Dependency: libaugeas.so.0(AUGEAS_0.10.0)(64bit) for package: ruby18-augeas-0.5.0-1.10.amzn1.x86_64
+--> Processing Dependency: libaugeas.so.0(AUGEAS_0.16.0)(64bit) for package: ruby18-augeas-0.5.0-1.10.amzn1.x86_64
+--> Processing Dependency: libaugeas.so.0()(64bit) for package: ruby18-augeas-0.5.0-1.10.amzn1.x86_64
+---> Package ruby18-shadow.x86_64 0:1.4.1-25.18.amzn1 will be installed
+--> Running transaction check
+---> Package augeas-libs.x86_64 0:1.0.0-5.7.amzn1 will be installed
+---> Package ruby18-libs.x86_64 0:1.8.7.374-2.42.4.amzn1 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package           Arch       Version                       Repository     Size
+================================================================================
+Installing:
+ puppet            noarch     2.7.25-1.7.amzn1              amzn-main     1.1 M
+Installing for dependencies:
+ augeas-libs       x86_64     1.0.0-5.7.amzn1               amzn-main     345 k
+ facter            noarch     1.6.18-7.26.amzn1             amzn-main      63 k
+ ruby18            x86_64     1.8.7.374-2.42.4.amzn1        amzn-main     385 k
+ ruby18-augeas     x86_64     0.5.0-1.10.amzn1              amzn-main      25 k
+ ruby18-libs       x86_64     1.8.7.374-2.42.4.amzn1        amzn-main     2.1 M
+ ruby18-shadow     x86_64     1.4.1-25.18.amzn1             amzn-main      14 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+6 Dependent packages)
+
+Total download size: 4.0 M
+Installed size: 12 M
+Is this ok [y/d/N]: y
+Downloading packages:
+(1/7): augeas-libs-1.0.0-5.7.amzn1.x86_64.rpm            | 345 kB     00:00
+(2/7): facter-1.6.18-7.26.amzn1.noarch.rpm               |  63 kB     00:00
+(3/7): puppet-2.7.25-1.7.amzn1.noarch.rpm                | 1.1 MB     00:00
+(4/7): ruby18-1.8.7.374-2.42.4.amzn1.x86_64.rpm          | 385 kB     00:00
+(5/7): ruby18-augeas-0.5.0-1.10.amzn1.x86_64.rpm         |  25 kB     00:00
+(6/7): ruby18-libs-1.8.7.374-2.42.4.amzn1.x86_64.rpm     | 2.1 MB     00:00
+(7/7): ruby18-shadow-1.4.1-25.18.amzn1.x86_64.rpm        |  14 kB     00:00
+--------------------------------------------------------------------------------
+Total                                               15 MB/s | 4.0 MB  00:00
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : ruby18-libs-1.8.7.374-2.42.4.amzn1.x86_64                    1/7
+  Installing : ruby18-1.8.7.374-2.42.4.amzn1.x86_64                         2/7
+  Installing : facter-1.6.18-7.26.amzn1.noarch                              3/7
+  Installing : ruby18-shadow-1.4.1-25.18.amzn1.x86_64                       4/7
+  Installing : augeas-libs-1.0.0-5.7.amzn1.x86_64                           5/7
+  Installing : ruby18-augeas-0.5.0-1.10.amzn1.x86_64                        6/7
+  Installing : puppet-2.7.25-1.7.amzn1.noarch                               7/7
+  Verifying  : ruby18-1.8.7.374-2.42.4.amzn1.x86_64                         1/7
+  Verifying  : ruby18-shadow-1.4.1-25.18.amzn1.x86_64                       2/7
+  Verifying  : augeas-libs-1.0.0-5.7.amzn1.x86_64                           3/7
+  Verifying  : puppet-2.7.25-1.7.amzn1.noarch                               4/7
+  Verifying  : ruby18-augeas-0.5.0-1.10.amzn1.x86_64                        5/7
+  Verifying  : ruby18-libs-1.8.7.374-2.42.4.amzn1.x86_64                    6/7
+  Verifying  : facter-1.6.18-7.26.amzn1.noarch                              7/7
+
+Installed:
+  puppet.noarch 0:2.7.25-1.7.amzn1
+
+Dependency Installed:
+  augeas-libs.x86_64 0:1.0.0-5.7.amzn1
+  facter.noarch 0:1.6.18-7.26.amzn1
+  ruby18.x86_64 0:1.8.7.374-2.42.4.amzn1
+  ruby18-augeas.x86_64 0:0.5.0-1.10.amzn1
+  ruby18-libs.x86_64 0:1.8.7.374-2.42.4.amzn1
+  ruby18-shadow.x86_64 0:1.4.1-25.18.amzn1
+
+Complete!
+[root@ip-172-31-27-30 /]# /etc/puppet/
+-bash: /etc/puppet/: Is a directory
+[root@ip-172-31-27-30 /]# cd /etc/puppet
+[root@ip-172-31-27-30 puppet]# mkdir manifests
+[root@ip-172-31-27-30 puppet]# ls
+auth.conf  manifests  puppet.conf
+[root@ip-172-31-27-30 puppet]# cd manifests
+[root@ip-172-31-27-30 manifests]# ls
+[root@ip-172-31-27-30 manifests]# touch java.pp
+[root@ip-172-31-27-30 manifests]# touch mysql.pp
+[root@ip-172-31-27-30 manifests]# ls
+java.pp  mysql.pp
+[root@ip-172-31-27-30 manifests]# cd ..
+[root@ip-172-31-27-30 puppet]# mkdir modules
+[root@ip-172-31-27-30 puppet]# cd modules
+[root@ip-172-31-27-30 modules]# puppet modules install puppetlabs-java
+Error: Unknown Puppet subcommand 'modules'
+See 'puppet help' for help on available puppet subcommands
+[root@ip-172-31-27-30 modules]# puppet module install puppetlaba-java
+Preparing to install into /etc/puppet/modules ...
+Downloading from http://forge.puppetlabs.com ...
+Error: Could not find release information for this module (puppetlaba/java) (HTTP 410)
+Error: Try 'puppet help module install' for usage
+[root@ip-172-31-27-30 modules]# puppet module install puppetlabs-java
+Preparing to install into /etc/puppet/modules ...
+Downloading from http://forge.puppetlabs.com ...
+Installing -- do not interrupt ...
+/etc/puppet/modules
+└─┬ puppetlabs-java (v1.5.0)
+  └── puppetlabs-stdlib (v4.12.0)
+[root@ip-172-31-27-30 modules]# puppet module install puppetlabs-mysql
+Preparing to install into /etc/puppet/modules ...
+Downloading from http://forge.puppetlabs.com ...
+Installing -- do not interrupt ...
+/etc/puppet/modules
+└─┬ puppetlabs-mysql (v3.7.0)
+  └── nanliu-staging (v1.0.3)
+[root@ip-172-31-27-30 modules]# cd ..
+[root@ip-172-31-27-30 puppet]# cd manifests
+[root@ip-172-31-27-30 manifests]# ls
+java.pp  mysql.pp
+[root@ip-172-31-27-30 manifests]# vi java.pp
+[root@ip-172-31-27-30 manifests]# puppet apply -v java.pp
+info: Loading facts in /etc/puppet/modules/mysql/lib/facter/mysql_version.rb
+info: Loading facts in /etc/puppet/modules/mysql/lib/facter/mysql_server_id.rb
+info: Loading facts in /etc/puppet/modules/staging/lib/facter/staging_http_get.rb
+info: Loading facts in /etc/puppet/modules/staging/lib/facter/staging_windir.rb
+info: Loading facts in /etc/puppet/modules/java/lib/facter/java_major_version.rb
+info: Loading facts in /etc/puppet/modules/java/lib/facter/java_default_home.rb
+info: Loading facts in /etc/puppet/modules/java/lib/facter/java_libjvm_path.rb
+info: Loading facts in /etc/puppet/modules/java/lib/facter/java_version.rb
+info: Loading facts in /etc/puppet/modules/java/lib/facter/java_patch_level.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/service_provider.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/package_provider.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/puppet_vardir.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/facter_dot_d.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/root_home.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/pe_version.rb
+unsupported platform Linux at /etc/puppet/modules/java/manifests/params.pp:192 on node ip-172-31-27-30.us-west-2.compute.internal
+[root@ip-172-31-27-30 manifests]# java -version
+java version "1.7.0_101"
+OpenJDK Runtime Environment (amzn-2.6.6.1.67.amzn1-x86_64 u101-b00)
+OpenJDK 64-Bit Server VM (build 24.95-b01, mixed mode)
+[root@ip-172-31-27-30 manifests]# vi mysql.pp
+[root@ip-172-31-27-30 manifests]# puppet apply -v mysql.pp
+info: Loading facts in /etc/puppet/modules/mysql/lib/facter/mysql_version.rb
+info: Loading facts in /etc/puppet/modules/mysql/lib/facter/mysql_server_id.rb
+info: Loading facts in /etc/puppet/modules/staging/lib/facter/staging_http_get.rb
+info: Loading facts in /etc/puppet/modules/staging/lib/facter/staging_windir.rb
+info: Loading facts in /etc/puppet/modules/java/lib/facter/java_major_version.rb
+info: Loading facts in /etc/puppet/modules/java/lib/facter/java_default_home.rb
+info: Loading facts in /etc/puppet/modules/java/lib/facter/java_libjvm_path.rb
+info: Loading facts in /etc/puppet/modules/java/lib/facter/java_version.rb
+info: Loading facts in /etc/puppet/modules/java/lib/facter/java_patch_level.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/service_provider.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/package_provider.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/puppet_vardir.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/facter_dot_d.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/root_home.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/pe_version.rb
+info: Applying configuration version '1462698864'
+notice: /Stage[main]/Mysql::Server::Install/Package[mysql-server]/ensure: created
+info: FileBucket adding {md5}c1b99ef7dce9310bd1ca1447f1584244
+info: /Stage[main]/Mysql::Server::Config/File[mysql-config-file]: Filebucketed /etc/my.cnf to puppet with sum c1b99ef7dce9310bd1ca1447f1584244
+notice: /Stage[main]/Mysql::Server::Config/File[mysql-config-file]/content: content changed '{md5}c1b99ef7dce9310bd1ca1447f1584244' to '{md5}4a56a47b135b41f6840bfc3db07b34ee'
+notice: /Stage[main]/Mysql::Server::Config/File[/etc/my.cnf.d]/ensure: created
+notice: /Stage[main]/Mysql::Server::Installdb/Mysql_datadir[/var/lib/mysql]/ensure: created
+notice: /Stage[main]/Mysql::Server::Service/Service[mysqld]/ensure: ensure changed 'stopped' to 'running'
+info: Creating state file /var/lib/puppet/state/state.yaml
+notice: Finished catalog run in 7.95 seconds
+[root@ip-172-31-27-30 manifests]# vi java.pp
