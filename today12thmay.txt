@@ -1,0 +1,199 @@
+ git clone https://github.com/telmerobert/DEVOPS.git
+  912  ls
+  913  cd DEVOPS/
+  914  ls
+  915  ls
+  916  ls -l
+  917  touch vagrant.txt docker.txt nexus.txt maven.txt jenkins.txt
+  918  ls -l
+  919  git add .
+  920  ls -l
+  921  git status
+  922  git commit -m "adding all the fiels"
+  923  git status
+  924  git branch
+  925  git branch -a
+  926  git push
+  927  git branch dev
+  928  git branch stg
+  929  git branch prod
+  930  git brnach
+  931  git branch
+  932  git status
+  933  git checkout dev
+  934  ls
+  935  ls -l
+  936  git branch
+  937  touch dev.txt
+  938  git add .
+  939  git commit -m "adding dev file in dev branch"
+  940  git status
+  941  ls -a
+  942  ls -l
+  943  git checkout master
+  944  ls -l
+  945  git merge dev
+  946  git status
+  947  ls -l
+  948  git branch
+  949  git push
+  950  git status
+  951  clear
+  952  curl -fsSL https://get.docker.com/ | sh
+  953  service docker status
+  954  service docker start
+  955  docker pull official-images/library/tomcat
+  956  docker pull library/tomcat
+  957  docker run -it --rm -p 8888:8080 tomcat:8.0
+  958  ps -ef | grep tomcat
+  959  clear
+  960  ps -ef | grep tomcat
+  961  docker ps
+  962  ps -ef | grep tomcat
+  963  pythog
+  964  py
+  965  python --version
+  966  docker pull python
+  967  find / -name tomcat-users.xml
+  968  cd /usr/local
+  969  ls
+  970  ls -a
+  971  cd tomcat
+  972  find / -name tomcat
+  973  find / -name .docker
+  974  cd /var/lib
+  975  ls
+  976  cd docker
+  977  ls
+  978  cd containers
+  979  ls
+  980  cat 0a768b764dcc946f9c35623c09488242e713534919bd9e1696198c343f7d2b3a
+  981  cat 0a76
+  982  git cat-file -p  0a768b7
+  983  ls
+  984  cd ..
+  985  ls
+  986  cd image
+  987  ls
+  988  cd devicemapper/
+  989  ls
+  990  cat repositories.json
+  991  ls
+  992  cd ,,
+  993  cd ..
+  994  ls
+  995  cd ..
+  996  ls
+  997  cd volumes
+  998  ls
+  999  cat metadata.db
+ 1000  PuTTYPuTTYPuTTYq1
+ 1001  pwd
+ 1002  git branch
+ 1003  find / -name .git
+ 1004  cd /root/GitRepo/DEVOPS/
+ 1005  ls
+ 1006  git status
+ 1007  ls -a
+ 1008  ls -l
+ 1009  git log -1
+ 1010  git log -2
+ 1011  git log -3
+ 1012  clear
+ 1013  git log -1
+ 1014  ls -a
+ 1015  cd .git
+ 1016  ls
+ 1017  cd objects
+ 1018  ls
+ 1019  cd ..
+ 1020  ls
+ 1021  ls -l
+ 1022  git status
+ 1023  git log -1
+ 1024  git log -1 --pretty=oneline:%ar
+ 1025  git log -1 --pretty=oneline:%ad
+ 1026  git log -1
+ 1027  clear
+ 1028  git log -q
+ 1029  git log -1
+ 1030  git show 4b247e3daaf9c7c03fac3ffc8b5eaf7985ed7b18
+ 1031  git show 4b247e3
+ 1032  clear
+ 1033  git show 4b247e3
+ 1034  git cat-file -p 4b247e3
+ 1035  clear
+ 1036  cd .git
+ 1037  ls
+ 1038  cd refs
+ 1039  ls
+ 1040  cd remotes
+ 1041  ls
+ 1042  cd origin
+ 1043  ls
+ 1044  cd HEAD
+ 1045  ls
+ 1046  cat HEAD
+ 1047  cat remotes
+ 1048  cd remotes
+ 1049  cat master
+ 1050  pwd
+ 1051  cd ..
+ 1052  cd HEAD
+ 1053  cat HEAD
+ 1054  ls -l
+ 1055  pwd
+ 1056  ls
+ 1057  cd origin
+ 1058  ls
+ 1059  cat HEAD
+ 1060  git status
+ 1061  git branch -a
+ 1062  git status
+ 1063  git diff master dev
+ 1064  git diff master stg
+ 1065  cd ../../../../
+ 1066  cd ..
+ 1067  ls
+ 1068  git clone git@github.com:telmerobert/DocRepository.git
+ 1069  ssh-keygen rsa -c 4096 "telmerobert@gmail.com"
+ 1070  ssh-keygen -a rsa -c 4096 "telmerobert@gmail.com"
+ 1071  ssh-keygen -t rsa -b 4096 -C "telmerobert@gmail.com"
+ 1072  ls -a
+ 1073  cd /root
+ 1074  ls -a
+ 1075  cd .ssh
+ 1076  ls
+ 1077  ls -a
+ 1078  cat id_rsa
+ 1079  cat id_rsa.pub
+ 1080  clear
+ 1081  wget tighub.com
+ 1082  wget github.com
+ 1083  wget google.com
+ 1084  git clone git@github.com:telmerobert/DocRepository.git
+ 1085  ls
+ 1086  mv DockRepository /root/GitRepo
+ 1087  mv ./* /root/GitRepo
+ 1088  cd /root
+ 1089  ls
+ 1090  cd GitRepo/
+ 1091  ls
+ 1092  cd /root
+ 1093  ls
+ 1094  cd .ssh
+ 1095  ls
+ 1096  cd /root
+ 1097  ls
+ 1098  cd GitRepo/
+ 1099  ls
+ 1100  cp . /* /root/.ssh/
+ 1101  cp ./* /root/.ssh/
+ 1102  mv authorized_keys id_rsa id_rsa.pub known_hosts /root/.ssh/
+ 1103  ls
+ 1104  cd DocRepository/
+ 1105  ls
+ 1106  git status
+ 1107  history
+[root@ip-172-31-40-128 DocRepository]#
+
