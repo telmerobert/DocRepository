@@ -1,0 +1,1801 @@
+/root/.m2/repository/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+/root/.m2/repository/org/apache/maven/plugins/maven-site-plugin
+/root/.m2/repository/org/apache/maven/plugins/maven-site-plugin/3.0
+/root/.m2/repository/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.pom.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.pom
+/root/.m2/repository/org/apache/maven/plugins/maven-site-plugin/3.0/_maven.repositories
+/root/.m2/repository/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.jar.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-site-plugin/3.0/maven-site-plugin-3.0.jar
+/root/.m2/repository/org/apache/maven/plugins/maven-antrun-plugin
+/root/.m2/repository/org/apache/maven/plugins/maven-antrun-plugin/1.3
+/root/.m2/repository/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.pom.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.pom
+/root/.m2/repository/org/apache/maven/plugins/maven-antrun-plugin/1.3/_maven.repositories
+/root/.m2/repository/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.jar.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.jar
+/root/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin
+/root/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5
+/root/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.pom.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.pom
+/root/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/_maven.repositories
+/root/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.jar.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.jar
+/root/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin
+/root/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/2.1
+/root/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/2.1/maven-dependency-plugin-2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/2.1/maven-dependency-plugin-2.1.pom
+/root/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/2.1/maven-dependency-plugin-2.1.jar.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-dependency-plugin/2.1/maven-dependency-plugin-2.1.jar
+/root/.m2/repository/org/apache/maven/plugins/maven-release-plugin
+/root/.m2/repository/org/apache/maven/plugins/maven-release-plugin/2.0
+/root/.m2/repository/org/apache/maven/plugins/maven-release-plugin/2.0/maven-release-plugin-2.0.pom.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-release-plugin/2.0/maven-release-plugin-2.0.pom
+/root/.m2/repository/org/apache/maven/plugins/maven-release-plugin/2.0/_maven.repositories
+/root/.m2/repository/org/apache/maven/plugins/maven-release-plugin/2.0/maven-release-plugin-2.0.jar.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-release-plugin/2.0/maven-release-plugin-2.0.jar
+/root/.m2/repository/org/apache/maven/plugins/maven-metadata-central.xml.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-metadata-central.xml
+/root/.m2/repository/org/apache/maven/plugins/resolver-status.properties
+/root/.m2/repository/org/apache/maven/plugins/maven-archetype-plugin
+/root/.m2/repository/org/apache/maven/plugins/maven-archetype-plugin/maven-metadata-central.xml.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-archetype-plugin/maven-metadata-central.xml
+/root/.m2/repository/org/apache/maven/plugins/maven-archetype-plugin/resolver-status.properties
+/root/.m2/repository/org/apache/maven/plugins/maven-archetype-plugin/2.4
+/root/.m2/repository/org/apache/maven/plugins/maven-archetype-plugin/2.4/maven-archetype-plugin-2.4.pom.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-archetype-plugin/2.4/maven-archetype-plugin-2.4.pom
+/root/.m2/repository/org/apache/maven/plugins/maven-archetype-plugin/2.4/_maven.repositories
+/root/.m2/repository/org/apache/maven/plugins/maven-archetype-plugin/2.4/maven-archetype-plugin-2.4.jar.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-archetype-plugin/2.4/maven-archetype-plugin-2.4.jar
+/root/.m2/repository/org/apache/maven/plugins/maven-resources-plugin
+/root/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/2.5
+/root/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+/root/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/2.5/_maven.repositories
+/root/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar
+/root/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin
+/root/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin/2.3.2
+/root/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom
+/root/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/_maven.repositories
+/root/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar
+/root/.m2/repository/org/apache/maven/plugins/maven-surefire-plugin
+/root/.m2/repository/org/apache/maven/plugins/maven-surefire-plugin/2.10
+/root/.m2/repository/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom
+/root/.m2/repository/org/apache/maven/plugins/maven-surefire-plugin/2.10/_maven.repositories
+/root/.m2/repository/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar
+/root/.m2/repository/org/apache/maven/plugins/maven-jar-plugin
+/root/.m2/repository/org/apache/maven/plugins/maven-jar-plugin/2.3.2
+/root/.m2/repository/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+/root/.m2/repository/org/apache/maven/plugins/maven-jar-plugin/2.3.2/_maven.repositories
+/root/.m2/repository/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar.sha1
+/root/.m2/repository/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+/root/.m2/repository/org/apache/maven/maven-parent
+/root/.m2/repository/org/apache/maven/maven-parent/16
+/root/.m2/repository/org/apache/maven/maven-parent/16/maven-parent-16.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/16/maven-parent-16.pom
+/root/.m2/repository/org/apache/maven/maven-parent/16/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-parent/21
+/root/.m2/repository/org/apache/maven/maven-parent/21/maven-parent-21.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/21/maven-parent-21.pom
+/root/.m2/repository/org/apache/maven/maven-parent/21/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-parent/20
+/root/.m2/repository/org/apache/maven/maven-parent/20/maven-parent-20.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/20/maven-parent-20.pom
+/root/.m2/repository/org/apache/maven/maven-parent/20/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-parent/9
+/root/.m2/repository/org/apache/maven/maven-parent/9/maven-parent-9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/9/maven-parent-9.pom
+/root/.m2/repository/org/apache/maven/maven-parent/9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-parent/15
+/root/.m2/repository/org/apache/maven/maven-parent/15/maven-parent-15.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/15/maven-parent-15.pom
+/root/.m2/repository/org/apache/maven/maven-parent/15/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-parent/26
+/root/.m2/repository/org/apache/maven/maven-parent/26/maven-parent-26.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/26/maven-parent-26.pom
+/root/.m2/repository/org/apache/maven/maven-parent/26/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-parent/11
+/root/.m2/repository/org/apache/maven/maven-parent/11/maven-parent-11.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/11/maven-parent-11.pom
+/root/.m2/repository/org/apache/maven/maven-parent/11/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-parent/22
+/root/.m2/repository/org/apache/maven/maven-parent/22/maven-parent-22.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/22/maven-parent-22.pom
+/root/.m2/repository/org/apache/maven/maven-parent/22/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-parent/19
+/root/.m2/repository/org/apache/maven/maven-parent/19/maven-parent-19.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/19/maven-parent-19.pom
+/root/.m2/repository/org/apache/maven/maven-parent/19/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-parent/5
+/root/.m2/repository/org/apache/maven/maven-parent/5/maven-parent-5.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/5/maven-parent-5.pom
+/root/.m2/repository/org/apache/maven/maven-parent/5/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-parent/8
+/root/.m2/repository/org/apache/maven/maven-parent/8/maven-parent-8.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/8/maven-parent-8.pom
+/root/.m2/repository/org/apache/maven/maven-parent/8/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-parent/13
+/root/.m2/repository/org/apache/maven/maven-parent/13/maven-parent-13.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-parent/13/maven-parent-13.pom
+/root/.m2/repository/org/apache/maven/maven-parent/13/_maven.repositories
+/root/.m2/repository/org/apache/maven/release
+/root/.m2/repository/org/apache/maven/release/maven-release
+/root/.m2/repository/org/apache/maven/release/maven-release/2.0
+/root/.m2/repository/org/apache/maven/release/maven-release/2.0/maven-release-2.0.pom.sha1
+/root/.m2/repository/org/apache/maven/release/maven-release/2.0/maven-release-2.0.pom
+/root/.m2/repository/org/apache/maven/release/maven-release/2.0/_maven.repositories
+/root/.m2/repository/org/apache/maven/archetype
+/root/.m2/repository/org/apache/maven/archetype/maven-archetype
+/root/.m2/repository/org/apache/maven/archetype/maven-archetype/2.4
+/root/.m2/repository/org/apache/maven/archetype/maven-archetype/2.4/maven-archetype-2.4.pom.sha1
+/root/.m2/repository/org/apache/maven/archetype/maven-archetype/2.4/maven-archetype-2.4.pom
+/root/.m2/repository/org/apache/maven/archetype/maven-archetype/2.4/_maven.repositories
+/root/.m2/repository/org/apache/maven/archetype/archetype-catalog
+/root/.m2/repository/org/apache/maven/archetype/archetype-catalog/2.4
+/root/.m2/repository/org/apache/maven/archetype/archetype-catalog/2.4/archetype-catalog-2.4.pom.sha1
+/root/.m2/repository/org/apache/maven/archetype/archetype-catalog/2.4/archetype-catalog-2.4.pom
+/root/.m2/repository/org/apache/maven/archetype/archetype-catalog/2.4/_maven.repositories
+/root/.m2/repository/org/apache/maven/archetype/archetype-catalog/2.4/archetype-catalog-2.4.jar.sha1
+/root/.m2/repository/org/apache/maven/archetype/archetype-catalog/2.4/archetype-catalog-2.4.jar
+/root/.m2/repository/org/apache/maven/archetype/archetype-models
+/root/.m2/repository/org/apache/maven/archetype/archetype-models/2.4
+/root/.m2/repository/org/apache/maven/archetype/archetype-models/2.4/archetype-models-2.4.pom.sha1
+/root/.m2/repository/org/apache/maven/archetype/archetype-models/2.4/archetype-models-2.4.pom
+/root/.m2/repository/org/apache/maven/archetype/archetype-models/2.4/_maven.repositories
+/root/.m2/repository/org/apache/maven/archetype/archetype-descriptor
+/root/.m2/repository/org/apache/maven/archetype/archetype-descriptor/2.4
+/root/.m2/repository/org/apache/maven/archetype/archetype-descriptor/2.4/archetype-descriptor-2.4.pom.sha1
+/root/.m2/repository/org/apache/maven/archetype/archetype-descriptor/2.4/archetype-descriptor-2.4.pom
+/root/.m2/repository/org/apache/maven/archetype/archetype-descriptor/2.4/_maven.repositories
+/root/.m2/repository/org/apache/maven/archetype/archetype-descriptor/2.4/archetype-descriptor-2.4.jar.sha1
+/root/.m2/repository/org/apache/maven/archetype/archetype-descriptor/2.4/archetype-descriptor-2.4.jar
+/root/.m2/repository/org/apache/maven/archetype/archetype-registry
+/root/.m2/repository/org/apache/maven/archetype/archetype-registry/2.4
+/root/.m2/repository/org/apache/maven/archetype/archetype-registry/2.4/archetype-registry-2.4.pom.sha1
+/root/.m2/repository/org/apache/maven/archetype/archetype-registry/2.4/archetype-registry-2.4.pom
+/root/.m2/repository/org/apache/maven/archetype/archetype-registry/2.4/_maven.repositories
+/root/.m2/repository/org/apache/maven/archetype/archetype-registry/2.4/archetype-registry-2.4.jar.sha1
+/root/.m2/repository/org/apache/maven/archetype/archetype-registry/2.4/archetype-registry-2.4.jar
+/root/.m2/repository/org/apache/maven/archetype/archetype-common
+/root/.m2/repository/org/apache/maven/archetype/archetype-common/2.4
+/root/.m2/repository/org/apache/maven/archetype/archetype-common/2.4/archetype-common-2.4.pom.sha1
+/root/.m2/repository/org/apache/maven/archetype/archetype-common/2.4/archetype-common-2.4.pom
+/root/.m2/repository/org/apache/maven/archetype/archetype-common/2.4/_maven.repositories
+/root/.m2/repository/org/apache/maven/archetype/archetype-common/2.4/archetype-common-2.4.jar.sha1
+/root/.m2/repository/org/apache/maven/archetype/archetype-common/2.4/archetype-common-2.4.jar
+/root/.m2/repository/org/apache/maven/maven-model
+/root/.m2/repository/org/apache/maven/maven-model/2.2.1
+/root/.m2/repository/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-model/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-model/2.0.6
+/root/.m2/repository/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-model/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-model/2.0.9
+/root/.m2/repository/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-model/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven
+/root/.m2/repository/org/apache/maven/maven/2.2.1
+/root/.m2/repository/org/apache/maven/maven/2.2.1/maven-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven/2.2.1/maven-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven/2.0.6
+/root/.m2/repository/org/apache/maven/maven/2.0.6/maven-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven/2.0.6/maven-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven/2.0.9
+/root/.m2/repository/org/apache/maven/maven/2.0.9/maven-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven/2.0.9/maven-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-project
+/root/.m2/repository/org/apache/maven/maven-project/2.2.1
+/root/.m2/repository/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-project/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-project/2.0.6
+/root/.m2/repository/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-project/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-project/2.0.9
+/root/.m2/repository/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-project/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-settings
+/root/.m2/repository/org/apache/maven/maven-settings/2.2.1
+/root/.m2/repository/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-settings/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-settings/2.0.6
+/root/.m2/repository/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-settings/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-settings/2.0.9
+/root/.m2/repository/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-settings/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-profile
+/root/.m2/repository/org/apache/maven/maven-profile/2.2.1
+/root/.m2/repository/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-profile/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-profile/2.0.6
+/root/.m2/repository/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-profile/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-profile/2.0.9
+/root/.m2/repository/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-profile/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-artifact-manager
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.2.1
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.0.6
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.0.9
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-artifact-manager/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-repository-metadata
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.2.1
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.0.6
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.0.9
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-repository-metadata/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-artifact
+/root/.m2/repository/org/apache/maven/maven-artifact/2.2.1
+/root/.m2/repository/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-artifact/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-artifact/2.0.6
+/root/.m2/repository/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-artifact/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-artifact/2.0.9
+/root/.m2/repository/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-artifact/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-plugin-registry
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.2.1
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.0.6
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.0.9
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-registry/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/shared
+/root/.m2/repository/org/apache/maven/shared/maven-invoker
+/root/.m2/repository/org/apache/maven/shared/maven-invoker/2.1.1
+/root/.m2/repository/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.pom.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.pom
+/root/.m2/repository/org/apache/maven/shared/maven-invoker/2.1.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.jar.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.jar
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/18
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/18/maven-shared-components-18.pom.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/18/maven-shared-components-18.pom
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/18/_maven.repositories
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/17
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/17/maven-shared-components-17.pom.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/17/maven-shared-components-17.pom
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/17/_maven.repositories
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/16
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/16/_maven.repositories
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/12
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/12/maven-shared-components-12.pom.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/12/maven-shared-components-12.pom
+/root/.m2/repository/org/apache/maven/shared/maven-shared-components/12/_maven.repositories
+/root/.m2/repository/org/apache/maven/shared/maven-script-interpreter
+/root/.m2/repository/org/apache/maven/shared/maven-script-interpreter/1.0
+/root/.m2/repository/org/apache/maven/shared/maven-script-interpreter/1.0/maven-script-interpreter-1.0.pom.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-script-interpreter/1.0/maven-script-interpreter-1.0.pom
+/root/.m2/repository/org/apache/maven/shared/maven-script-interpreter/1.0/_maven.repositories
+/root/.m2/repository/org/apache/maven/shared/maven-script-interpreter/1.0/maven-script-interpreter-1.0.jar.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-script-interpreter/1.0/maven-script-interpreter-1.0.jar
+/root/.m2/repository/org/apache/maven/shared/maven-filtering
+/root/.m2/repository/org/apache/maven/shared/maven-filtering/1.0
+/root/.m2/repository/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom
+/root/.m2/repository/org/apache/maven/shared/maven-filtering/1.0/_maven.repositories
+/root/.m2/repository/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar
+/root/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters
+/root/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters/1.3
+/root/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.pom.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.pom
+/root/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters/1.3/_maven.repositories
+/root/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.jar.sha1
+/root/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.jar
+/root/.m2/repository/org/apache/maven/maven-plugin-api
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.2.1
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.0.6
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.0.9
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-api/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-core
+/root/.m2/repository/org/apache/maven/maven-core/2.2.1
+/root/.m2/repository/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-core/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-core/2.0.6
+/root/.m2/repository/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-core/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-core/2.0.9
+/root/.m2/repository/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-core/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.2.1
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.0.6
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.0.9
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/reporting
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar.sha1
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar.sha1
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar.sha1
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.1
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.6
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.9
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom
+/root/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/doxia
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.pom.sha1
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.pom
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.jar.sha1
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.jar
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.pom.sha1
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.pom
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/_maven.repositories
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar.sha1
+/root/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar
+/root/.m2/repository/org/apache/maven/doxia/doxia
+/root/.m2/repository/org/apache/maven/doxia/doxia/1.1
+/root/.m2/repository/org/apache/maven/doxia/doxia/1.1/doxia-1.1.pom.sha1
+/root/.m2/repository/org/apache/maven/doxia/doxia/1.1/doxia-1.1.pom
+/root/.m2/repository/org/apache/maven/doxia/doxia/1.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/doxia/doxia/1.0-alpha-7
+/root/.m2/repository/org/apache/maven/doxia/doxia/1.0-alpha-7/doxia-1.0-alpha-7.pom.sha1
+/root/.m2/repository/org/apache/maven/doxia/doxia/1.0-alpha-7/doxia-1.0-alpha-7.pom
+/root/.m2/repository/org/apache/maven/doxia/doxia/1.0-alpha-7/_maven.repositories
+/root/.m2/repository/org/apache/maven/doxia/doxia-logging-api
+/root/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1
+/root/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.pom.sha1
+/root/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.pom
+/root/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.jar.sha1
+/root/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.jar
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.2.1
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.0.6
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.0.9
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-error-diagnostics/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.2.1
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.6
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.9
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-monitor
+/root/.m2/repository/org/apache/maven/maven-monitor/2.2.1
+/root/.m2/repository/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom
+/root/.m2/repository/org/apache/maven/maven-monitor/2.2.1/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-monitor/2.0.6
+/root/.m2/repository/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.pom
+/root/.m2/repository/org/apache/maven/maven-monitor/2.0.6/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-monitor/2.0.9
+/root/.m2/repository/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-monitor/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/archetypes
+/root/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart
+/root/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart/1.0
+/root/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart/1.0/maven-archetype-quickstart-1.0.jar.sha1
+/root/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart/1.0/maven-archetype-quickstart-1.0.jar
+/root/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart/1.0/_maven.repositories
+/root/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart/1.0/maven-archetype-quickstart-1.0.pom.sha1
+/root/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart/1.0/maven-archetype-quickstart-1.0.pom
+/root/.m2/repository/org/apache/maven/maven-toolchain
+/root/.m2/repository/org/apache/maven/maven-toolchain/1.0
+/root/.m2/repository/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.pom
+/root/.m2/repository/org/apache/maven/maven-toolchain/1.0/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-toolchain/2.0.9
+/root/.m2/repository/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.pom
+/root/.m2/repository/org/apache/maven/maven-toolchain/2.0.9/_maven.repositories
+/root/.m2/repository/org/apache/maven/surefire
+/root/.m2/repository/org/apache/maven/surefire/surefire
+/root/.m2/repository/org/apache/maven/surefire/surefire/2.10
+/root/.m2/repository/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom.sha1
+/root/.m2/repository/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom
+/root/.m2/repository/org/apache/maven/surefire/surefire/2.10/_maven.repositories
+/root/.m2/repository/org/apache/maven/surefire/surefire-booter
+/root/.m2/repository/org/apache/maven/surefire/surefire-booter/2.10
+/root/.m2/repository/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.pom.sha1
+/root/.m2/repository/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.pom
+/root/.m2/repository/org/apache/maven/surefire/surefire-booter/2.10/_maven.repositories
+/root/.m2/repository/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.jar.sha1
+/root/.m2/repository/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.jar
+/root/.m2/repository/org/apache/maven/surefire/surefire-api
+/root/.m2/repository/org/apache/maven/surefire/surefire-api/2.10
+/root/.m2/repository/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.pom.sha1
+/root/.m2/repository/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.pom
+/root/.m2/repository/org/apache/maven/surefire/surefire-api/2.10/_maven.repositories
+/root/.m2/repository/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar.sha1
+/root/.m2/repository/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar
+/root/.m2/repository/org/apache/maven/surefire/maven-surefire-common
+/root/.m2/repository/org/apache/maven/surefire/maven-surefire-common/2.10
+/root/.m2/repository/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.pom.sha1
+/root/.m2/repository/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.pom
+/root/.m2/repository/org/apache/maven/surefire/maven-surefire-common/2.10/_maven.repositories
+/root/.m2/repository/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.jar.sha1
+/root/.m2/repository/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.jar
+/root/.m2/repository/org/apache/maven/surefire/surefire-junit3
+/root/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.10
+/root/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.pom.sha1
+/root/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.pom
+/root/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.10/_maven.repositories
+/root/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar.sha1
+/root/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar
+/root/.m2/repository/org/apache/maven/surefire/surefire-providers
+/root/.m2/repository/org/apache/maven/surefire/surefire-providers/2.10
+/root/.m2/repository/org/apache/maven/surefire/surefire-providers/2.10/surefire-providers-2.10.pom.sha1
+/root/.m2/repository/org/apache/maven/surefire/surefire-providers/2.10/surefire-providers-2.10.pom
+/root/.m2/repository/org/apache/maven/surefire/surefire-providers/2.10/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-archiver
+/root/.m2/repository/org/apache/maven/maven-archiver/2.4.2
+/root/.m2/repository/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom.sha1
+/root/.m2/repository/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+/root/.m2/repository/org/apache/maven/maven-archiver/2.4.2/_maven.repositories
+/root/.m2/repository/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar.sha1
+/root/.m2/repository/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar
+/root/.m2/repository/org/apache/apache
+/root/.m2/repository/org/apache/apache/7
+/root/.m2/repository/org/apache/apache/7/apache-7.pom.sha1
+/root/.m2/repository/org/apache/apache/7/apache-7.pom
+/root/.m2/repository/org/apache/apache/7/_maven.repositories
+/root/.m2/repository/org/apache/apache/10
+/root/.m2/repository/org/apache/apache/10/apache-10.pom.sha1
+/root/.m2/repository/org/apache/apache/10/apache-10.pom
+/root/.m2/repository/org/apache/apache/10/_maven.repositories
+/root/.m2/repository/org/apache/apache/9
+/root/.m2/repository/org/apache/apache/9/apache-9.pom.sha1
+/root/.m2/repository/org/apache/apache/9/apache-9.pom
+/root/.m2/repository/org/apache/apache/9/_maven.repositories
+/root/.m2/repository/org/apache/apache/4
+/root/.m2/repository/org/apache/apache/4/apache-4.pom.sha1
+/root/.m2/repository/org/apache/apache/4/apache-4.pom
+/root/.m2/repository/org/apache/apache/4/_maven.repositories
+/root/.m2/repository/org/apache/apache/6
+/root/.m2/repository/org/apache/apache/6/apache-6.pom.sha1
+/root/.m2/repository/org/apache/apache/6/apache-6.pom
+/root/.m2/repository/org/apache/apache/6/_maven.repositories
+/root/.m2/repository/org/apache/apache/16
+/root/.m2/repository/org/apache/apache/16/apache-16.pom.sha1
+/root/.m2/repository/org/apache/apache/16/apache-16.pom
+/root/.m2/repository/org/apache/apache/16/_maven.repositories
+/root/.m2/repository/org/apache/apache/5
+/root/.m2/repository/org/apache/apache/5/apache-5.pom.sha1
+/root/.m2/repository/org/apache/apache/5/apache-5.pom
+/root/.m2/repository/org/apache/apache/5/_maven.repositories
+/root/.m2/repository/org/apache/apache/11
+/root/.m2/repository/org/apache/apache/11/apache-11.pom.sha1
+/root/.m2/repository/org/apache/apache/11/apache-11.pom
+/root/.m2/repository/org/apache/apache/11/_maven.repositories
+/root/.m2/repository/org/apache/apache/3
+/root/.m2/repository/org/apache/apache/3/apache-3.pom.sha1
+/root/.m2/repository/org/apache/apache/3/apache-3.pom
+/root/.m2/repository/org/apache/apache/3/_maven.repositories
+/root/.m2/repository/org/apache/commons
+/root/.m2/repository/org/apache/commons/commons-parent
+/root/.m2/repository/org/apache/commons/commons-parent/24
+/root/.m2/repository/org/apache/commons/commons-parent/24/commons-parent-24.pom.sha1
+/root/.m2/repository/org/apache/commons/commons-parent/24/commons-parent-24.pom
+/root/.m2/repository/org/apache/commons/commons-parent/24/_maven.repositories
+/root/.m2/repository/org/apache/commons/commons-parent/9
+/root/.m2/repository/org/apache/commons/commons-parent/9/commons-parent-9.pom.sha1
+/root/.m2/repository/org/apache/commons/commons-parent/9/commons-parent-9.pom
+/root/.m2/repository/org/apache/commons/commons-parent/9/_maven.repositories
+/root/.m2/repository/org/apache/commons/commons-parent/11
+/root/.m2/repository/org/apache/commons/commons-parent/11/commons-parent-11.pom.sha1
+/root/.m2/repository/org/apache/commons/commons-parent/11/commons-parent-11.pom
+/root/.m2/repository/org/apache/commons/commons-parent/11/_maven.repositories
+/root/.m2/repository/org/apache/velocity
+/root/.m2/repository/org/apache/velocity/velocity
+/root/.m2/repository/org/apache/velocity/velocity/1.5
+/root/.m2/repository/org/apache/velocity/velocity/1.5/velocity-1.5.pom.sha1
+/root/.m2/repository/org/apache/velocity/velocity/1.5/velocity-1.5.pom
+/root/.m2/repository/org/apache/velocity/velocity/1.5/_maven.repositories
+/root/.m2/repository/org/apache/velocity/velocity/1.5/velocity-1.5.jar.sha1
+/root/.m2/repository/org/apache/velocity/velocity/1.5/velocity-1.5.jar
+/root/.m2/repository/org/apache/ant
+/root/.m2/repository/org/apache/ant/ant
+/root/.m2/repository/org/apache/ant/ant/1.8.1
+/root/.m2/repository/org/apache/ant/ant/1.8.1/ant-1.8.1.pom.sha1
+/root/.m2/repository/org/apache/ant/ant/1.8.1/ant-1.8.1.pom
+/root/.m2/repository/org/apache/ant/ant/1.8.1/_maven.repositories
+/root/.m2/repository/org/apache/ant/ant/1.8.1/ant-1.8.1.jar.sha1
+/root/.m2/repository/org/apache/ant/ant/1.8.1/ant-1.8.1.jar
+/root/.m2/repository/org/apache/ant/ant-parent
+/root/.m2/repository/org/apache/ant/ant-parent/1.8.1
+/root/.m2/repository/org/apache/ant/ant-parent/1.8.1/ant-parent-1.8.1.pom.sha1
+/root/.m2/repository/org/apache/ant/ant-parent/1.8.1/ant-parent-1.8.1.pom
+/root/.m2/repository/org/apache/ant/ant-parent/1.8.1/_maven.repositories
+/root/.m2/repository/org/codehaus
+/root/.m2/repository/org/codehaus/mojo
+/root/.m2/repository/org/codehaus/mojo/maven-metadata-central.xml.sha1
+/root/.m2/repository/org/codehaus/mojo/maven-metadata-central.xml
+/root/.m2/repository/org/codehaus/mojo/resolver-status.properties
+/root/.m2/repository/org/codehaus/plexus
+/root/.m2/repository/org/codehaus/plexus/plexus-utils
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.4.1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.4.1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.0.4
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.0.4/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.5
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.5/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.15
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.15/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.8
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.8/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.5
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.5/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+/root/.m2/repository/org/codehaus/plexus/plexus
+/root/.m2/repository/org/codehaus/plexus/plexus/3.3.1
+/root/.m2/repository/org/codehaus/plexus/plexus/3.3.1/plexus-3.3.1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus/3.3.1/plexus-3.3.1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus/3.3.1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.7
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.7/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.2
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.2/plexus-2.0.2.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.2/plexus-2.0.2.pom
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.2/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.4
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.4/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.3
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.3/plexus-2.0.3.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.3/plexus-2.0.3.pom
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.3/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.10
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.10/plexus-1.0.10.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.10/plexus-1.0.10.pom
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.10/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.9
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.9/plexus-1.0.9.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.9/plexus-1.0.9.pom
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.9/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.11
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.11/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.6
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom
+/root/.m2/repository/org/codehaus/plexus/plexus/2.0.6/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus/3.0.1
+/root/.m2/repository/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus/3.0.1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.8
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+/root/.m2/repository/org/codehaus/plexus/plexus/1.0.8/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-component-annotations
+/root/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5
+/root/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-containers
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.5.5
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.5.5/plexus-containers-1.5.5.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.5.5/plexus-containers-1.5.5.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.5.5/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.0.3
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.0.3/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.0-alpha-16
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.0-alpha-16/plexus-containers-1.0-alpha-16.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.0-alpha-16/plexus-containers-1.0-alpha-16.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-containers/1.0-alpha-16/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.11
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.11/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.12
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.12/plexus-interpolation-1.12.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.12/plexus-interpolation-1.12.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.12/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.13
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.13/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-components
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.14
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.14/plexus-components-1.1.14.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.14/plexus-components-1.1.14.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.14/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.15
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.15/plexus-components-1.1.15.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.15/plexus-components-1.1.15.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.15/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.9
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.9/plexus-components-1.1.9.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.9/plexus-components-1.1.9.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.9/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.18
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.18/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.19
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.19/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.7
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-components/1.1.7/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-8
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-velocity
+/root/.m2/repository/org/codehaus/plexus/plexus-velocity/1.1.8
+/root/.m2/repository/org/codehaus/plexus/plexus-velocity/1.1.8/plexus-velocity-1.1.8.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-velocity/1.1.8/plexus-velocity-1.1.8.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-velocity/1.1.8/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-velocity/1.1.8/plexus-velocity-1.1.8.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-velocity/1.1.8/plexus-velocity-1.1.8.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-6
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-6/plexus-interactivity-api-1.0-alpha-6.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-6/plexus-interactivity-api-1.0-alpha-6.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-6/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-6/plexus-interactivity-api-1.0-alpha-6.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-6/plexus-interactivity-api-1.0-alpha-6.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity/1.0-alpha-6
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity/1.0-alpha-6/plexus-interactivity-1.0-alpha-6.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity/1.0-alpha-6/plexus-interactivity-1.0-alpha-6.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-interactivity/1.0-alpha-6/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-component-api
+/root/.m2/repository/org/codehaus/plexus/plexus-component-api/1.0-alpha-16
+/root/.m2/repository/org/codehaus/plexus/plexus-component-api/1.0-alpha-16/plexus-component-api-1.0-alpha-16.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-component-api/1.0-alpha-16/plexus-component-api-1.0-alpha-16.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-component-api/1.0-alpha-16/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-classworlds
+/root/.m2/repository/org/codehaus/plexus/plexus-classworlds/1.2-alpha-7
+/root/.m2/repository/org/codehaus/plexus/plexus-classworlds/1.2-alpha-7/plexus-classworlds-1.2-alpha-7.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-classworlds/1.2-alpha-7/plexus-classworlds-1.2-alpha-7.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-classworlds/1.2-alpha-7/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-api
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-api/1.8.1
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-api/1.8.1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler/1.8.1
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler/1.8.1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-manager
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-manager/1.8.1
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-manager/1.8.1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-javac
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-javac/1.8.1
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-javac/1.8.1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-compilers
+/root/.m2/repository/org/codehaus/plexus/plexus-compilers/1.8.1
+/root/.m2/repository/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-compilers/1.8.1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-archiver
+/root/.m2/repository/org/codehaus/plexus/plexus-archiver/2.0.1
+/root/.m2/repository/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-archiver/2.0.1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-io
+/root/.m2/repository/org/codehaus/plexus/plexus-io/2.0.1
+/root/.m2/repository/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-io/2.0.1/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar
+/root/.m2/repository/org/codehaus/plexus/plexus-digest
+/root/.m2/repository/org/codehaus/plexus/plexus-digest/1.0
+/root/.m2/repository/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+/root/.m2/repository/org/codehaus/plexus/plexus-digest/1.0/_maven.repositories
+/root/.m2/repository/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar.sha1
+/root/.m2/repository/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+/root/.m2/repository/org/codehaus/groovy
+/root/.m2/repository/org/codehaus/groovy/groovy
+/root/.m2/repository/org/codehaus/groovy/groovy/1.8.3
+/root/.m2/repository/org/codehaus/groovy/groovy/1.8.3/groovy-1.8.3.pom.sha1
+/root/.m2/repository/org/codehaus/groovy/groovy/1.8.3/groovy-1.8.3.pom
+/root/.m2/repository/org/codehaus/groovy/groovy/1.8.3/_maven.repositories
+/root/.m2/repository/org/codehaus/groovy/groovy/1.8.3/groovy-1.8.3.jar.sha1
+/root/.m2/repository/org/codehaus/groovy/groovy/1.8.3/groovy-1.8.3.jar
+/root/.m2/repository/org/sonatype
+/root/.m2/repository/org/sonatype/spice
+/root/.m2/repository/org/sonatype/spice/spice-parent
+/root/.m2/repository/org/sonatype/spice/spice-parent/17
+/root/.m2/repository/org/sonatype/spice/spice-parent/17/spice-parent-17.pom.sha1
+/root/.m2/repository/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
+/root/.m2/repository/org/sonatype/spice/spice-parent/17/_maven.repositories
+/root/.m2/repository/org/sonatype/spice/spice-parent/12
+/root/.m2/repository/org/sonatype/spice/spice-parent/12/spice-parent-12.pom.sha1
+/root/.m2/repository/org/sonatype/spice/spice-parent/12/spice-parent-12.pom
+/root/.m2/repository/org/sonatype/spice/spice-parent/12/_maven.repositories
+/root/.m2/repository/org/sonatype/spice/spice-parent/10
+/root/.m2/repository/org/sonatype/spice/spice-parent/10/spice-parent-10.pom.sha1
+/root/.m2/repository/org/sonatype/spice/spice-parent/10/spice-parent-10.pom
+/root/.m2/repository/org/sonatype/spice/spice-parent/10/_maven.repositories
+/root/.m2/repository/org/sonatype/spice/spice-parent/16
+/root/.m2/repository/org/sonatype/spice/spice-parent/16/spice-parent-16.pom.sha1
+/root/.m2/repository/org/sonatype/spice/spice-parent/16/spice-parent-16.pom
+/root/.m2/repository/org/sonatype/spice/spice-parent/16/_maven.repositories
+/root/.m2/repository/org/sonatype/forge
+/root/.m2/repository/org/sonatype/forge/forge-parent
+/root/.m2/repository/org/sonatype/forge/forge-parent/10
+/root/.m2/repository/org/sonatype/forge/forge-parent/10/forge-parent-10.pom.sha1
+/root/.m2/repository/org/sonatype/forge/forge-parent/10/forge-parent-10.pom
+/root/.m2/repository/org/sonatype/forge/forge-parent/10/_maven.repositories
+/root/.m2/repository/org/sonatype/forge/forge-parent/4
+/root/.m2/repository/org/sonatype/forge/forge-parent/4/forge-parent-4.pom.sha1
+/root/.m2/repository/org/sonatype/forge/forge-parent/4/forge-parent-4.pom
+/root/.m2/repository/org/sonatype/forge/forge-parent/4/_maven.repositories
+/root/.m2/repository/org/sonatype/forge/forge-parent/3
+/root/.m2/repository/org/sonatype/forge/forge-parent/3/forge-parent-3.pom.sha1
+/root/.m2/repository/org/sonatype/forge/forge-parent/3/forge-parent-3.pom
+/root/.m2/repository/org/sonatype/forge/forge-parent/3/_maven.repositories
+/root/.m2/repository/org/sonatype/forge/forge-parent/5
+/root/.m2/repository/org/sonatype/forge/forge-parent/5/forge-parent-5.pom.sha1
+/root/.m2/repository/org/sonatype/forge/forge-parent/5/forge-parent-5.pom
+/root/.m2/repository/org/sonatype/forge/forge-parent/5/_maven.repositories
+/root/.m2/repository/org/sonatype/plexus
+/root/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher
+/root/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3
+/root/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.pom.sha1
+/root/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.pom
+/root/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/_maven.repositories
+/root/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar.sha1
+/root/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar
+/root/.m2/repository/org/sonatype/plexus/plexus-cipher
+/root/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4
+/root/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom.sha1
+/root/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom
+/root/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/_maven.repositories
+/root/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar.sha1
+/root/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar
+/root/.m2/repository/org/sonatype/plexus/plexus-build-api
+/root/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.4
+/root/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.pom.sha1
+/root/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.pom
+/root/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.4/_maven.repositories
+/root/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.jar.sha1
+/root/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.jar
+/root/.m2/repository/org/hamcrest
+/root/.m2/repository/org/hamcrest/hamcrest-core
+/root/.m2/repository/org/hamcrest/hamcrest-core/1.3
+/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom.sha1
+/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/_maven.repositories
+/root/.m2/repository/org/hamcrest/hamcrest-parent
+/root/.m2/repository/org/hamcrest/hamcrest-parent/1.3
+/root/.m2/repository/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom.sha1
+/root/.m2/repository/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+/root/.m2/repository/org/hamcrest/hamcrest-parent/1.3/_maven.repositories
+/root/.m2/repository/org/slf4j
+/root/.m2/repository/org/slf4j/slf4j-jdk14
+/root/.m2/repository/org/slf4j/slf4j-jdk14/1.5.6
+/root/.m2/repository/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom.sha1
+/root/.m2/repository/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom
+/root/.m2/repository/org/slf4j/slf4j-jdk14/1.5.6/_maven.repositories
+/root/.m2/repository/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar.sha1
+/root/.m2/repository/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar
+/root/.m2/repository/org/slf4j/slf4j-parent
+/root/.m2/repository/org/slf4j/slf4j-parent/1.5.6
+/root/.m2/repository/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom.sha1
+/root/.m2/repository/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom
+/root/.m2/repository/org/slf4j/slf4j-parent/1.5.6/_maven.repositories
+/root/.m2/repository/org/slf4j/slf4j-api
+/root/.m2/repository/org/slf4j/slf4j-api/1.5.6
+/root/.m2/repository/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom.sha1
+/root/.m2/repository/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
+/root/.m2/repository/org/slf4j/slf4j-api/1.5.6/_maven.repositories
+/root/.m2/repository/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar.sha1
+/root/.m2/repository/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar
+/root/.m2/repository/org/slf4j/jcl-over-slf4j
+/root/.m2/repository/org/slf4j/jcl-over-slf4j/1.5.6
+/root/.m2/repository/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom.sha1
+/root/.m2/repository/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom
+/root/.m2/repository/org/slf4j/jcl-over-slf4j/1.5.6/_maven.repositories
+/root/.m2/repository/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar.sha1
+/root/.m2/repository/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar
+/root/.m2/repository/org/beanshell
+/root/.m2/repository/org/beanshell/bsh
+/root/.m2/repository/org/beanshell/bsh/2.0b4
+/root/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.pom.sha1
+/root/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.pom
+/root/.m2/repository/org/beanshell/bsh/2.0b4/_maven.repositories
+/root/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar.sha1
+/root/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar
+/root/.m2/repository/org/beanshell/beanshell
+/root/.m2/repository/org/beanshell/beanshell/2.0b4
+/root/.m2/repository/org/beanshell/beanshell/2.0b4/beanshell-2.0b4.pom.sha1
+/root/.m2/repository/org/beanshell/beanshell/2.0b4/beanshell-2.0b4.pom
+/root/.m2/repository/org/beanshell/beanshell/2.0b4/_maven.repositories
+/root/.m2/repository/net
+/root/.m2/repository/net/sourceforge
+/root/.m2/repository/net/sourceforge/jchardet
+/root/.m2/repository/net/sourceforge/jchardet/jchardet
+/root/.m2/repository/net/sourceforge/jchardet/jchardet/1.0
+/root/.m2/repository/net/sourceforge/jchardet/jchardet/1.0/jchardet-1.0.pom.sha1
+/root/.m2/repository/net/sourceforge/jchardet/jchardet/1.0/jchardet-1.0.pom
+/root/.m2/repository/net/sourceforge/jchardet/jchardet/1.0/_maven.repositories
+/root/.m2/repository/net/sourceforge/jchardet/jchardet/1.0/jchardet-1.0.jar.sha1
+/root/.m2/repository/net/sourceforge/jchardet/jchardet/1.0/jchardet-1.0.jar
+/root/.m2/repository/dom4j
+/root/.m2/repository/dom4j/dom4j
+/root/.m2/repository/dom4j/dom4j/1.6.1
+/root/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom.sha1
+/root/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+/root/.m2/repository/dom4j/dom4j/1.6.1/_maven.repositories
+/root/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar.sha1
+/root/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+/root/.m2/repository/xml-apis
+/root/.m2/repository/xml-apis/xml-apis
+/root/.m2/repository/xml-apis/xml-apis/1.0.b2
+/root/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom.sha1
+/root/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+/root/.m2/repository/xml-apis/xml-apis/1.0.b2/_maven.repositories
+/root/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar.sha1
+/root/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+/root/.m2/repository/jdom
+/root/.m2/repository/jdom/jdom
+/root/.m2/repository/jdom/jdom/1.0
+/root/.m2/repository/jdom/jdom/1.0/jdom-1.0.pom.sha1
+/root/.m2/repository/jdom/jdom/1.0/jdom-1.0.pom
+/root/.m2/repository/jdom/jdom/1.0/_maven.repositories
+/root/.m2/repository/jdom/jdom/1.0/jdom-1.0.jar.sha1
+/root/.m2/repository/jdom/jdom/1.0/jdom-1.0.jar
+/root/.m2/repository/junit
+/root/.m2/repository/junit/junit
+/root/.m2/repository/junit/junit/4.11
+/root/.m2/repository/junit/junit/4.11/junit-4.11.pom.sha1
+/root/.m2/repository/junit/junit/4.11/junit-4.11.pom
+/root/.m2/repository/junit/junit/4.11/_maven.repositories
+/root/.m2/repository/junit/junit/3.8.1
+/root/.m2/repository/junit/junit/3.8.1/junit-3.8.1.pom.sha1
+/root/.m2/repository/junit/junit/3.8.1/junit-3.8.1.pom
+/root/.m2/repository/junit/junit/3.8.1/_maven.repositories
+/root/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar.sha1
+/root/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar
+/root/.m2/repository/classworlds
+/root/.m2/repository/classworlds/classworlds
+/root/.m2/repository/classworlds/classworlds/1.1-alpha-2
+/root/.m2/repository/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom.sha1
+/root/.m2/repository/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+/root/.m2/repository/classworlds/classworlds/1.1-alpha-2/_maven.repositories
+/root/.m2/repository/classworlds/classworlds/1.1
+/root/.m2/repository/classworlds/classworlds/1.1/classworlds-1.1.pom.sha1
+/root/.m2/repository/classworlds/classworlds/1.1/classworlds-1.1.pom
+/root/.m2/repository/classworlds/classworlds/1.1/_maven.repositories
+/root/.m2/repository/backport-util-concurrent
+/root/.m2/repository/backport-util-concurrent/backport-util-concurrent
+/root/.m2/repository/backport-util-concurrent/backport-util-concurrent/3.1
+/root/.m2/repository/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.pom.sha1
+/root/.m2/repository/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.pom
+/root/.m2/repository/backport-util-concurrent/backport-util-concurrent/3.1/_maven.repositories
+/root/.m2/repository/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar.sha1
+/root/.m2/repository/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar
+/root/.m2/repository/commons-io
+/root/.m2/repository/commons-io/commons-io
+/root/.m2/repository/commons-io/commons-io/2.2
+/root/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.pom.sha1
+/root/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.pom
+/root/.m2/repository/commons-io/commons-io/2.2/_maven.repositories
+/root/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.jar.sha1
+/root/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.jar
+/root/.m2/repository/commons-collections
+/root/.m2/repository/commons-collections/commons-collections
+/root/.m2/repository/commons-collections/commons-collections/3.2.1
+/root/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom.sha1
+/root/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+/root/.m2/repository/commons-collections/commons-collections/3.2.1/_maven.repositories
+/root/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar.sha1
+/root/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar
+/root/.m2/repository/commons-lang
+/root/.m2/repository/commons-lang/commons-lang
+/root/.m2/repository/commons-lang/commons-lang/2.1
+/root/.m2/repository/commons-lang/commons-lang/2.1/commons-lang-2.1.pom.sha1
+/root/.m2/repository/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+/root/.m2/repository/commons-lang/commons-lang/2.1/_maven.repositories
+/root/.m2/repository/commons-lang/commons-lang/2.1/commons-lang-2.1.jar.sha1
+/root/.m2/repository/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+/root/.m2/repository/oro
+/root/.m2/repository/oro/oro
+/root/.m2/repository/oro/oro/2.0.8
+/root/.m2/repository/oro/oro/2.0.8/oro-2.0.8.pom.sha1
+/root/.m2/repository/oro/oro/2.0.8/oro-2.0.8.pom
+/root/.m2/repository/oro/oro/2.0.8/_maven.repositories
+/root/.m2/repository/oro/oro/2.0.8/oro-2.0.8.jar.sha1
+/root/.m2/repository/oro/oro/2.0.8/oro-2.0.8.jar
+/root/.m2/repository/commons-cli
+/root/.m2/repository/commons-cli/commons-cli
+/root/.m2/repository/commons-cli/commons-cli/1.2
+/root/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.pom.sha1
+/root/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.pom
+/root/.m2/repository/commons-cli/commons-cli/1.2/_maven.repositories
+/root/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar.sha1
+/root/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar
+/root/.m2/repository/commons-cli/commons-cli/1.0
+/root/.m2/repository/commons-cli/commons-cli/1.0/commons-cli-1.0.pom.sha1
+/root/.m2/repository/commons-cli/commons-cli/1.0/commons-cli-1.0.pom
+/root/.m2/repository/commons-cli/commons-cli/1.0/_maven.repositories
+/root/.m2/repository/commons-cli/commons-cli/1.0/commons-cli-1.0.jar.sha1
+/root/.m2/repository/commons-cli/commons-cli/1.0/commons-cli-1.0.jar
+/root/.m2/repository/antlr
+/root/.m2/repository/antlr/antlr
+/root/.m2/repository/antlr/antlr/2.7.7
+/root/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.pom.sha1
+/root/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.pom
+/root/.m2/repository/antlr/antlr/2.7.7/_maven.repositories
+/root/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar.sha1
+/root/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar
+/root/.m2/repository/asm
+/root/.m2/repository/asm/asm
+/root/.m2/repository/asm/asm/3.2
+/root/.m2/repository/asm/asm/3.2/asm-3.2.pom.sha1
+/root/.m2/repository/asm/asm/3.2/asm-3.2.pom
+/root/.m2/repository/asm/asm/3.2/_maven.repositories
+/root/.m2/repository/asm/asm/3.2/asm-3.2.jar.sha1
+/root/.m2/repository/asm/asm/3.2/asm-3.2.jar
+/root/.m2/repository/asm/asm-parent
+/root/.m2/repository/asm/asm-parent/3.2
+/root/.m2/repository/asm/asm-parent/3.2/asm-parent-3.2.pom.sha1
+/root/.m2/repository/asm/asm-parent/3.2/asm-parent-3.2.pom
+/root/.m2/repository/asm/asm-parent/3.2/_maven.repositories
+/root/.m2/repository/asm/asm-commons
+/root/.m2/repository/asm/asm-commons/3.2
+/root/.m2/repository/asm/asm-commons/3.2/asm-commons-3.2.pom.sha1
+/root/.m2/repository/asm/asm-commons/3.2/asm-commons-3.2.pom
+/root/.m2/repository/asm/asm-commons/3.2/_maven.repositories
+/root/.m2/repository/asm/asm-commons/3.2/asm-commons-3.2.jar.sha1
+/root/.m2/repository/asm/asm-commons/3.2/asm-commons-3.2.jar
+/root/.m2/repository/asm/asm-tree
+/root/.m2/repository/asm/asm-tree/3.2
+/root/.m2/repository/asm/asm-tree/3.2/asm-tree-3.2.pom.sha1
+/root/.m2/repository/asm/asm-tree/3.2/asm-tree-3.2.pom
+/root/.m2/repository/asm/asm-tree/3.2/_maven.repositories
+/root/.m2/repository/asm/asm-tree/3.2/asm-tree-3.2.jar.sha1
+/root/.m2/repository/asm/asm-tree/3.2/asm-tree-3.2.jar
+/root/.m2/repository/asm/asm-util
+/root/.m2/repository/asm/asm-util/3.2
+/root/.m2/repository/asm/asm-util/3.2/asm-util-3.2.pom.sha1
+/root/.m2/repository/asm/asm-util/3.2/asm-util-3.2.pom
+/root/.m2/repository/asm/asm-util/3.2/_maven.repositories
+/root/.m2/repository/asm/asm-util/3.2/asm-util-3.2.jar.sha1
+/root/.m2/repository/asm/asm-util/3.2/asm-util-3.2.jar
+/root/.m2/repository/asm/asm-analysis
+/root/.m2/repository/asm/asm-analysis/3.2
+/root/.m2/repository/asm/asm-analysis/3.2/asm-analysis-3.2.pom.sha1
+/root/.m2/repository/asm/asm-analysis/3.2/asm-analysis-3.2.pom
+/root/.m2/repository/asm/asm-analysis/3.2/_maven.repositories
+/root/.m2/repository/asm/asm-analysis/3.2/asm-analysis-3.2.jar.sha1
+/root/.m2/repository/asm/asm-analysis/3.2/asm-analysis-3.2.jar
+/root/.m2/repository/com
+/root/.m2/repository/com/ibm
+/root/.m2/repository/com/ibm/app
+/root/.m2/repository/com/ibm/app/myproj
+/root/.m2/repository/com/ibm/app/myproj/1.0-SNAPSHOT
+/root/.m2/repository/com/ibm/app/myproj/1.0-SNAPSHOT/myproj-1.0-SNAPSHOT.jar
+/root/.m2/repository/com/ibm/app/myproj/1.0-SNAPSHOT/_maven.repositories
+/root/.m2/repository/com/ibm/app/myproj/1.0-SNAPSHOT/myproj-1.0-SNAPSHOT.pom
+/root/.m2/repository/com/ibm/app/myproj/1.0-SNAPSHOT/maven-metadata-local.xml
+/root/.m2/repository/com/ibm/app/myproj/maven-metadata-local.xml
+[root@ip-172-31-37-202 ~]# find / -name myproj
+/root/.m2/repository/com/ibm/app/myproj
+/devops/myproj
+[root@ip-172-31-37-202 ~]# cd /devops/myproj
+[root@ip-172-31-37-202 myproj]# ls
+pom.xml  src  target
+[root@ip-172-31-37-202 myproj]# vi pom.xml
+[root@ip-172-31-37-202 myproj]# mvn deploy
+[ERROR] Error executing Maven.
+[ERROR] 1 problem was encountered while building the effective settings
+[FATAL] Non-parseable settings /usr/local/maven/conf/settings.xml: only whitespace content allowed before start tag and not n (position: START_DOCUMENT seen n... @1:1)  @ /usr/local/maven/conf/settings.xml, line 1, column 1
+
+[root@ip-172-31-37-202 myproj]# vi /usr/local/maven/conf/settings.xml
+[root@ip-172-31-37-202 myproj]# mvn deploy
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building myproj 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+Downloading: http://ipaddress:8081/content/groups/public/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 0.514s
+[INFO] Finished at: Wed May 18 23:46:49 EDT 2016
+[INFO] Final Memory: 4M/15M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Plugin org.apache.maven.plugins:maven-resources-plugin:2.5 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-resources-plugin:jar:2.5: Could not transfer artifact org.apache.maven.plugins:maven-resources-plugin:pom:2.5 from/to nexus (http://ipaddress:8081/content/groups/public): ipaddress: Unknown host ipaddress -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/PluginResolutionException
+[root@ip-172-31-37-202 myproj]# vi pom.xml
+[root@ip-172-31-37-202 myproj]# vi pom.xml
+[root@ip-172-31-37-202 myproj]# vi /usr/local/maven/conf/settings.xml
+[root@ip-172-31-37-202 myproj]# mvn clean deploy
+\[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building myproj 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom                                                                                                               4Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom (5 KB at 10.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom (13 KB at 92.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/16/maven-parent-16.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/16/maven-parent-16.pom (23 KB at 199.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/apache/7/apache-7.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/apache/7/apache-7.pom (15 KB at 115.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar (23 KB at 176.9 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom (7 KB at 56.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom (11 KB at 106.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/19/maven-parent-19.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/19/maven-parent-19.pom (25 KB at 212.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/apache/9/apache-9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/apache/9/apache-9.pom (15 KB at 138.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar (26 KB at 214.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom (8 KB at 78.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar (29 KB at 186.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom (11 KB at 92.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom (12 KB at 128.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/20/maven-parent-20.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/20/maven-parent-20.pom (25 KB at 216.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar (30 KB at 182.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom (6 KB at 34.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom (13 KB at 116.1 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar (32 KB at 233.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom (5 KB at 50.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar (23 KB at 149.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom (6 KB at 54.8 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom (13 KB at 122.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/21/maven-parent-21.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/21/maven-parent-21.pom (26 KB at 260.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/apache/10/apache-10.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/apache/10/apache-10.pom (15 KB at 114.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar (27 KB at 267.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/junit/junit/3.8.1/junit-3.8.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/junit/junit/3.8.1/junit-3.8.1.pom (998 B at 11.6 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/junit/junit/3.8.1/junit-3.8.1.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/junit/junit/3.8.1/junit-3.8.1.jar (119 KB at 844.5 KB/sec)
+[INFO]
+[INFO] --- maven-clean-plugin:2.4.1:clean (default-clean) @ myproj ---
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom (2 KB at 16.9 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven/2.0.6/maven-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven/2.0.6/maven-2.0.6.pom (9 KB at 122.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/5/maven-parent-5.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/5/maven-parent-5.pom (15 KB at 173.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/apache/3/apache-3.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/apache/3/apache-3.pom (4 KB at 42.9 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom (4 KB at 30.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom (17 KB at 167.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar (218 KB at 1165.5 KB/sec)
+[INFO] Deleting /devops/myproj/target
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ myproj ---
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom (3 KB at 33.9 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom (2 KB at 25.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom (3 KB at 36.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom (2 KB at 24.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom (9 KB at 94.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom (4 KB at 34.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom (492 B at 4.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom (6 KB at 72.8 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom (7 KB at 59.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom (4 KB at 36.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom (2 KB at 18.8 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom (3 KB at 23.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom (2 KB at 17.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom (2 KB at 18.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom (2 KB at 20.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.pom (7 KB at 54.6 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.pom (2 KB at 19.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom (2 KB at 17.6 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom (2 KB at 16.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.pom (424 B at 4.9 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/doxia/doxia/1.0-alpha-7/doxia-1.0-alpha-7.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/doxia/doxia/1.0-alpha-7/doxia-1.0-alpha-7.pom (4 KB at 33.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.pom (2 KB at 17.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/commons-cli/commons-cli/1.0/commons-cli-1.0.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/commons-cli/commons-cli/1.0/commons-cli-1.0.pom (3 KB at 18.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.pom (2 KB at 22.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.pom (7 KB at 60.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.pom (2 KB at 10.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/classworlds/classworlds/1.1/classworlds-1.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/classworlds/classworlds/1.1/classworlds-1.1.pom (4 KB at 31.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom (6 KB at 49.8 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom (9 KB at 85.9 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.pom (7 KB at 60.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.2/plexus-2.0.2.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.2/plexus-2.0.2.pom (12 KB at 90.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.12/plexus-interpolation-1.12.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.12/plexus-interpolation-1.12.pom (889 B at 8.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.14/plexus-components-1.1.14.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.14/plexus-components-1.1.14.pom (6 KB at 47.1 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.pom (3 KB at 25.9 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/sonatype/spice/spice-parent/10/spice-parent-10.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/sonatype/spice/spice-parent/10/spice-parent-10.pom (3 KB at 24.1 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/sonatype/forge/forge-parent/3/forge-parent-3.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/sonatype/forge/forge-parent/3/forge-parent-3.pom (5 KB at 45.1 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.pom (8 KB at 106.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.pom (890 B at 10.1 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.15/plexus-components-1.1.15.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.15/plexus-components-1.1.15.pom (3 KB at 26.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.3/plexus-2.0.3.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.3/plexus-2.0.3.pom (16 KB at 184.1 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/commons-cli/commons-cli/1.0/commons-cli-1.0.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar (10 KB at 103.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar (14 KB at 73.6 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar (6 KB at 18.5 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.jar (7 KB at 28.4 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar (42 KB at 129.4 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/commons-cli/commons-cli/1.0/commons-cli-1.0.jar (30 KB at 88.6 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.jar (60 KB at 308.9 KB/sec)
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /devops/myproj/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ myproj ---
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.pom (4 KB at 34.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom (805 B at 5.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom (4 KB at 28.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom (6 KB at 44.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom (17 KB at 162.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.pom (6 KB at 58.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom (713 B at 9.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom (710 B at 9.6 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom (2 KB at 15.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar (20 KB at 240.7 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar (6 KB at 46.8 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar (13 KB at 110.2 KB/sec)
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /devops/myproj/target/classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ myproj ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /devops/myproj/src/test/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ myproj ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /devops/myproj/target/test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.10:test (default-test) @ myproj ---
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom (2 KB at 14.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven/2.0.9/maven-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven/2.0.9/maven-2.0.9.pom (19 KB at 156.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/8/maven-parent-8.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/8/maven-parent-8.pom (24 KB at 181.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/apache/4/apache-4.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/apache/4/apache-4.pom (5 KB at 43.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.pom (3 KB at 34.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.pom (3 KB at 17.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.pom (4 KB at 47.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom (4 KB at 57.9 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/sonatype/spice/spice-parent/16/spice-parent-16.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/sonatype/spice/spice-parent/16/spice-parent-16.pom (9 KB at 118.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/sonatype/forge/forge-parent/5/forge-parent-5.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/sonatype/forge/forge-parent/5/forge-parent-5.pom (9 KB at 68.6 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom (2 KB at 22.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom (3 KB at 21.9 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom (3 KB at 27.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom (4 KB at 28.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom (3 KB at 20.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom (3 KB at 34.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom (2 KB at 27.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom (2 KB at 20.1 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom (8 KB at 63.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom (2 KB at 18.1 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom (2 KB at 14.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom (2 KB at 15.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom (2 KB at 14.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom (3 KB at 24.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom (2 KB at 12.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.pom (4 KB at 37.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.pom (4 KB at 43.6 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-shared-components/12/maven-shared-components-12.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-shared-components/12/maven-shared-components-12.pom (10 KB at 97.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/13/maven-parent-13.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-parent/13/maven-parent-13.pom (23 KB at 185.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/apache/6/apache-6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/apache/6/apache-6.pom (13 KB at 115.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom (2 KB at 9.8 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-booter/2.10/surefire-booter-2.10.jar (34 KB at 324.1 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.jar (31 KB at 224.7 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/maven-surefire-common/2.10/maven-surefire-common-2.10.jar (60 KB at 429.7 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar (158 KB at 753.8 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar (10 KB at 71.2 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.jar (220 KB at 870.0 KB/sec)
+[INFO] Surefire report directory: /devops/myproj/target/surefire-reports
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.pom (2 KB at 26.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-providers/2.10/surefire-providers-2.10.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-providers/2.10/surefire-providers-2.10.pom (3 KB at 33.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar (26 KB at 296.8 KB/sec)
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.ibm.app.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.3.2:jar (default-jar) @ myproj ---
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom (4 KB at 46.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom (3 KB at 33.9 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/sonatype/spice/spice-parent/17/spice-parent-17.pom (7 KB at 101.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/sonatype/forge/forge-parent/10/forge-parent-10.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/sonatype/forge/forge-parent/10/forge-parent-10.pom (14 KB at 123.8 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom (4 KB at 41.8 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom (2 KB at 23.1 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom (3 KB at 41.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom (19 KB at 165.3 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/commons-lang/commons-lang/2.1/commons-lang-2.1.pom (10 KB at 110.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar (20 KB at 171.7 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar (57 KB at 465.1 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/commons-lang/commons-lang/2.1/commons-lang-2.1.jar (203 KB at 939.1 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar (221 KB at 964.1 KB/sec)
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar (176 KB at 645.9 KB/sec)
+[INFO] Building jar: /devops/myproj/target/myproj-1.0-SNAPSHOT.jar
+[INFO]
+[INFO] --- maven-install-plugin:2.3.1:install (default-install) @ myproj ---
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom (2 KB at 14.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom (5 KB at 60.7 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom (8 KB at 89.4 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom (8 KB at 82.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar (12 KB at 152.4 KB/sec)
+[INFO] Installing /devops/myproj/target/myproj-1.0-SNAPSHOT.jar to /devops/myproj/{Local Repository]/com/ibm/app/myproj/1.0-SNAPSHOT/myproj-1.0-SNAPSHOT.jar
+[INFO] Installing /devops/myproj/pom.xml to /devops/myproj/{Local Repository]/com/ibm/app/myproj/1.0-SNAPSHOT/myproj-1.0-SNAPSHOT.pom
+[INFO]
+[INFO] --- maven-deploy-plugin:2.7:deploy (default-deploy) @ myproj ---
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom (6 KB at 43.5 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom (10 KB at 74.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.jar
+Downloaded: http://52.36.113.38:8081/content/groups/public/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.jar (245 KB at 1599.2 KB/sec)
+Downloading: http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/1.0-SNAPSHOT/maven-metadata.xml
+Uploading: http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/1.0-SNAPSHOT/myproj-1.0-20160519.034929-1.jar
+Uploaded: http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/1.0-SNAPSHOT/myproj-1.0-20160519.034929-1.jar (3 KB at 22.8 KB/sec)
+Uploading: http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/1.0-SNAPSHOT/myproj-1.0-20160519.034929-1.pom
+Uploaded: http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/1.0-SNAPSHOT/myproj-1.0-20160519.034929-1.pom (2 KB at 22.0 KB/sec)
+Downloading: http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/maven-metadata.xml
+Uploading: http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/1.0-SNAPSHOT/maven-metadata.xml
+Uploaded: http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/1.0-SNAPSHOT/maven-metadata.xml (761 B at 16.9 KB/sec)
+Uploading: http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/maven-metadata.xml
+Uploaded: http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/maven-metadata.xml (275 B at 5.4 KB/sec)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 21.790s
+[INFO] Finished at: Wed May 18 23:49:29 EDT 2016
+[INFO] Final Memory: 14M/35M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-37-202 myproj]# ls
+{Local Repository]  pom.xml  src  target
+[root@ip-172-31-37-202 myproj]# wget http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/1.0-SNAPSHOT/
+--2016-05-18 23:53:25--  http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/1.0-SNAPSHOT/
+Connecting to 52.36.113.38:8081... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html’
+
+    [ <=>                                                                                ] 4,453       --.-K/s   in 0s
+
+2016-05-18 23:53:25 (403 MB/s) - ‘index.html’ saved [4453]
+
+[root@ip-172-31-37-202 myproj]# .s
+-bash: .s: command not found
+[root@ip-172-31-37-202 myproj]# history
+    1  yum install wget
+    2  cd /opt
+    3  wget https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-6.4.7-x32.bin
+    4  chmod +x atlassian-jira-6.4.7-x32.bin
+    5   ./atlassian-jira-6.4.7-x32.bin
+    6  wget http://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java-5.1.35.tar.gz
+    7  tar -zxvf mysql-connector-java-5.1.35.tar.gz
+    8  cd /opt/mysql-connector-java-5.1.35
+    9  cp mysql-connector-java-5.1.35-bin.jar /opt/atlassian/jira/lib/
+   10  cd /opt/atlassian/jira/bin/
+   11  service jira status
+   12  service jira start
+   13   chmod +x atlassian-jira-6.4.7-x64.bin
+   14  chmod +x atlassian-jira-6.4.7-x64.bin
+   15  cd ..
+   16   chmod +x atlassian-jira-6.4.7-x64.bin
+   17  chmod +x atlassian-jira-6.4.7-x64.bin
+   18  ls
+   19  wget https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-6.4.7-x64.bin
+   20  chmod +x atlassian-jira-6.4.7-x64.bin
+   21  ./atlassian-jira-6.4.7-x64.bin
+   22  history
+   23   wget https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-6.4.7-x64.bin
+   24  service docker status
+   25  service docker start
+   26  curl -fsSL http://get.docker.com | sh
+   27  sudo usermod -aG docker root
+   28  service docker start
+   29  docker login
+   30  ls
+   31  docker images
+   32  pwd
+   33  ls
+   34  vi Dockerfile
+   35  docker search centos
+   36  vi Dockerfile
+   37  docker buid -t telmerobert/git .
+   38  docker buit -t telmerobert/git .
+   39  docker built -t telmerobert/git .
+   40  docker build -t telmerobert/git .
+   41  docker push telmerobert/git
+   42  vi Dockerfile
+   43  who
+   44  whoami
+   45  who am i
+   46  user
+   47  ls
+   48  clear
+   49  ls
+   50  pwd
+   51  cd ..
+   52  ls
+   53  ls -l
+   54  pwd
+   55  mkdir devops
+   56  ls
+   57  cd devops
+   58  ls
+   59  touch chef.txt vagrant.txt docker.txt bamboo.txt jenkins.txt
+   60  ls -l
+   61  chmod 666 bamboo.txt
+   62  ls
+   63  ls -l
+   64  useradd test
+   65  useradd devops
+   66  useradd prod
+   67  useradd stg
+   68  su - test
+   69  su - stg
+   70  su - test
+   71  ls -l
+   72  cd /home/test
+   73  ls
+   74  ls -l
+   75  chown stg:stg test.txt
+   76  exit
+   77  wget http://mirror.cc.columbia.edu/pub/software/apache/maven/maven-3/3.0.5/binaries/apache-maven-3.0.5-bin.tar.gz
+   78  ls
+   79  tar xzf apache-maven-3.0.5-bin.tar.gz
+   80  ls
+   81  mv apache-maven-3.0.5 /usr/local/
+   82  cd /usr/local
+   83  ls
+   84  mv apache-maven-3.0.5 maven
+   85  ls
+   86  ls -l
+   87  cd maven
+   88  ls
+   89  cd bin
+   90  mvn
+   91  /etc/profile
+   92  yum install nano
+   93  nano /etc/profle
+   94  nano /etc/profile
+   95  whereis java
+   96  locate java
+   97  yum install locate
+   98  find / -name java
+   99  cd /usr/lib/jvm/java-1.6.0-openjdk-1.6.0.39.x86_64/bin/
+  100  ls
+  101  ls -l
+  102  pwd
+  103  nano /etc/profile
+  104  source /etc/profile
+  105  echo $JAVA_HOME
+  106  echo $MAVEN_HOME
+  107  echo $PATH
+  108  mvn
+  109  mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+  110  pwe
+  111  pwd
+  112  cd /
+  113  mkdir devops
+  114  cd devops
+  115  ls
+  116  mvn archetype:generate -DgroupId=com.ibm.app -DartifactId=myproj -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+  117  ls
+  118  cd myproje
+  119  ls
+  120  cd myproj
+  121  ls
+  122  ls -l
+  123  mvn compile
+  124  ls
+  125  cd src
+  126  ls
+  127  cd main
+  128  ls
+  129  cd java
+  130  l
+  131  ls
+  132  cd com
+  133  ls
+  134  cd ibm
+  135  ls
+  136  cd app
+  137  l
+  138  ls
+  139  mvn
+  140  cd ../../../.././/
+  141  cd ..
+  142  l
+  143  ks
+  144  ls
+  145  mvn clean
+  146  ls
+  147  mvn package
+  148  mvn validate
+  149  mvn package
+  150  ls
+  151  cd target
+  152  ls
+  153  cd ..
+  154  ls
+  155  mvn clean
+  156  ls
+  157  mvn compile
+  158  ls
+  159  mvn package
+  160  ls
+  161  cat pom.xml
+  162  mvn install
+  163  cd /root/.m2
+  164  ls
+  165  cd repository
+  166  ls
+  167  cd com
+  168  ls
+  169  cd ibm
+  170  ls
+  171  cd app
+  172  ls
+  173  cd myproj
+  174  ls
+  175  cd 1.0-SNAPSHOT/
+  176  ls
+  177  service docker status
+  178  service docker start
+  179  docker images
+  180  ls
+  181  docker pull sonatype/nexus
+  182  docker run -d -p 8081:8081 --name nexus sonatype/nexus:oss
+  183  docker ps
+  184  cd ..
+  185  find / -name settings.xml
+  186  cat /usr/local/maven/conf/settings.xml
+  187  vi /usr/local/maven/conf/settings.xml
+  188  vi settings.xml
+  189  ls
+  190  mv -f settings.xml /usr/local/maven/conf/settings.xml
+  191  cat /usr/local/maven/conf/settings.xml
+  192  ls
+  193  vi pom.xml
+  194  ls
+  195  pwd
+  196  cd ../../../../../
+  197  cd ..
+  198  ls
+  199  find /root
+  200  find / -name myproj
+  201*
+  202  ls
+  203  vi pom.xml
+  204  mvn deploy
+  205  vi /usr/local/maven/conf/settings.xml
+  206  mvn deploy
+  207  vi pom.xml
+  208  vi /usr/local/maven/conf/settings.xml
+  209  mvn clean deploy
+  210  ls
+  211  wget http://52.36.113.38:8081/content/repositories/snapshots/com/ibm/app/myproj/1.0-SNAPSHOT/
+  212  .s
+  213  history
+[root@ip-172-31-37-202 myproj]#
