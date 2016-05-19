@@ -1,0 +1,106 @@
+favicon.png              nsswitch.conf.bak         sysctl.d
+filesystems              openldap                  systemd
+firewalld                opt                       system-release
+fonts                    os-release                system-release-cpe
+fstab                    pam.d                     tcsd.conf
+gcrypt                   passwd                    terminfo
+gnupg                    passwd-                   test.txt
+GREP_COLORS              pkcs11                    tmpfiles.d
+groff                    pki                       tuned
+group                    pm                        udev
+group-                   polkit-1                  vconsole.conf
+grub2.cfg                popt.d                    virc
+grub.conf                postfix                   wgetrc
+grub.d                   ppp                       wpa_supplicant
+gshadow                  prelink.conf.d            X11
+gshadow-                 printcap                  xdg
+gss                      profile                   xinetd.d
+hiera.yaml               profile.d                 yum
+host.conf                protocols                 yum.conf
+hostname                 pulse                     yum.repos.d
+hosts                    puppet
+[root@ip-172-31-37-202 etc]# cat test.txt
+This is test file for devops class[root@ip-172-31-37-202 etc]# clear
+[root@ip-172-31-37-202 etc]# vi config.pp
+[root@ip-172-31-37-202 etc]# service jenkins status
+Redirecting to /bin/systemctl status  jenkins.service
+? jenkins.service
+   Loaded: not-found (Reason: No such file or directory)
+   Active: inactive (dead)
+[root@ip-172-31-37-202 etc]# service jenkins restart
+Redirecting to /bin/systemctl restart  jenkins.service
+Failed to restart jenkins.service: Unit jenkins.service failed to load: No such                                              file or directory.
+[root@ip-172-31-37-202 etc]# vi jenkins.sh
+[root@ip-172-31-37-202 etc]# cd /etc/puppet/manifests
+[root@ip-172-31-37-202 manifests]# ls
+config.pp  mysql.pp
+[root@ip-172-31-37-202 manifests]# vi config.pp
+[root@ip-172-31-37-202 manifests]# puppet apply -v config.pp
+Info: Loading facts in /etc/puppet/modules/java/lib/facter/java_default_home.rb
+Info: Loading facts in /etc/puppet/modules/java/lib/facter/java_version.rb
+Info: Loading facts in /etc/puppet/modules/java/lib/facter/java_libjvm_path.rb
+Info: Loading facts in /etc/puppet/modules/java/lib/facter/java_major_version.rb
+Info: Loading facts in /etc/puppet/modules/java/lib/facter/java_patch_level.rb
+Info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/facter_dot_d.rb
+Info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/package_provider.rb
+Info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/pe_version.rb
+Info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/puppet_vardir.rb
+Info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/root_home.rb
+Info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/service_provider.rb
+Info: Loading facts in /etc/puppet/modules/python/lib/facter/pip_version.rb
+Info: Loading facts in /etc/puppet/modules/python/lib/facter/python_version.rb
+Info: Loading facts in /etc/puppet/modules/python/lib/facter/virtualenv_version.                                             rb
+Info: Loading facts in /etc/puppet/modules/mysql/lib/facter/mysql_server_id.rb
+Info: Loading facts in /etc/puppet/modules/mysql/lib/facter/mysql_version.rb
+Info: Loading facts in /etc/puppet/modules/staging/lib/facter/staging_http_get.r                                             b
+Info: Loading facts in /etc/puppet/modules/staging/lib/facter/staging_windir.rb
+Notice: Compiled catalog for ip-172-31-37-202.us-west-2.compute.internal in envi                                             ronment production in 0.14 seconds
+Info: Applying configuration version '1463633604'
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: --                                             2016-05-19 00:53:25--  http://pkg.jenkins-ci.org/redhat/jenkins.repo
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: Re                                             solving pkg.jenkins-ci.org (pkg.jenkins-ci.org)... 52.202.51.185
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: Co                                             nnecting to pkg.jenkins-ci.org (pkg.jenkins-ci.org)|52.202.51.185|:80... connect                                             ed.
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: HT                                             TP request sent, awaiting response... 200 OK
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: Le                                             ngth: 75
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: Sa                                             ving to: ‘/etc/yum.repos.d/jenkins.repo’
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns:
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns:                                                   0K                                                       100% 15.7M=0s
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns:
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: 20                                             16-05-19 00:53:25 (15.7 MB/s) - ‘/etc/yum.repos.d/jenkins.repo’ saved [75/75]
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns:
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: Lo                                             aded plugins: amazon-id, rhui-lb, search-disabled-repos
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: Re                                             solving Dependencies
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: --                                             > Running transaction check
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: --                                             -> Package jenkins.noarch 0:2.5-1.1 will be installed
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: --                                             > Finished Dependency Resolution
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns:
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: De                                             pendencies Resolved
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns:
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: ==                                             ==============================================================================
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns:  P                                             ackage           Arch             Version             Repository         Size
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: ==                                             ==============================================================================
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: In                                             stalling:
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns:  j                                             enkins           noarch           2.5-1.1             jenkins            65 M
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns:
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: Tr                                             ansaction Summary
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: ==                                             ==============================================================================
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: In                                             stall  1 Package
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns:
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: To                                             tal download size: 65 M
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: In                                             stalled size: 66 M
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: Is                                              this ok [y/d/N]: Exiting on user command
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: Yo                                             ur transaction was saved, rerun it with:
+Notice: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns:  y                                             um load-transaction /tmp/yum_save_tx.2016-05-19.00-53.F3qqj8.yumtx
+Error: sh /etc/jenkins.sh returned 1 instead of one of [0]
+Error: /Stage[main]/Main/Node[default]/Exec[executing_jenkins_file]/returns: cha                                             nge from notrun to 0 failed: sh /etc/jenkins.sh returned 1 instead of one of [0]
+Notice: Finished catalog run in 2.70 seconds
+[root@ip-172-31-37-202 manifests]# service jenkins status
+Redirecting to /bin/systemctl status  jenkins.service
+? jenkins.service
+   Loaded: not-found (Reason: No such file or directory)
+   Active: inactive (dead)
+[root@ip-172-31-37-202 manifests]# service jenkins start
+Redirecting to /bin/systemctl start  jenkins.service
+Failed to start jenkins.service: Unit jenkins.service failed to load: No such fi                                             le or directory.
+[root@ip-172-31-37-202 manifests]# vi config.pp
+[root@ip-172-31-37-202 manifests]# vi config.pp
+[root@ip-172-31-37-202 manifests]#
