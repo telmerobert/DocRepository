@@ -1,0 +1,256 @@
+login as: ec2-user
+Authenticating with public key "imported-openssh-key"
+Last login: Sun May 22 03:55:24 2016 from 183.82.115.14
+[ec2-user@ip-172-31-38-73 ~]$ cd /etc/puppet/modules
+[ec2-user@ip-172-31-38-73 modules]$ ls
+java  roles  softwares  stdlib
+[ec2-user@ip-172-31-38-73 modules]$ cd roles
+[ec2-user@ip-172-31-38-73 roles]$ ls
+manifests
+[ec2-user@ip-172-31-38-73 roles]$ cd manifest
+-bash: cd: manifest: No such file or directory
+[ec2-user@ip-172-31-38-73 roles]$ ls
+manifests
+[ec2-user@ip-172-31-38-73 roles]$ cd manifests
+[ec2-user@ip-172-31-38-73 manifests]$ ls
+as.pp  build.pp  ci.pp  db.pp  docker.pp  mq.pp  scm.pp
+[ec2-user@ip-172-31-38-73 manifests]$ cd ..
+[ec2-user@ip-172-31-38-73 roles]$ cd ..
+[ec2-user@ip-172-31-38-73 modules]$ cd ..
+[ec2-user@ip-172-31-38-73 puppet]$ ls
+auth.conf  hieradata  hiera.yaml  manifests  modules  puppet.conf  puppetfile.java  Puppetfiles
+[ec2-user@ip-172-31-38-73 puppet]$ pwd
+/etc/puppet
+[ec2-user@ip-172-31-38-73 puppet]$ s
+-bash: s: command not found
+[ec2-user@ip-172-31-38-73 puppet]$ ls
+auth.conf  hieradata  hiera.yaml  manifests  modules  puppet.conf  puppetfile.java  Puppetfiles
+[ec2-user@ip-172-31-38-73 puppet]$ ls -lart
+total 40
+-rw-r--r--.  1 root root  853 Jun  9  2014 puppet.conf
+-rw-r--r--.  1 root root 4178 Jun  9  2014 auth.conf
+drwxr-xr-x.  2 root root 4096 May 21 01:44 manifests
+-rw-r--r--.  1 root root  206 May 21 01:57 hiera.yaml
+drwxr-xr-x.  2 root root    6 May 21 01:57 hieradata
+drwxr-xr-x.  2 root root    6 May 22 00:34 Puppetfiles
+-rw-r--r--.  1 root root  156 May 22 00:41 puppetfile.java
+drwxr-xr-x.  6 root root 4096 May 22 00:41 .
+drwxr-xr-x. 80 root root 8192 May 22 03:58 ..
+drwxr-xr-x.  6 root root   58 May 22 04:00 modules
+[ec2-user@ip-172-31-38-73 puppet]$ touch puppetfile.db puppetfile.build puppetfile.ci puppetfile.mq puppetfile.docker
+touch: cannot touch ‘puppetfile.db’: Permission denied
+touch: cannot touch ‘puppetfile.build’: Permission denied
+touch: cannot touch ‘puppetfile.ci’: Permission denied
+touch: cannot touch ‘puppetfile.mq’: Permission denied
+touch: cannot touch ‘puppetfile.docker’: Permission denied
+[ec2-user@ip-172-31-38-73 puppet]$ sudo touch puppetfile.db puppetfile.build puppetfile.ci puppetfile.mq puppetfile.docker
+[ec2-user@ip-172-31-38-73 puppet]$ ls -l
+total 24
+-rw-r--r--. 1 root root 4178 Jun  9  2014 auth.conf
+drwxr-xr-x. 2 root root    6 May 21 01:57 hieradata
+-rw-r--r--. 1 root root  206 May 21 01:57 hiera.yaml
+drwxr-xr-x. 2 root root 4096 May 21 01:44 manifests
+drwxr-xr-x. 6 root root   58 May 22 04:00 modules
+-rw-r--r--. 1 root root  853 Jun  9  2014 puppet.conf
+-rw-r--r--. 1 root root    0 May 22 06:06 puppetfile.build
+-rw-r--r--. 1 root root    0 May 22 06:06 puppetfile.ci
+-rw-r--r--. 1 root root    0 May 22 06:06 puppetfile.db
+-rw-r--r--. 1 root root    0 May 22 06:06 puppetfile.docker
+-rw-r--r--. 1 root root  156 May 22 00:41 puppetfile.java
+-rw-r--r--. 1 root root    0 May 22 06:06 puppetfile.mq
+drwxr-xr-x. 2 root root    6 May 22 00:34 Puppetfiles
+[ec2-user@ip-172-31-38-73 puppet]$ mv puppetfile.as puppetfile.ci puppetfile.build puppetfile.db puppetfie.aq
+mv: target ‘puppetfie.aq’ is not a directory
+[ec2-user@ip-172-31-38-73 puppet]$ mv puppetfile.as puppetfile.ci puppetfile.build puppetfile.db puppetfile.aq
+mv: target ‘puppetfile.aq’ is not a directory
+[ec2-user@ip-172-31-38-73 puppet]$ mv puppetfile.as puppetfile.ci puppetfile.build puppetfile.db puppetfile.mq
+mv: target ‘puppetfile.mq’ is not a directory
+[ec2-user@ip-172-31-38-73 puppet]$ mv puppetfile.as /etc/puppet/Puppetfiles/
+mv: cannot stat ‘puppetfile.as’: No such file or directory
+[ec2-user@ip-172-31-38-73 puppet]$ mv puppetfile.mq /etc/puppet/Puppetfiles/
+mv: cannot move ‘puppetfile.mq’ to ‘/etc/puppet/Puppetfiles/puppetfile.mq’: Permission denied
+[ec2-user@ip-172-31-38-73 puppet]$ sudo mv puppetfile.mq /etc/puppet/Puppetfiles/
+[ec2-user@ip-172-31-38-73 puppet]$ sudo mv puppetfile.as puppetfile.ci puppetfile.build puppetfile.db puppetfile.aq /etc/puppet/Puppetfiles
+mv: cannot stat ‘puppetfile.as’: No such file or directory
+mv: cannot stat ‘puppetfile.aq’: No such file or directory
+[ec2-user@ip-172-31-38-73 puppet]$ sudo mv puppetfile.ci puppetfile.build puppetfile.db puppetfile.mq /etc/puppet/Puppetfiles
+mv: cannot stat ‘puppetfile.ci’: No such file or directory
+mv: cannot stat ‘puppetfile.build’: No such file or directory
+mv: cannot stat ‘puppetfile.db’: No such file or directory
+mv: cannot stat ‘puppetfile.mq’: No such file or directory
+[ec2-user@ip-172-31-38-73 puppet]$ ls
+auth.conf  hiera.yaml  modules      puppetfile.docker  Puppetfiles
+hieradata  manifests   puppet.conf  puppetfile.java
+[ec2-user@ip-172-31-38-73 puppet]$ cd Puppetfiles/
+[ec2-user@ip-172-31-38-73 Puppetfiles]$ ls
+puppetfile.build  puppetfile.ci  puppetfile.db  puppetfile.mq
+[ec2-user@ip-172-31-38-73 Puppetfiles]$ ls -l
+total 0
+-rw-r--r--. 1 root root 0 May 22 06:06 puppetfile.build
+-rw-r--r--. 1 root root 0 May 22 06:06 puppetfile.ci
+-rw-r--r--. 1 root root 0 May 22 06:06 puppetfile.db
+-rw-r--r--. 1 root root 0 May 22 06:06 puppetfile.mq
+[ec2-user@ip-172-31-38-73 Puppetfiles]$ sudo -i
+[root@ip-172-31-38-73 ~]# cd /etc/puppet/modules
+[root@ip-172-31-38-73 modules]# cd ..
+[root@ip-172-31-38-73 puppet]# mv puppetfile.docker puppetfile.java /etc/puppet/Puppetfiles/
+[root@ip-172-31-38-73 puppet]# ls
+auth.conf  hieradata  hiera.yaml  manifests  modules  puppet.conf  Puppetfiles
+[root@ip-172-31-38-73 puppet]# cat hiera.yaml
+---
+:backends:
+  - yaml
+  - json
+:yaml:
+  :datadir: "/etc/puppet/hieradata/"
+:json:
+  :datadir: "/etc/puppet/hieradata"
+:hierarchy:
+  - "nodes/%{::trusted.certname}"
+  - "virtual/%{::virtual}"
+  - "common"
+[root@ip-172-31-38-73 puppet]# ls
+auth.conf  hieradata  hiera.yaml  manifests  modules  puppet.conf  Puppetfiles
+[root@ip-172-31-38-73 puppet]# cat hiera.yaml
+---
+:backends:
+  - yaml
+  - json
+:yaml:
+  :datadir: "/etc/puppet/hieradata/"
+:json:
+  :datadir: "/etc/puppet/hieradata"
+:hierarchy:
+  - "nodes/%{::trusted.certname}"
+  - "virtual/%{::virtual}"
+  - "common"
+[root@ip-172-31-38-73 puppet]#
+[root@ip-172-31-38-73 puppet]#
+[root@ip-172-31-38-73 puppet]#
+[root@ip-172-31-38-73 puppet]#
+[root@ip-172-31-38-73 puppet]#
+[root@ip-172-31-38-73 puppet]#
+[root@ip-172-31-38-73 puppet]# cd hieradata
+[root@ip-172-31-38-73 hieradata]# ls
+[root@ip-172-31-38-73 hieradata]# touch db.yaml
+[root@ip-172-31-38-73 hieradata]# vi db.yaml
+[root@ip-172-31-38-73 hieradata]# cp db.yaml as.yaml ci.yaml build.yaml
+cp: target ‘build.yaml’ is not a directory
+[root@ip-172-31-38-73 hieradata]# touch db.yaml as.yaml ci.yaml build.yaml
+[root@ip-172-31-38-73 hieradata]# ls -l
+total 4
+-rw-r--r--. 1 root root  0 May 22 06:49 as.yaml
+-rw-r--r--. 1 root root  0 May 22 06:49 build.yaml
+-rw-r--r--. 1 root root  0 May 22 06:49 ci.yaml
+-rw-r--r--. 1 root root 22 May 22 06:49 db.yaml
+[root@ip-172-31-38-73 hieradata]# touch mq.yaml
+[root@ip-172-31-38-73 hieradata]# touch docker.yaml
+[root@ip-172-31-38-73 hieradata]# ls
+as.yaml  build.yaml  ci.yaml  db.yaml  docker.yaml  mq.yaml
+[root@ip-172-31-38-73 hieradata]# ls -l
+total 4
+-rw-r--r--. 1 root root  0 May 22 06:49 as.yaml
+-rw-r--r--. 1 root root  0 May 22 06:49 build.yaml
+-rw-r--r--. 1 root root  0 May 22 06:49 ci.yaml
+-rw-r--r--. 1 root root 22 May 22 06:49 db.yaml
+-rw-r--r--. 1 root root  0 May 22 06:49 docker.yaml
+-rw-r--r--. 1 root root  0 May 22 06:49 mq.yaml
+[root@ip-172-31-38-73 hieradata]# vit as.yaml
+-bash: vit: command not found
+[root@ip-172-31-38-73 hieradata]# vi as.yaml
+[root@ip-172-31-38-73 hieradata]# cat db.yaml
+---
+  -class:role
+
+
+[root@ip-172-31-38-73 hieradata]# ---
+-bash: ---: command not found
+[root@ip-172-31-38-73 hieradata]#   -class:role
+-bash: -class:role: command not found
+[root@ip-172-31-38-73 hieradata]# vi as.yaml
+[root@ip-172-31-38-73 hieradata]# vi build.yaml
+[root@ip-172-31-38-73 hieradata]# vi ci.yaml
+[root@ip-172-31-38-73 hieradata]# vi mq.yaml
+[root@ip-172-31-38-73 hieradata]# ls -l
+total 20
+-rw-r--r--. 1 root root 20 May 22 06:50 as.yaml
+-rw-r--r--. 1 root root 19 May 22 06:51 build.yaml
+-rw-r--r--. 1 root root 19 May 22 06:51 ci.yaml
+-rw-r--r--. 1 root root 22 May 22 06:49 db.yaml
+-rw-r--r--. 1 root root  0 May 22 06:49 docker.yaml
+-rw-r--r--. 1 root root 19 May 22 06:51 mq.yaml
+[root@ip-172-31-38-73 hieradata]# cd ..
+[root@ip-172-31-38-73 puppet]# ls
+auth.conf  hieradata  hiera.yaml  manifests  modules  puppet.conf  Puppetfiles
+[root@ip-172-31-38-73 puppet]# cat hiera.yaml
+---
+:backends:
+  - yaml
+  - json
+:yaml:
+  :datadir: "/etc/puppet/hieradata/"
+:json:
+  :datadir: "/etc/puppet/hieradata"
+:hierarchy:
+  - "nodes/%{::trusted.certname}"
+  - "virtual/%{::virtual}"
+  - "common"
+[root@ip-172-31-38-73 puppet]# cd hieradata
+[root@ip-172-31-38-73 hieradata]# ls
+as.yaml  build.yaml  ci.yaml  db.yaml  docker.yaml  mq.yaml
+[root@ip-172-31-38-73 hieradata]# as.yaml
+-bash: as.yaml: command not found
+[root@ip-172-31-38-73 hieradata]# cat as.yaml
+---
+  -class:role
+`
+[root@ip-172-31-38-73 hieradata]# cd ..
+[root@ip-172-31-38-73 puppet]# ls
+auth.conf  hieradata  hiera.yaml  manifests  modules  puppet.conf  Puppetfiles
+[root@ip-172-31-38-73 puppet]# cd module
+-bash: cd: module: No such file or directory
+[root@ip-172-31-38-73 puppet]# cd modules
+[root@ip-172-31-38-73 modules]# ls
+java  roles  softwares  stdlib
+[root@ip-172-31-38-73 modules]# cd roles
+[root@ip-172-31-38-73 roles]# ls
+manifests
+[root@ip-172-31-38-73 roles]# cd manifests
+[root@ip-172-31-38-73 manifests]# ls
+as.pp  build.pp  ci.pp  db.pp  docker.pp  mq.pp  scm.pp
+[root@ip-172-31-38-73 manifests]# cat as.pp
+class roles::as
+{
+include softwares::java
+}
+
+[root@ip-172-31-38-73 manifests]# cd ..
+[root@ip-172-31-38-73 roles]# cd .
+[root@ip-172-31-38-73 roles]# cd ..
+[root@ip-172-31-38-73 modules]# cd softwares
+[root@ip-172-31-38-73 softwares]# cd manifests
+[root@ip-172-31-38-73 manifests]# ls
+activemq.pp  docker.pp  git.pp  java.pp  jenkins.pp  jira.pp  mysql.pp  nagios.pp  nexus.pp
+[root@ip-172-31-38-73 manifests]# cat java.pp
+class softwares::java
+{
+include ::java
+
+}
+
+[root@ip-172-31-38-73 manifests]# ls
+activemq.pp  docker.pp  git.pp  java.pp  jenkins.pp  jira.pp  mysql.pp  nagios.pp  nexus.pp
+[root@ip-172-31-38-73 manifests]# pwd
+/etc/puppet/modules/softwares/manifests
+[root@ip-172-31-38-73 manifests]# cd ..
+[root@ip-172-31-38-73 softwares]# cd ..
+[root@ip-172-31-38-73 modules]# ls
+java  roles  softwares  stdlib
+[root@ip-172-31-38-73 modules]# cd ..
+[root@ip-172-31-38-73 puppet]# ls
+auth.conf  hieradata  hiera.yaml  manifests  modules  puppet.conf  Puppetfiles
+[root@ip-172-31-38-73 puppet]# cd manifest
+-bash: cd: manifest: No such file or directory
+[root@ip-172-31-38-73 puppet]# cd manifests
+[root@ip-172-31-38-73 manifests]# ls
+directory,  File[test],  order.pp  test  testingorder,  updatefile.pp
