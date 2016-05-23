@@ -1,0 +1,141 @@
+Maven and Nexus Repository setup:
+---------------------------------
+1) Install maven 
+2) create the maven project using below command
+
+mvn archetype:generate -DgroupId=com.mycompany.app 
+-DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart 
+-DinteractiveMode=false
+
+
+3) mvn compile --compiles the source code and creates class files
+4) mvn package --create the war or jar or ear file based on application.
+5) mvn install -- copy the artifact(war,jar,ear) to local repository
+localrepository = /usr/.m2/repository
+6) mvn deploy -- copy the artifact(war,ear,jar) to Remote Nexus Repo.
+
+
+
+
+Nexus Setup:
+
+install the docker using below command:
+curl -fsSL https://get.docker.com/ | sh
+
+start the docker service:
+service docker start
+
+Please install the nexus software using docker.
+
+After
+docker run -d -p 8081:8081 --name nexus sonatype/nexus:oss
+
+Install the Nexus, maven works on default port,8081
+once you install the nexus 
+http://localhost(ipaddress):8081 
+
+
+Replace the local setting.xml from the below settings.xml
+
+<settings>
+  <localRepository>{Local Repository]</localRepository>
+  <servers>
+<!-- This is the username password used to access my nexus repository -->
+    <server>
+       <id>releases</id>
+       <username>deployment</username>
+       <password>deployment123</password> <!-- impossible password here :-) -->
+     </server>
+    <server>
+       <id>snapshots</id>
+       <username>deployment</username>
+       <password>deployment123</password> <!-- impossible password here :-) -->
+     </server>
+    <server>
+       <id>nexus</id>
+       <username>deployment</username>
+       <password>deployment123</password> <!-- impossible password here :-) -->
+     </server>
+  </servers>
+
+  <mirrors>
+    <mirror>
+      <!--This sends everything else to /public -->
+      <id>nexus</id>
+      <mirrorOf>*</mirrorOf>
+<!--      <url>http://nexus.yourdomain.nl/content/groups/public</url> -->
+     <url>http://52.39.149.141:8081/content/groups/public</url>
+    </mirror>
+  </mirrors>
+  <profiles>
+    <profile>
+      <id>nexus</id>
+      <!--Enable snapshots for the built in central repo to direct -->
+      <!--all requests to nexus via the mirror -->
+      <repositories>
+        <repository>
+          <id>central</id>
+          <url>http://central</url>
+          <releases><enabled>true</enabled></releases>
+          <snapshots><enabled>true</enabled></snapshots>
+        </repository>
+      </repositories>
+     <pluginRepositories>
+        <pluginRepository>
+          <id>central</id>
+          <url>http://central</url>
+          <releases><enabled>true</enabled></releases>
+          <snapshots><enabled>true</enabled></snapshots>
+        </pluginRepository>
+      </pluginRepositories>
+    </profile>
+    <!-- if you want to be able to switch to the defaultprofile profile put this in the active profile -->
+    <profile>
+        <id>defaultprofile</id>
+        <repositories>
+            <repository>
+                <id>maven.default</id>
+                <name>default maven repository</name>
+                <url>http://repo1.maven.org/maven2</url>
+                <snapshots>
+                    <enabled>true</enabled>
+                </snapshots>
+            </repository>
+            <repository>
+                <id>maven.snapshot</id>
+                <name>Maven snapshot repository</name>
+                <url>http://people.apache.org/repo/m2-snapshot-repository</url>
+                <snapshots>
+                    <enabled>true</enabled>
+                </snapshots>
+            </repository>
+        </repositories> 
+    </profile>
+  </profiles>
+  <activeProfiles>
+    <!--make the profile active all the time -->
+    <activeProfile>nexus</activeProfile>
+  </activeProfiles>
+</settings>
+
+Update pom.xml
+--------------
+
+Create a new tag:
+<distributionManagement>
+        <repository>
+            <id>releases</id>
+            <name>Releases</name>
+            <url>http://ipaddress:8081/content/repositories/releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>Snapshots</name>
+           <url>http://ipaddress:8081/content/repositories/snapshots</url>
+        </snapshotRepository>
+</distributionManagement>
+
+7)mvn clean deploy 
+
+Once you execute the above command, mvn will compile the source code
+create the package and copy the artifacts to nexus repository.

@@ -1,0 +1,520 @@
+login as: ec2-user
+Authenticating with public key "imported-openssh-key"
+Last login: Fri May 13 00:15:42 2016 from 183.82.115.14
+[ec2-user@ip-172-31-40-128 ~]$ pwd
+/home/ec2-user
+[ec2-user@ip-172-31-40-128 ~]$ sudo -i
+[root@ip-172-31-40-128 ~]# pwd
+/root
+[root@ip-172-31-40-128 ~]# touch Dockerfile
+[root@ip-172-31-40-128 ~]# ls -l
+total 5040
+-rw-------. 1 root root    9944 Nov  9  2015 anaconda-ks.cfg
+-rw-r--r--. 1 root root 5144659 Feb 19  2013 apache-maven-3.0.5-bin.tar.gz
+-rw-r--r--. 1 root root       0 May 13 00:17 Dockerfile
+drwxr-xr-x. 4 root root      75 May 11 23:49 GitRepo
+drwxr-xr-x. 4 root root      43 May  8 04:03 vagrant
+[root@ip-172-31-40-128 ~]# vim Dockerfile
+-bash: vim: command not found
+[root@ip-172-31-40-128 ~]# yum install vim
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+docker-main-repo                                         | 2.9 kB     00:00
+jenkins                                                  | 2.9 kB     00:00
+rhui-REGION-client-config-server-7                       | 2.9 kB     00:00
+rhui-REGION-rhel-server-releases                         | 3.7 kB     00:00
+rhui-REGION-rhel-server-rh-common                        | 3.8 kB     00:00
+(1/2): jenkins/primary_db                                  |  82 kB   00:00
+(2/2): rhui-REGION-rhel-server-releases/7Server/x86_64/pri |  21 MB   00:00
+rhui-REGION-rhel-server-releases/7Server/x86_64/updateinfo | 1.2 MB   00:00
+Resolving Dependencies
+--> Running transaction check
+---> Package vim-enhanced.x86_64 2:7.4.160-1.el7 will be installed
+--> Processing Dependency: vim-common = 2:7.4.160-1.el7 for package: 2:vim-enhan                                             ced-7.4.160-1.el7.x86_64
+--> Processing Dependency: libgpm.so.2()(64bit) for package: 2:vim-enhanced-7.4.                                             160-1.el7.x86_64
+--> Running transaction check
+---> Package gpm-libs.x86_64 0:1.20.7-5.el7 will be installed
+---> Package vim-common.x86_64 2:7.4.160-1.el7 will be installed
+--> Processing Dependency: vim-filesystem for package: 2:vim-common-7.4.160-1.el                                             7.x86_64
+--> Running transaction check
+---> Package vim-filesystem.x86_64 2:7.4.160-1.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package        Arch   Version           Repository                        Size
+================================================================================
+Installing:
+ vim-enhanced   x86_64 2:7.4.160-1.el7   rhui-REGION-rhel-server-releases 1.0 M
+Installing for dependencies:
+ gpm-libs       x86_64 1.20.7-5.el7      rhui-REGION-rhel-server-releases  32 k
+ vim-common     x86_64 2:7.4.160-1.el7   rhui-REGION-rhel-server-releases 5.9 M
+ vim-filesystem x86_64 2:7.4.160-1.el7   rhui-REGION-rhel-server-releases 9.6 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+3 Dependent packages)
+
+Total download size: 7.0 M
+Installed size: 23 M
+Is this ok [y/d/N]: y
+Downloading packages:
+(1/4): gpm-libs-1.20.7-5.el7.x86_64.rpm                    |  32 kB   00:01
+(2/4): vim-enhanced-7.4.160-1.el7.x86_64.rpm               | 1.0 MB   00:00
+(3/4): vim-common-7.4.160-1.el7.x86_64.rpm                 | 5.9 MB   00:01
+(4/4): vim-filesystem-7.4.160-1.el7.x86_64.rpm             | 9.6 kB   00:00
+--------------------------------------------------------------------------------
+Total                                              3.9 MB/s | 7.0 MB  00:01
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : gpm-libs-1.20.7-5.el7.x86_64                                 1/4
+  Installing : 2:vim-filesystem-7.4.160-1.el7.x86_64                        2/4
+  Installing : 2:vim-common-7.4.160-1.el7.x86_64                            3/4
+  Installing : 2:vim-enhanced-7.4.160-1.el7.x86_64                          4/4
+  Verifying  : 2:vim-common-7.4.160-1.el7.x86_64                            1/4
+  Verifying  : 2:vim-filesystem-7.4.160-1.el7.x86_64                        2/4
+  Verifying  : gpm-libs-1.20.7-5.el7.x86_64                                 3/4
+  Verifying  : 2:vim-enhanced-7.4.160-1.el7.x86_64                          4/4
+
+Installed:
+  vim-enhanced.x86_64 2:7.4.160-1.el7
+
+Dependency Installed:
+  gpm-libs.x86_64 0:1.20.7-5.el7           vim-common.x86_64 2:7.4.160-1.el7
+  vim-filesystem.x86_64 2:7.4.160-1.el7
+
+Complete!
+[root@ip-172-31-40-128 ~]# vim Dockerfile
+[root@ip-172-31-40-128 ~]# vim Dockerfile
+[root@ip-172-31-40-128 ~]# vim Dockerfile
+[root@ip-172-31-40-128 ~]# service docker status
+Redirecting to /bin/systemctl status  docker.service
+? docker.service - Docker Application Container Engine
+   Loaded: loaded (/usr/lib/systemd/system/docker.service; disabled; vendor pres                                             et: disabled)
+   Active: active (running) since Tue 2016-05-10 00:06:50 EDT; 3 days ago
+     Docs: https://docs.docker.com
+ Main PID: 1717 (docker)
+   Memory: 85.5M
+   CGroup: /system.slice/docker.service
+           +- 1717 /usr/bin/docker daemon -H fd://
+           +- 1720 docker-containerd -l /var/run/docker/libcontainerd/docker-...
+           +- 9051 docker-containerd-shim 74fe33b73f439b557a2bfbafe8df9d0ab70...
+           +-24143 docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 8888 -...
+           +-24147 docker-containerd-shim 0beefe664e276455fb51ed9b854a6959040...
+
+May 10 00:06:50 ip-172-31-40-128.us-west-2.compute.internal docker[1717]: tim...
+May 10 00:06:50 ip-172-31-40-128.us-west-2.compute.internal systemd[1]: Start...
+May 10 00:28:21 ip-172-31-40-128.us-west-2.compute.internal docker[1717]: tim...
+May 10 23:55:42 ip-172-31-40-128.us-west-2.compute.internal systemd[1]: Start...
+May 11 00:09:33 ip-172-31-40-128.us-west-2.compute.internal docker[1717]: tim...
+May 11 00:09:33 ip-172-31-40-128.us-west-2.compute.internal docker[1717]: tim...
+May 12 00:03:45 ip-172-31-40-128.us-west-2.compute.internal docker[1717]: tim...
+May 12 00:03:46 ip-172-31-40-128.us-west-2.compute.internal docker[1717]: tim...
+May 12 00:34:17 ip-172-31-40-128.us-west-2.compute.internal docker[1717]: tim...
+May 12 00:34:18 ip-172-31-40-128.us-west-2.compute.internal docker[1717]: tim...
+Hint: Some lines were ellipsized, use -l to show in full.
+[root@ip-172-31-40-128 ~]# docker build -t telmerobert/git .
+Sending build context to Docker daemon 151.7 MB
+Step 1 : FROM subak/git
+latest: Pulling from subak/git
+d0ca440e8637: Already exists
+dd236cec9f50: Pull complete
+e46769689364: Pull complete
+Digest: sha256:0f298fca87aa3ea408a5c5a3f01b626d13a582bae462ea4edd2e7354c3e7afc5
+Status: Downloaded newer image for subak/git:latest
+ ---> b5505084c656
+Step 2 : RUN yum install git
+ ---> Running in 62ea7342b9cb
+/bin/sh: yum: not found
+The command '/bin/sh -c yum install git' returned a non-zero code: 127
+[root@ip-172-31-40-128 ~]# docker images
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+leanlabs/git               latest              c93493752fd9        28 hours ago        67.16 MB
+subak/git                  latest              b5505084c656        5 days ago          27.88 MB
+tomcat                     8.0                 18ad1a60fa90        7 days ago          350.8 MB
+tomcat                     latest              18ad1a60fa90        7 days ago          350.8 MB
+python                     latest              ea2606c0ee03        7 days ago          674.4 MB
+governmentpaas/git-ssh     latest              f3f932c295f0        7 days ago          36.01 MB
+dockmob/hadoop             latest              01300924a791        10 weeks ago        244.9 MB
+sequenceiq/hadoop-docker   2.7.1               42efa33d1fa3        5 months ago        1.761 GB
+kenwdelong/nagios          latest              7b31b27b4ee8        5 months ago        519 MB
+blackout/redhat            latest              d7852422d6c5        19 months ago       414.2 MB
+waisbrot/perforce          latest              30d1d5c6956b        23 months ago       215.8 MB
+[root@ip-172-31-40-128 ~]# docker TAG 01300924a791 telmeorbert/hadoop
+[root@ip-172-31-40-128 ~]# docker images
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+leanlabs/git               latest              c93493752fd9        28 hours ago        67.16 MB
+subak/git                  latest              b5505084c656        5 days ago          27.88 MB
+tomcat                     8.0                 18ad1a60fa90        7 days ago          350.8 MB
+tomcat                     latest              18ad1a60fa90        7 days ago          350.8 MB
+python                     latest              ea2606c0ee03        7 days ago          674.4 MB
+governmentpaas/git-ssh     latest              f3f932c295f0        7 days ago          36.01 MB
+dockmob/hadoop             latest              01300924a791        10 weeks ago        244.9 MB
+telmeorbert/hadoop         latest              01300924a791        10 weeks ago        244.9 MB
+sequenceiq/hadoop-docker   2.7.1               42efa33d1fa3        5 months ago        1.761 GB
+kenwdelong/nagios          latest              7b31b27b4ee8        5 months ago        519 MB
+blackout/redhat            latest              d7852422d6c5        19 months ago       414.2 MB
+waisbrot/perforce          latest              30d1d5c6956b        23 months ago       215.8 MB
+[root@ip-172-31-40-128 ~]# docker push telmerobert/hadoop
+The push refers to a repository [docker.io/telmerobert/hadoop]
+Repository does not exist: telmerobert/hadoop
+[root@ip-172-31-40-128 ~]# docker images
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+leanlabs/git               latest              c93493752fd9        28 hours ago        67.16 MB
+subak/git                  latest              b5505084c656        5 days ago          27.88 MB
+tomcat                     8.0                 18ad1a60fa90        7 days ago          350.8 MB
+tomcat                     latest              18ad1a60fa90        7 days ago          350.8 MB
+python                     latest              ea2606c0ee03        7 days ago          674.4 MB
+governmentpaas/git-ssh     latest              f3f932c295f0        7 days ago          36.01 MB
+dockmob/hadoop             latest              01300924a791        10 weeks ago        244.9 MB
+telmeorbert/hadoop         latest              01300924a791        10 weeks ago        244.9 MB
+sequenceiq/hadoop-docker   2.7.1               42efa33d1fa3        5 months ago        1.761 GB
+kenwdelong/nagios          latest              7b31b27b4ee8        5 months ago        519 MB
+blackout/redhat            latest              d7852422d6c5        19 months ago       414.2 MB
+waisbrot/perforce          latest              30d1d5c6956b        23 months ago       215.8 MB
+[root@ip-172-31-40-128 ~]# ls
+anaconda-ks.cfg  apache-maven-3.0.5-bin.tar.gz  Dockerfile  GitRepo  vagrant
+[root@ip-172-31-40-128 ~]# ls
+anaconda-ks.cfg  apache-maven-3.0.5-bin.tar.gz  Dockerfile  GitRepo  vagrant
+[root@ip-172-31-40-128 ~]# vi Dockerfile
+[root@ip-172-31-40-128 ~]# docker build -t telmerobert/git .
+Sending build context to Docker daemon 151.7 MB
+Step 1 : FROM subak/git
+ ---> b5505084c656
+Step 2 : RUN sudo yum install git
+ ---> Running in a94f629ecb92
+/bin/sh: sudo: not found
+The command '/bin/sh -c sudo yum install git' returned a non-zero code: 127
+[root@ip-172-31-40-128 ~]# ls
+anaconda-ks.cfg  apache-maven-3.0.5-bin.tar.gz  Dockerfile  GitRepo  vagrant
+[root@ip-172-31-40-128 ~]# docker images
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+leanlabs/git               latest              c93493752fd9        28 hours ago        67.16 MB
+subak/git                  latest              b5505084c656        5 days ago          27.88 MB
+tomcat                     8.0                 18ad1a60fa90        7 days ago          350.8 MB
+tomcat                     latest              18ad1a60fa90        7 days ago          350.8 MB
+python                     latest              ea2606c0ee03        7 days ago          674.4 MB
+governmentpaas/git-ssh     latest              f3f932c295f0        7 days ago          36.01 MB
+dockmob/hadoop             latest              01300924a791        10 weeks ago        244.9 MB
+telmeorbert/hadoop         latest              01300924a791        10 weeks ago        244.9 MB
+sequenceiq/hadoop-docker   2.7.1               42efa33d1fa3        5 months ago        1.761 GB
+kenwdelong/nagios          latest              7b31b27b4ee8        5 months ago        519 MB
+blackout/redhat            latest              d7852422d6c5        19 months ago       414.2 MB
+waisbrot/perforce          latest              30d1d5c6956b        23 months ago       215.8 MB
+[root@ip-172-31-40-128 ~]# cd ~
+[root@ip-172-31-40-128 ~]# mkdir gitimage
+[root@ip-172-31-40-128 ~]# cd gitimage
+[root@ip-172-31-40-128 gitimage]# ls
+[root@ip-172-31-40-128 gitimage]# touch Dockerfile
+[root@ip-172-31-40-128 gitimage]# vim Dockerfile
+[root@ip-172-31-40-128 gitimage]# docker build -t telmeorbert/mkdir .
+Sending build context to Docker daemon 2.048 kB
+Step 1 : FROM ubuntu
+latest: Pulling from library/ubuntu
+6d28225f8d96: Pull complete
+166102ec41af: Pull complete
+d09bfba2bd6a: Pull complete
+c80dad39a6c0: Pull complete
+a3ed95caeb02: Pull complete
+Digest: sha256:5718d664299eb1db14d87db7bfa6945b28879a67b74f36da3e34f5914866b71c
+Status: Downloaded newer image for ubuntu:latest
+ ---> c5f1cf30c96b
+Step 2 : RUN mkdir test`
+ ---> Running in 56f72e7d5c75
+/bin/sh: 1: Syntax error: EOF in backquote substitution
+The command '/bin/sh -c mkdir test`' returned a non-zero code: 2
+[root@ip-172-31-40-128 gitimage]# vim Dockerfile
+[root@ip-172-31-40-128 gitimage]# docker build -t telmeorbert/mkdir .
+Sending build context to Docker daemon 2.048 kB
+Step 1 : FROM ubuntu
+ ---> c5f1cf30c96b
+Step 2 : RUN mkdir test
+ ---> Running in c594a11763fc
+ ---> 4dc7c36221c1
+Removing intermediate container c594a11763fc
+Successfully built 4dc7c36221c1
+[root@ip-172-31-40-128 gitimage]# docker images
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+telmeorbert/mkdir          latest              4dc7c36221c1        8 seconds ago       120.7 MB
+leanlabs/git               latest              c93493752fd9        28 hours ago        67.16 MB
+subak/git                  latest              b5505084c656        5 days ago          27.88 MB
+tomcat                     8.0                 18ad1a60fa90        7 days ago          350.8 MB
+tomcat                     latest              18ad1a60fa90        7 days ago          350.8 MB
+python                     latest              ea2606c0ee03        7 days ago          674.4 MB
+governmentpaas/git-ssh     latest              f3f932c295f0        7 days ago          36.01 MB
+ubuntu                     latest              c5f1cf30c96b        9 days ago          120.7 MB
+dockmob/hadoop             latest              01300924a791        10 weeks ago        244.9 MB
+telmeorbert/hadoop         latest              01300924a791        10 weeks ago        244.9 MB
+sequenceiq/hadoop-docker   2.7.1               42efa33d1fa3        5 months ago        1.761 GB
+kenwdelong/nagios          latest              7b31b27b4ee8        5 months ago        519 MB
+blackout/redhat            latest              d7852422d6c5        19 months ago       414.2 MB
+waisbrot/perforce          latest              30d1d5c6956b        23 months ago       215.8 MB
+[root@ip-172-31-40-128 gitimage]# docker push telmerobert/mkdir
+The push refers to a repository [docker.io/telmerobert/mkdir]
+Repository does not exist: telmerobert/mkdir
+[root@ip-172-31-40-128 gitimage]# docker images
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+telmeorbert/mkdir          latest              4dc7c36221c1        2 minutes ago       120.7 MB
+leanlabs/git               latest              c93493752fd9        28 hours ago        67.16 MB
+subak/git                  latest              b5505084c656        5 days ago          27.88 MB
+tomcat                     8.0                 18ad1a60fa90        7 days ago          350.8 MB
+tomcat                     latest              18ad1a60fa90        7 days ago          350.8 MB
+python                     latest              ea2606c0ee03        7 days ago          674.4 MB
+governmentpaas/git-ssh     latest              f3f932c295f0        7 days ago          36.01 MB
+ubuntu                     latest              c5f1cf30c96b        9 days ago          120.7 MB
+dockmob/hadoop             latest              01300924a791        10 weeks ago        244.9 MB
+telmeorbert/hadoop         latest              01300924a791        10 weeks ago        244.9 MB
+sequenceiq/hadoop-docker   2.7.1               42efa33d1fa3        5 months ago        1.761 GB
+kenwdelong/nagios          latest              7b31b27b4ee8        5 months ago        519 MB
+blackout/redhat            latest              d7852422d6c5        19 months ago       414.2 MB
+waisbrot/perforce          latest              30d1d5c6956b        23 months ago       215.8 MB
+[root@ip-172-31-40-128 gitimage]# docker push telmeorbert/mkdir
+The push refers to a repository [docker.io/telmeorbert/mkdir]
+317d5256e017: Preparing
+5f70bf18a086: Preparing
+a3b5c80a4eba: Preparing
+7f18b442972b: Preparing
+3ce512daaf78: Preparing
+7aae4540b42d: Waiting
+unauthorized: authentication required
+[root@ip-172-31-40-128 gitimage]# docker login
+Login with your Docker ID to push and pull images from Docker Hub. If you don't have a Docker ID, head over to https://hub.docker.com to create one.
+Username (telmerobert):
+Password:
+Login Succeeded
+[root@ip-172-31-40-128 gitimage]# docker push telmeorbert/mkdir
+The push refers to a repository [docker.io/telmeorbert/mkdir]
+317d5256e017: Preparing
+5f70bf18a086: Preparing
+a3b5c80a4eba: Preparing
+7f18b442972b: Preparing
+3ce512daaf78: Preparing
+7aae4540b42d: Waiting
+unauthorized: authentication required
+[root@ip-172-31-40-128 gitimage]# docker push telmeorbert/puppet
+The push refers to a repository [docker.io/telmeorbert/puppet]
+Repository does not exist: telmeorbert/puppet
+[root@ip-172-31-40-128 gitimage]# docker push telmeorbert/mkdir
+The push refers to a repository [docker.io/telmeorbert/mkdir]
+317d5256e017: Preparing
+5f70bf18a086: Preparing
+a3b5c80a4eba: Preparing
+7f18b442972b: Preparing
+3ce512daaf78: Preparing
+7aae4540b42d: Waiting
+unauthorized: authentication required
+[root@ip-172-31-40-128 gitimage]# docker push telmerobert/mkdir
+The push refers to a repository [docker.io/telmerobert/mkdir]
+Repository does not exist: telmerobert/mkdir
+[root@ip-172-31-40-128 gitimage]# docker images
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+telmeorbert/mkdir          latest              4dc7c36221c1        5 minutes ago       120.7 MB
+leanlabs/git               latest              c93493752fd9        28 hours ago        67.16 MB
+subak/git                  latest              b5505084c656        5 days ago          27.88 MB
+tomcat                     8.0                 18ad1a60fa90        7 days ago          350.8 MB
+tomcat                     latest              18ad1a60fa90        7 days ago          350.8 MB
+python                     latest              ea2606c0ee03        7 days ago          674.4 MB
+governmentpaas/git-ssh     latest              f3f932c295f0        7 days ago          36.01 MB
+ubuntu                     latest              c5f1cf30c96b        9 days ago          120.7 MB
+dockmob/hadoop             latest              01300924a791        10 weeks ago        244.9 MB
+telmeorbert/hadoop         latest              01300924a791        10 weeks ago        244.9 MB
+sequenceiq/hadoop-docker   2.7.1               42efa33d1fa3        5 months ago        1.761 GB
+kenwdelong/nagios          latest              7b31b27b4ee8        5 months ago        519 MB
+blackout/redhat            latest              d7852422d6c5        19 months ago       414.2 MB
+waisbrot/perforce          latest              30d1d5c6956b        23 months ago       215.8 MB
+[root@ip-172-31-40-128 gitimage]# docker push telmerobert/mkdir
+The push refers to a repository [docker.io/telmerobert/mkdir]
+Repository does not exist: telmerobert/mkdir
+[root@ip-172-31-40-128 gitimage]# docker push telmeorbert/mkdir
+The push refers to a repository [docker.io/telmeorbert/mkdir]
+317d5256e017: Preparing
+5f70bf18a086: Preparing
+a3b5c80a4eba: Preparing
+7f18b442972b: Preparing
+3ce512daaf78: Preparing
+7aae4540b42d: Waiting
+unauthorized: authentication required
+[root@ip-172-31-40-128 gitimage]# docker login
+Login with your Docker ID to push and pull images from Docker Hub. If you don't have a Docker ID, head over to https://hub.docker.com to create one.
+Username (telmerobert): docker push telmerobert/hadoop
+Password:
+Error response from daemon: Get https://registry-1.docker.io/v2/: unauthorized: incorrect username or password
+[root@ip-172-31-40-128 gitimage]# docker images
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+telmeorbert/mkdir          latest              4dc7c36221c1        8 minutes ago       120.7 MB
+leanlabs/git               latest              c93493752fd9        29 hours ago        67.16 MB
+subak/git                  latest              b5505084c656        5 days ago          27.88 MB
+tomcat                     8.0                 18ad1a60fa90        7 days ago          350.8 MB
+tomcat                     latest              18ad1a60fa90        7 days ago          350.8 MB
+python                     latest              ea2606c0ee03        7 days ago          674.4 MB
+governmentpaas/git-ssh     latest              f3f932c295f0        7 days ago          36.01 MB
+ubuntu                     latest              c5f1cf30c96b        9 days ago          120.7 MB
+dockmob/hadoop             latest              01300924a791        10 weeks ago        244.9 MB
+telmeorbert/hadoop         latest              01300924a791        10 weeks ago        244.9 MB
+sequenceiq/hadoop-docker   2.7.1               42efa33d1fa3        5 months ago        1.761 GB
+kenwdelong/nagios          latest              7b31b27b4ee8        5 months ago        519 MB
+blackout/redhat            latest              d7852422d6c5        19 months ago       414.2 MB
+waisbrot/perforce          latest              30d1d5c6956b        23 months ago       215.8 MB
+[root@ip-172-31-40-128 gitimage]# docker push telmeorbert/hadoop
+The push refers to a repository [docker.io/telmeorbert/hadoop]
+d60f972b13cc: Preparing
+da7c10911145: Preparing
+443aa842f48e: Preparing
+5f70bf18a086: Preparing
+437d9c1c8ac5: Preparing
+a0be72845bd3: Waiting
+1e17a92b5ead: Waiting
+9140d0c885df: Waiting
+745737c319fa: Waiting
+unauthorized: authentication required
+[root@ip-172-31-40-128 gitimage]# docker login
+Login with your Docker ID to push and pull images from Docker Hub. If you don't have a Docker ID, head over to https://hub.docker.com to create one.
+Username (telmerobert): telmerobert
+Password:
+Login Succeeded
+[root@ip-172-31-40-128 gitimage]# docker push telmeorbert/hadoop
+The push refers to a repository [docker.io/telmeorbert/hadoop]
+d60f972b13cc: Preparing
+da7c10911145: Preparing
+443aa842f48e: Preparing
+5f70bf18a086: Preparing
+437d9c1c8ac5: Preparing
+a0be72845bd3: Waiting
+1e17a92b5ead: Waiting
+9140d0c885df: Waiting
+745737c319fa: Waiting
+unauthorized: authentication required
+[root@ip-172-31-40-128 gitimage]# docker images
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+telmeorbert/mkdir          latest              4dc7c36221c1        10 minutes ago      120.7 MB
+leanlabs/git               latest              c93493752fd9        29 hours ago        67.16 MB
+subak/git                  latest              b5505084c656        5 days ago          27.88 MB
+tomcat                     8.0                 18ad1a60fa90        7 days ago          350.8 MB
+tomcat                     latest              18ad1a60fa90        7 days ago          350.8 MB
+python                     latest              ea2606c0ee03        7 days ago          674.4 MB
+governmentpaas/git-ssh     latest              f3f932c295f0        7 days ago          36.01 MB
+ubuntu                     latest              c5f1cf30c96b        9 days ago          120.7 MB
+dockmob/hadoop             latest              01300924a791        10 weeks ago        244.9 MB
+telmeorbert/hadoop         latest              01300924a791        10 weeks ago        244.9 MB
+sequenceiq/hadoop-docker   2.7.1               42efa33d1fa3        5 months ago        1.761 GB
+kenwdelong/nagios          latest              7b31b27b4ee8        5 months ago        519 MB
+blackout/redhat            latest              d7852422d6c5        19 months ago       414.2 MB
+waisbrot/perforce          latest              30d1d5c6956b        23 months ago       215.8 MB
+[root@ip-172-31-40-128 gitimage]# docker push telmerobert/hadoop
+The push refers to a repository [docker.io/telmerobert/hadoop]
+Repository does not exist: telmerobert/hadoop
+[root@ip-172-31-40-128 gitimage]# docker push telmeorbert/mkdir
+The push refers to a repository [docker.io/telmeorbert/mkdir]
+317d5256e017: Preparing
+5f70bf18a086: Preparing
+a3b5c80a4eba: Preparing
+7f18b442972b: Preparing
+3ce512daaf78: Preparing
+7aae4540b42d: Waiting
+unauthorized: authentication required
+[root@ip-172-31-40-128 gitimage]# ls -l
+total 4
+-rw-r--r--. 1 root root 28 May 13 00:31 Dockerfile
+[root@ip-172-31-40-128 gitimage]# chmod 755 Dockerfile
+[root@ip-172-31-40-128 gitimage]# docker push telmeorbert/mkdir
+The push refers to a repository [docker.io/telmeorbert/mkdir]
+317d5256e017: Preparing
+5f70bf18a086: Preparing
+a3b5c80a4eba: Preparing
+7f18b442972b: Preparing
+3ce512daaf78: Preparing
+7aae4540b42d: Waiting
+unauthorized: authentication required
+[root@ip-172-31-40-128 gitimage]# docker pull telmerobert/git
+Using default tag: latest
+latest: Pulling from telmerobert/git
+6599cadaf950: Pull complete
+23eda618d451: Pull complete
+50e8116e796c: Pull complete
+52de432f084b: Pull complete
+a3ed95caeb02: Pull complete
+33cde462502d: Pull complete
+794b1f69b1e8: Pull complete
+015aa498e687: Pull complete
+9ef085a9170d: Pull complete
+c8964de290ee: Pull complete
+6ae8aeaadee8: Pull complete
+ab1f3d73a0dc: Pull complete
+40320411eef8: Pull complete
+ef6c4aacd15c: Pull complete
+5019556a1f78: Pull complete
+1983018b17b7: Pull complete
+e4ea8886784f: Pull complete
+4814898560af: Pull complete
+1d008c46227f: Pull complete
+Digest: sha256:4219401c9fcd2ade5becbf5dc8c290faf7dee82a68ebc94b975441caacc471eb
+Status: Downloaded newer image for telmerobert/git:latest
+[root@ip-172-31-40-128 gitimage]# docker push  telmerobert/git:latest
+The push refers to a repository [docker.io/telmerobert/git]
+ba7b404dea91: Layer already exists
+5f70bf18a086: Layer already exists
+411d6a726b51: Layer already exists
+6ce77d371275: Layer already exists
+6fdc30c9a195: Layer already exists
+8c39d3a681c5: Layer already exists
+c8a6edd29ae8: Layer already exists
+7ffa0e1d1532: Layer already exists
+fb199ead213d: Layer already exists
+8b4e4df42cb1: Layer already exists
+f05bb619cec9: Layer already exists
+dd2a8b2d629a: Layer already exists
+849813eaba1d: Layer already exists
+dc91369668a5: Layer already exists
+070a9dc4b350: Layer already exists
+5b5be35aaec4: Layer already exists
+ec2c505dcfb4: Layer already exists
+1822b2b47122: Layer already exists
+7394707b3914: Layer already exists
+latest: digest: sha256:a9d20c82c817da2942c4ece035b0567120481cba26b16141401fa149137e5050 size: 18063
+[root@ip-172-31-40-128 gitimage]# docker push telmerobert/git:latest
+The push refers to a repository [docker.io/telmerobert/git]
+ba7b404dea91: Layer already exists
+5f70bf18a086: Layer already exists
+411d6a726b51: Layer already exists
+6ce77d371275: Layer already exists
+6fdc30c9a195: Layer already exists
+8c39d3a681c5: Layer already exists
+c8a6edd29ae8: Layer already exists
+7ffa0e1d1532: Layer already exists
+fb199ead213d: Layer already exists
+8b4e4df42cb1: Layer already exists
+f05bb619cec9: Layer already exists
+dd2a8b2d629a: Layer already exists
+849813eaba1d: Layer already exists
+dc91369668a5: Layer already exists
+070a9dc4b350: Layer already exists
+5b5be35aaec4: Layer already exists
+ec2c505dcfb4: Layer already exists
+1822b2b47122: Layer already exists
+7394707b3914: Layer already exists
+latest: digest: sha256:a9d20c82c817da2942c4ece035b0567120481cba26b16141401fa149137e5050 size: 18063
+[root@ip-172-31-40-128 gitimage]# docker push telmerobert/mkdir:latest
+The push refers to a repository [docker.io/telmerobert/mkdir]
+Repository does not exist: telmerobert/mkdir
+[root@ip-172-31-40-128 gitimage]# docker images
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+telmeorbert/mkdir          latest              4dc7c36221c1        15 minutes ago      120.7 MB
+telmerobert/git            latest              079e878bdbf1        12 hours ago        473 MB
+leanlabs/git               latest              c93493752fd9        29 hours ago        67.16 MB
+subak/git                  latest              b5505084c656        5 days ago          27.88 MB
+tomcat                     8.0                 18ad1a60fa90        7 days ago          350.8 MB
+tomcat                     latest              18ad1a60fa90        7 days ago          350.8 MB
+python                     latest              ea2606c0ee03        7 days ago          674.4 MB
+governmentpaas/git-ssh     latest              f3f932c295f0        7 days ago          36.01 MB
+ubuntu                     latest              c5f1cf30c96b        9 days ago          120.7 MB
+dockmob/hadoop             latest              01300924a791        10 weeks ago        244.9 MB
+telmeorbert/hadoop         latest              01300924a791        10 weeks ago        244.9 MB
+sequenceiq/hadoop-docker   2.7.1               42efa33d1fa3        5 months ago        1.761 GB
+kenwdelong/nagios          latest              7b31b27b4ee8        5 months ago        519 MB
+blackout/redhat            latest              d7852422d6c5        19 months ago       414.2 MB
+waisbrot/perforce          latest              30d1d5c6956b        23 months ago       215.8 MB
+[root@ip-172-31-40-128 gitimage]# vagrant ssh
+-bash: vagrant: command not found
+[root@ip-172-31-40-128 gitimage]#

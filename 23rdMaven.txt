@@ -1,0 +1,8 @@
+Today:
+1) Maven installation
+2) Jenkins installation
+3) Jenkins setup
+4) Jenkins test job execution:
+
+
+create a maven project 

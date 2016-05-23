@@ -1,0 +1,36 @@
+httpswww.digitalocean.comcommunitytutorialshow-to-install-java-on-centos-and-fedora
+
+Java installation:
+-----------------
+sudo yum install java-1.6.0-openjdk===Java installation
+
+sudo yum install java-1.6.0-openjdk-devel==Javac installation
+
+sudo yum install java-1.7.0-openjdk-devel
+
+
+Maven installation:
+--------------------
+wget http://mirror.cc.columbia.edu/pub/software/apache/maven/maven-3/3.0.5/binaries/apache-maven-3.0.5-bin.tar.gz
+
+sudo tar xzf apache-maven-3.0.5-bin.tar.gz -C /usr/local
+
+cd /usr/local
+
+sudo ln -s apache-maven-3.0.5 maven
+
+sudo vi /etc/profile.d/maven.sh
+
+export M2_HOME=/usr/local/maven
+export PATH=${M2_HOME}/bin:${PATH}
+
+
+telmerobert/DevOpsMaterial
+9210
+Provisioning
+
+
+create a maven project:
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+cd your_project

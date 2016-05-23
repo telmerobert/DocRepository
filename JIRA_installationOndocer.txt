@@ -1,0 +1,18 @@
+Install the docker using this command:
+------------------------------------
+sudo yum update
+
+Run the docker installation script
+---------------------------------
+curl -fsSL https://get.docker.com/ | sh
+
+//start the docker service 
+
+sudo service docker start
+
+
+To quickly start the service:
+---------------------------
+docker pull cptactionhank/atlassian-jira
+docker run --detach --publish 8080:8080 cptactionhank/atlassian-jira:latest
+http://dockerhost:8080/

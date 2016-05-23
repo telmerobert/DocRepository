@@ -1,0 +1,5 @@
+Puppet Client-server architecture:
+---------------------------------
+52.40.43.72---PuppetAgent 
+52.34.47.63---PuppetMaster--62
+52.35.30.191--PuppetAgent

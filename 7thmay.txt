@@ -1,0 +1,555 @@
+login as: ec2-user
+Authenticating with public key "imported-openssh-key"
+Last login: Wed May  4 17:47:12 2016 from 202.65.136.11
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux AMI
+      ___|\___|___|
+
+https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
+9 package(s) needed for security, out of 25 available
+Run "sudo yum update" to apply all updates.
+[ec2-user@ip-172-31-32-52 ~]$ service jenkins status
+/etc/sysconfig/jenkins not readable. Perhaps you forgot 'sudo'?
+[ec2-user@ip-172-31-32-52 ~]$ sudo service jenkins status
+jenkins (pid  2404) is running...
+[ec2-user@ip-172-31-32-52 ~]$ vi /var/lib/jenkins/context.xml
+[ec2-user@ip-172-31-32-52 ~]$ cd /var/lib/jenkins
+[ec2-user@ip-172-31-32-52 jenkins]$ ls
+config.xml                                          plugins
+hudson.model.UpdateCenter.xml                       queue.xml.bak
+hudson.plugins.emailext.ExtendedEmailPublisher.xml  secret.key
+hudson.plugins.git.GitTool.xml                      secret.key.not-so-secret
+identity.key.enc                                    secrets
+jenkins.install.InstallUtil.lastExecVersion         updates
+jenkins.install.UpgradeWizard.state                 userContent
+jobs                                                users
+logs                                                workflow-libs
+nodeMonitors.xml                                    workspace
+nodes
+[ec2-user@ip-172-31-32-52 jenkins]$ vi config.xml
+[ec2-user@ip-172-31-32-52 jenkins]$ sudo -i
+[root@ip-172-31-32-52 ~]# cd /var/lib/jenkins
+[root@ip-172-31-32-52 jenkins]# ls
+config.xml                                          plugins
+hudson.model.UpdateCenter.xml                       queue.xml.bak
+hudson.plugins.emailext.ExtendedEmailPublisher.xml  secret.key
+hudson.plugins.git.GitTool.xml                      secret.key.not-so-secret
+identity.key.enc                                    secrets
+jenkins.install.InstallUtil.lastExecVersion         updates
+jenkins.install.UpgradeWizard.state                 userContent
+jobs                                                users
+logs                                                workflow-libs
+nodeMonitors.xml                                    workspace
+nodes
+[root@ip-172-31-32-52 jenkins]# vi config.xml
+[root@ip-172-31-32-52 jenkins]#
+login as: ec2-user
+Authenticating with public key "imported-openssh-key"
+Last login: Fri May  6 17:04:51 2016 from 202.65.136.7
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux AMI
+      ___|\___|___|
+
+https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
+9 package(s) needed for security, out of 25 available
+Run "sudo yum update" to apply all updates.
+[ec2-user@ip-172-31-32-52 ~]$ ls
+apache-maven-3.0.5-bin.tar.gz
+[ec2-user@ip-172-31-32-52 ~]$ ls -l
+total 5028
+-rw-rw-r-- 1 ec2-user ec2-user 5144659 Feb 19  2013 apache-maven-3.0.5-bin.tar.g                                                                                        z
+[ec2-user@ip-172-31-32-52 ~]$ sudo -i
+[root@ip-172-31-32-52 ~]# service jenkins status
+jenkins (pid  2404) is running...
+[root@ip-172-31-32-52 ~]# cd /var/lib/jenkins
+[root@ip-172-31-32-52 jenkins]# ls
+config.xml                                          plugins
+hudson.model.UpdateCenter.xml                       queue.xml.bak
+hudson.plugins.emailext.ExtendedEmailPublisher.xml  secret.key
+hudson.plugins.git.GitTool.xml                      secret.key.not-so-secret
+identity.key.enc                                    secrets
+jenkins.install.InstallUtil.lastExecVersion         updates
+jenkins.install.UpgradeWizard.state                 userContent
+jobs                                                users
+logs                                                workflow-libs
+nodeMonitors.xml                                    workspace
+nodes
+[root@ip-172-31-32-52 jenkins]# vi config.xml
+[root@ip-172-31-32-52 jenkins]# service jenkins start
+Starting Jenkins                                           [  OK  ]
+[root@ip-172-31-32-52 jenkins]# service jenkins restart
+Shutting down Jenkins                                      [  OK  ]
+Starting Jenkins                                           [  OK  ]
+[root@ip-172-31-32-52 jenkins]# ls -l
+total 80
+-rw-r--r--  1 jenkins jenkins 1594 May  6 17:26 config.xml
+-rw-r--r--  1 jenkins jenkins  159 May  6 17:27 hudson.model.UpdateCenter.xml
+-rw-r--r--  1 jenkins jenkins 1119 May  3 04:14 hudson.plugins.emailext.Extended                                                                                        EmailPublisher.xml
+-rw-r--r--  1 jenkins jenkins  371 May  3 04:08 hudson.plugins.git.GitTool.xml
+-rw-------  1 jenkins jenkins 1680 May  3 03:55 identity.key.enc
+-rw-r--r--  1 jenkins jenkins    3 May  6 17:27 jenkins.install.InstallUtil.last                                                                                        ExecVersion
+-rw-r--r--  1 jenkins jenkins    3 May  3 03:55 jenkins.install.UpgradeWizard.st                                                                                        ate
+drwxr-xr-x  4 jenkins jenkins 4096 May  3 04:48 jobs
+drwxr-xr-x  3 jenkins jenkins 4096 May  3 03:55 logs
+-rw-r--r--  1 jenkins jenkins  907 May  6 17:27 nodeMonitors.xml
+drwxr-xr-x  2 jenkins jenkins 4096 May  3 03:55 nodes
+drwxr-xr-x 60 jenkins jenkins 4096 May  3 04:08 plugins
+-rw-r--r--  1 jenkins jenkins  129 May  6 17:27 queue.xml.bak
+-rw-r--r--  1 jenkins jenkins   64 May  3 03:55 secret.key
+-rw-r--r--  1 jenkins jenkins    0 May  3 03:55 secret.key.not-so-secret
+drwx------  4 jenkins jenkins 4096 May  3 04:44 secrets
+drwxr-xr-x  2 jenkins jenkins 4096 May  6 16:59 updates
+drwxr-xr-x  2 jenkins jenkins 4096 May  3 03:55 userContent
+drwxr-xr-x  3 jenkins jenkins 4096 May  3 03:55 users
+drwxr-xr-x  2 jenkins jenkins 4096 May  3 04:08 workflow-libs
+drwxr-xr-x  4 jenkins jenkins 4096 May  3 04:48 workspace
+[root@ip-172-31-32-52 jenkins]# cd workspace/
+[root@ip-172-31-32-52 workspace]# ls
+Devops  test
+[root@ip-172-31-32-52 workspace]# cd test
+[root@ip-172-31-32-52 test]# ls
+[root@ip-172-31-32-52 test]# ls -l
+total 0
+[root@ip-172-31-32-52 test]# cd ~
+[root@ip-172-31-32-52 ~]# mvn archetype:generate -DgroupId=com.mycompany.app -Da                                                                                        rtifactId=test -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMod                                                                                        e=false
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Maven Stub Project (No POM) 1
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] >>> maven-archetype-plugin:2.4:generate (default-cli) @ standalone-pom >>                                                                                        >
+[INFO]
+[INFO] <<< maven-archetype-plugin:2.4:generate (default-cli) @ standalone-pom <<                                                                                        <
+[INFO]
+[INFO] --- maven-archetype-plugin:2.4:generate (default-cli) @ standalone-pom --                                                                                        -
+[INFO] Generating project in Batch mode
+[INFO] -------------------------------------------------------------------------                                                                                        ---
+[INFO] Using following parameters for creating project from Old (1.x) Archetype:                                                                                         maven-archetype-quickstart:1.0
+[INFO] -------------------------------------------------------------------------                                                                                        ---
+[INFO] Parameter: groupId, Value: com.mycompany.app
+[INFO] Parameter: packageName, Value: com.mycompany.app
+[INFO] Parameter: package, Value: com.mycompany.app
+[INFO] Parameter: artifactId, Value: test
+[INFO] Parameter: basedir, Value: /root
+[INFO] Parameter: version, Value: 1.0-SNAPSHOT
+[INFO] project created from Old (1.x) Archetype in dir: /root/test
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 4.462s
+[INFO] Finished at: Fri May 06 17:32:27 UTC 2016
+[INFO] Final Memory: 11M/39M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-32-52 ~]# ls
+a.txt  b.txt  c.txt  d.txt  e.txt  my-app  test
+[root@ip-172-31-32-52 ~]# cd test
+[root@ip-172-31-32-52 test]# ls
+pom.xml  src
+[root@ip-172-31-32-52 test]# cp -rf . /var/lib/jenkins/workspace/test/
+[root@ip-172-31-32-52 test]# pwd
+/root/test
+[root@ip-172-31-32-52 test]# cd /var/lib/jenkins/workspace/test/
+[root@ip-172-31-32-52 test]# ls
+pom.xml  src
+[root@ip-172-31-32-52 test]# ls -l
+total 8
+-rw-r--r-- 1 root root  638 May  6 17:33 pom.xml
+drwxr-xr-x 4 root root 4096 May  6 17:33 src
+[root@ip-172-31-32-52 test]# chmod 755 -R /var/lib/jenkins
+[root@ip-172-31-32-52 test]# chown jenkins:jenkins -R /var/lib/jenkins/
+[root@ip-172-31-32-52 test]# ls -l
+total 8
+-rwxr-xr-x 1 jenkins jenkins  638 May  6 17:33 pom.xml
+drwxr-xr-x 4 jenkins jenkins 4096 May  6 17:33 src
+[root@ip-172-31-32-52 test]# ls
+pom.xml  src
+[root@ip-172-31-32-52 test]# git init
+Initialized empty Git repository in /var/lib/jenkins/workspace/test/.git/
+[root@ip-172-31-32-52 test]# ls
+pom.xml  src
+[root@ip-172-31-32-52 test]# git add .
+[root@ip-172-31-32-52 test]# git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   pom.xml
+        new file:   src/main/java/com/mycompany/app/App.java
+        new file:   src/test/java/com/mycompany/app/AppTest.java
+
+[root@ip-172-31-32-52 test]# git commit -m "adding all the files"
+[master (root-commit) f1977ba] adding all the files
+ Committer: root <root@ip-172-31-32-52.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 69 insertions(+)
+ create mode 100755 pom.xml
+ create mode 100755 src/main/java/com/mycompany/app/App.java
+ create mode 100755 src/test/java/com/mycompany/app/AppTest.java
+[root@ip-172-31-32-52 test]# git status
+On branch master
+nothing to commit, working directory clean
+[root@ip-172-31-32-52 test]# cd .git
+[root@ip-172-31-32-52 .git]# ls
+branches        config       HEAD   index  logs     refs
+COMMIT_EDITMSG  description  hooks  info   objects
+[root@ip-172-31-32-52 .git]# cd hoooks
+-bash: cd: hoooks: No such file or directory
+[root@ip-172-31-32-52 .git]# cd hooks
+[root@ip-172-31-32-52 hooks]# ls
+applypatch-msg.sample  pre-applypatch.sample      pre-push.sample
+commit-msg.sample      pre-commit.sample          pre-rebase.sample
+post-update.sample     prepare-commit-msg.sample  update.sample
+[root@ip-172-31-32-52 hooks]# mv pre-commit.sample pre-commit
+[root@ip-172-31-32-52 hooks]# ls
+applypatch-msg.sample  pre-applypatch.sample      pre-push.sample
+commit-msg.sample      pre-commit                 pre-rebase.sample
+post-update.sample     prepare-commit-msg.sample  update.sample
+[root@ip-172-31-32-52 hooks]# cd ..
+[root@ip-172-31-32-52 .git]# cd ..
+[root@ip-172-31-32-52 test]# pwd
+/var/lib/jenkins/workspace/test
+[root@ip-172-31-32-52 test]# ls
+pom.xml  src
+[root@ip-172-31-32-52 test]# ls -l
+total 8
+-rwxr-xr-x 1 jenkins jenkins  638 May  6 17:33 pom.xml
+drwxr-xr-x 4 jenkins jenkins 4096 May  6 17:33 src
+[root@ip-172-31-32-52 test]# cd src
+[root@ip-172-31-32-52 src]# ls -l
+total 8
+drwxr-xr-x 3 jenkins jenkins 4096 May  6 17:33 main
+drwxr-xr-x 3 jenkins jenkins 4096 May  6 17:33 test
+[root@ip-172-31-32-52 src]# cd main
+[root@ip-172-31-32-52 main]# ls -l
+total 4
+drwxr-xr-x 3 jenkins jenkins 4096 May  6 17:33 java
+[root@ip-172-31-32-52 main]# cd java
+[root@ip-172-31-32-52 java]# ls -l
+total 4
+drwxr-xr-x 3 jenkins jenkins 4096 May  6 17:33 com
+[root@ip-172-31-32-52 java]# cd com
+[root@ip-172-31-32-52 com]# ls -l
+total 4
+drwxr-xr-x 3 jenkins jenkins 4096 May  6 17:33 mycompany
+[root@ip-172-31-32-52 com]# cd mycompany/
+[root@ip-172-31-32-52 mycompany]# ls
+app
+[root@ip-172-31-32-52 mycompany]# cd app
+[root@ip-172-31-32-52 app]# ls
+App.java
+[root@ip-172-31-32-52 app]# ls -l
+total 4
+-rwxr-xr-x 1 jenkins jenkins 180 May  6 17:33 App.java
+[root@ip-172-31-32-52 app]# su - jenkins
+[root@ip-172-31-32-52 app]# cd /var/lib/jenkins/
+[root@ip-172-31-32-52 jenkins]# ls
+config.xml                                          identity.key.enc                             logs              queue.xml.bak             updates        workspace
+hudson.model.UpdateCenter.xml                       jenkins.install.InstallUtil.lastExecVersion  nodeMonitors.xml  secret.key                userContent
+hudson.plugins.emailext.ExtendedEmailPublisher.xml  jenkins.install.UpgradeWizard.state          nodes             secret.key.not-so-secret  users
+hudson.plugins.git.GitTool.xml                      jobs                                         plugins           secrets                   workflow-libs
+[root@ip-172-31-32-52 jenkins]# cd workspace/
+[root@ip-172-31-32-52 workspace]# ls
+Devops  test
+[root@ip-172-31-32-52 workspace]# cd test
+[root@ip-172-31-32-52 test]# ls
+pom.xml  src
+[root@ip-172-31-32-52 test]# mvn compile
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building test 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ test ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /var/lib/jenkins/workspace/test/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ test ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /var/lib/jenkins/workspace/test/target/classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 2.030s
+[INFO] Finished at: Fri May 06 17:47:27 UTC 2016
+[INFO] Final Memory: 7M/18M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-32-52 test]# ls -l
+total 12
+-rwxr-xr-x 1 jenkins jenkins  638 May  6 17:33 pom.xml
+drwxr-xr-x 4 jenkins jenkins 4096 May  6 17:33 src
+drwxr-xr-x 3 root    root    4096 May  6 17:47 target
+[root@ip-172-31-32-52 test]# chmod 755 target
+[root@ip-172-31-32-52 test]# chmod 755 -R target
+[root@ip-172-31-32-52 test]# chown jenkins:jenkins -R target
+[root@ip-172-31-32-52 test]# git add .
+[root@ip-172-31-32-52 test]# git commit -m "add"
+[master 9362d65] add
+ Committer: root <root@ip-172-31-32-52.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100755 target/classes/com/mycompany/app/App.class
+[root@ip-172-31-32-52 test]# git status
+On branch master
+nothing to commit, working directory clean
+[root@ip-172-31-32-52 test]# ls
+pom.xml  src  target
+[root@ip-172-31-32-52 test]# mvn compile
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building test 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ test ---
+[debug] execute contextualize
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /var/lib/jenkins/workspace/test/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ test ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1.380s
+[INFO] Finished at: Fri May 06 17:48:34 UTC 2016
+[INFO] Final Memory: 4M/15M
+[INFO] ------------------------------------------------------------------------
+[root@ip-172-31-32-52 test]# git status
+On branch master
+nothing to commit, working directory clean
+[root@ip-172-31-32-52 test]# cd .git
+[root@ip-172-31-32-52 .git]# ls
+branches  COMMIT_EDITMSG  config  description  HEAD  hooks  index  info  logs  objects  refs
+[root@ip-172-31-32-52 .git]# cat config
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[root@ip-172-31-32-52 .git]# ls -l
+total 44
+drwxr-xr-x  2 root root 4096 May  6 17:35 branches
+-rw-r--r--  1 root root    4 May  6 17:48 COMMIT_EDITMSG
+-rw-r--r--  1 root root   92 May  6 17:35 config
+-rw-r--r--  1 root root   73 May  6 17:35 description
+-rw-r--r--  1 root root   23 May  6 17:35 HEAD
+drwxr-xr-x  2 root root 4096 May  6 17:36 hooks
+-rw-r--r--  1 root root  942 May  6 17:48 index
+drwxr-xr-x  2 root root 4096 May  6 17:35 info
+drwxr-xr-x  3 root root 4096 May  6 17:35 logs
+drwxr-xr-x 28 root root 4096 May  6 17:48 objects
+drwxr-xr-x  4 root root 4096 May  6 17:35 refs
+[root@ip-172-31-32-52 .git]# cd ..
+[root@ip-172-31-32-52 test]# ls -l
+total 12
+-rwxr-xr-x 1 jenkins jenkins  638 May  6 17:33 pom.xml
+drwxr-xr-x 4 jenkins jenkins 4096 May  6 17:33 src
+drwxr-xr-x 3 jenkins jenkins 4096 May  6 17:47 target
+[root@ip-172-31-32-52 test]# cd .git
+[root@ip-172-31-32-52 .git]# ls -l
+total 44
+drwxr-xr-x  2 root root 4096 May  6 17:35 branches
+-rw-r--r--  1 root root    4 May  6 17:48 COMMIT_EDITMSG
+-rw-r--r--  1 root root   92 May  6 17:35 config
+-rw-r--r--  1 root root   73 May  6 17:35 description
+-rw-r--r--  1 root root   23 May  6 17:35 HEAD
+drwxr-xr-x  2 root root 4096 May  6 17:36 hooks
+-rw-r--r--  1 root root  942 May  6 17:48 index
+drwxr-xr-x  2 root root 4096 May  6 17:35 info
+drwxr-xr-x  3 root root 4096 May  6 17:35 logs
+drwxr-xr-x 28 root root 4096 May  6 17:48 objects
+drwxr-xr-x  4 root root 4096 May  6 17:35 refs
+[root@ip-172-31-32-52 .git]# chmod 755 -R /var/lib/jenkins/workspace/test/.git
+[root@ip-172-31-32-52 .git]# chown jenkins:jenkins -R /var/lib/jenkins/workspace/test/.git/
+[root@ip-172-31-32-52 .git]# service jenkins restart
+Shutting down Jenkins                                      [  OK  ]
+Starting Jenkins                                           [  OK  ]
+[root@ip-172-31-32-52 .git]# find / -name git
+/var/lib/jenkins/plugins/git
+/var/lib/jenkins/plugins/git/META-INF/maven/org.jenkins-ci.plugins/git
+/etc/bash_completion.d/git
+/usr/bin/git
+/usr/share/doc/git-2.7.4/contrib/mw-to-git/bin-wrapper/git
+/usr/libexec/git-core/git
+[root@ip-172-31-32-52 .git]# service jenkins restart
+Shutting down Jenkins                                      [  OK  ]
+Starting Jenkins                                           [  OK  ]
+[root@ip-172-31-32-52 .git]# echo $MAVEN_HOME
+
+[root@ip-172-31-32-52 .git]# cd /usr/local/maven
+[root@ip-172-31-32-52 maven]# export MAVEN_HOME=/usr/local/maven
+[root@ip-172-31-32-52 maven]# export PATH=$MAVEN_HOME/bin:$PATH
+[root@ip-172-31-32-52 maven]# echo $MAVEN_HOME
+/usr/local/maven
+[root@ip-172-31-32-52 maven]# service jenkins restart
+Shutting down Jenkins                                      [  OK  ]
+Starting Jenkins                                           [  OK  ]
+[root@ip-172-31-32-52 maven]# cd /var/lib/jenkins/workspace/test
+[root@ip-172-31-32-52 test]# ls
+pom.xml  src  target
+[root@ip-172-31-32-52 test]# ls -l
+total 12
+-rwxr-xr-x 1 jenkins jenkins  638 May  6 17:33 pom.xml
+drwxr-xr-x 4 jenkins jenkins 4096 May  6 17:33 src
+drwxr-xr-x 3 jenkins jenkins 4096 May  6 17:47 target
+[root@ip-172-31-32-52 test]# echo $PATH
+/usr/local/maven/bin:/usr/local/maven/bin:/usr/local/sbin:/sbin:/bin:/usr/sbin:/usr/bin:/opt/aws/bin:/root/bin
+[root@ip-172-31-32-52 test]# service jenkins restart
+Shutting down Jenkins                                      [  OK  ]
+Starting Jenkins                                           [  OK  ]
+[root@ip-172-31-32-52 test]# git status
+HEAD detached at 9362d65
+nothing to commit, working directory clean
+[root@ip-172-31-32-52 test]# git checkout master
+Switched to branch 'master'
+[root@ip-172-31-32-52 test]# ls
+pom.xml  src  target
+[root@ip-172-31-32-52 test]# git checkout pom.xml
+[root@ip-172-31-32-52 test]# vi pom.xml
+[root@ip-172-31-32-52 test]# git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   pom.xml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[root@ip-172-31-32-52 test]# git add .
+[root@ip-172-31-32-52 test]# git commit -m "adding"
+[master 21cd287] adding
+ Committer: root <root@ip-172-31-32-52.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[root@ip-172-31-32-52 test]# git status
+On branch master
+nothing to commit, working directory clean
+[root@ip-172-31-32-52 test]# cd ~
+[root@ip-172-31-32-52 ~]# yum installl puppet
+Loaded plugins: priorities, update-motd, upgrade-helper
+No such command: installl. Please use /usr/bin/yum --help
+[root@ip-172-31-32-52 ~]# et
+-bash: et: command not found
+[root@ip-172-31-32-52 ~]#
+[root@ip-172-31-32-52 ~]# yum install puppet
+Loaded plugins: priorities, update-motd, upgrade-helper
+amzn-main/latest                                                                                                                                 | 2.1 kB     00:00
+amzn-updates/latest                                                                                                                              | 2.3 kB     00:00
+Package puppet-2.7.25-1.7.amzn1.noarch already installed and latest version
+Nothing to do
+[root@ip-172-31-32-52 ~]# puppet -version
+warning: Implicit invocation of 'puppet apply' by passing files (or flags) directly
+to 'puppet' is deprecated, and will be removed in the 2.8 series.  Please
+invoke 'puppet apply' directly in the future.
+
+Could not parse for environment production: Syntax error at end of file at line 1 on node ip-172-31-32-52.us-west-2.compute.internal
+[root@ip-172-31-32-52 ~]# cd /etc/
+[root@ip-172-31-32-52 etc]# cd puppet
+[root@ip-172-31-32-52 puppet]# ls
+auth.conf  puppet.conf
+[root@ip-172-31-32-52 puppet]# mkdir manifests
+[root@ip-172-31-32-52 puppet]# cd manifests
+[root@ip-172-31-32-52 manifests]# vi java.pp
+[root@ip-172-31-32-52 manifests]# java -version
+java version "1.7.0_99"
+OpenJDK Runtime Environment (amzn-2.6.5.0.66.amzn1-x86_64 u99-b00)
+OpenJDK 64-Bit Server VM (build 24.95-b01, mixed mode)
+[root@ip-172-31-32-52 manifests]# mysql
+-bash: mysql: command not found
+[root@ip-172-31-32-52 manifests]# vi mysql.pp
+[root@ip-172-31-32-52 manifests]# cd ..
+[root@ip-172-31-32-52 puppet]# mkdir modules
+[root@ip-172-31-32-52 puppet]# cd modules
+[root@ip-172-31-32-52 modules]# puppet module install puppetlabs-mysql
+Preparing to install into /etc/puppet/modules ...
+Downloading from http://forge.puppetlabs.com ...
+Installing -- do not interrupt ...
+/etc/puppet/modules
++-- puppetlabs-mysql (v3.7.0)
+  +-- nanliu-staging (v1.0.3)
+  +-- puppetlabs-stdlib (v4.12.0)
+[root@ip-172-31-32-52 modules]# ls
+mysql  staging  stdlib
+[root@ip-172-31-32-52 modules]# puppet apply -v /etc/puppet/manifests/mysql.pp
+info: Loading facts in /etc/puppet/modules/staging/lib/facter/staging_http_get.rb
+info: Loading facts in /etc/puppet/modules/staging/lib/facter/staging_windir.rb
+info: Loading facts in /etc/puppet/modules/mysql/lib/facter/mysql_version.rb
+info: Loading facts in /etc/puppet/modules/mysql/lib/facter/mysql_server_id.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/puppet_vardir.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/package_provider.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/pe_version.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/facter_dot_d.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/service_provider.rb
+info: Loading facts in /etc/puppet/modules/stdlib/lib/facter/root_home.rb
+info: Applying configuration version '1462558677'
+notice: /Stage[main]/Mysql::Server::Install/Package[mysql-server]/ensure: created
+info: FileBucket adding {md5}c1b99ef7dce9310bd1ca1447f1584244
+info: /Stage[main]/Mysql::Server::Config/File[mysql-config-file]: Filebucketed /etc/my.cnf to puppet with sum c1b99ef7dce9310bd1ca1447f1584244
+notice: /Stage[main]/Mysql::Server::Config/File[mysql-config-file]/content: content changed '{md5}c1b99ef7dce9310bd1ca1447f1584244' to '{md5}4a56a47b135b41f6840bfc3db07b34ee'
+notice: /Stage[main]/Mysql::Server::Config/File[/etc/my.cnf.d]/ensure: created
+notice: /Stage[main]/Mysql::Server::Installdb/Mysql_datadir[/var/lib/mysql]/ensure: created
+notice: /Stage[main]/Mysql::Server::Service/Service[mysqld]/ensure: ensure changed 'stopped' to 'running'
+info: Creating state file /var/lib/puppet/state/state.yaml
+notice: Finished catalog run in 6.82 seconds
+[root@ip-172-31-32-52 modules]# mysql
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 2
+Server version: 5.5.46 MySQL Community Server (GPL)
+
+Copyright (c) 2000, 2015, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> exit
+Bye
+[root@ip-172-31-32-52 modules]# cd ..
+[root@ip-172-31-32-52 puppet]# cd manifests
+[root@ip-172-31-32-52 manifests]# ls
+java.pp  mysql.pp
+[root@ip-172-31-32-52 manifests]# vi mysql.pp
+[root@ip-172-31-32-52 manifests]#
